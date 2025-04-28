@@ -83,7 +83,7 @@ END ELSE BEGIN
     UNLESS ~CD_STATE_NOTVALID~
 
   // adds ToB scripting commands if SoA-only install
-  INCLUDE ~g3anniversary/lib/tob2soa.tpa~
+  INCLUDE ~g3anniversary/lib/tob2soa.tph~
 
   // force WeiDU to reload altered IDS files
   CLEAR_IDS_MAP
