@@ -1,0 +1,1697 @@
+// string gaps: 158, 353, 409, 523, 1140, 1190
+
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+///// creature/item strings                            \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+
+@101  = ~Numer Pierwszy~
+@102  = ~Numer Drugi~
+@103  = ~Numer Trzeci~
+@104  = ~Numer Czwarty~
+@105  = ~Numer Piąty~
+@106  = ~Numer Szósty~
+@107  = ~Numer Siódmy~
+@108  = ~Numer Ósmy~
+@109  = ~Numer Dziewiąty~
+@110  = ~Numer Dziesiąty~
+@111  = ~Numer Jedenasty~
+@112  = ~Numer Dwunasty~
+@113  = ~Przekręt~
+@114  = ~Aaach! Goń się, koleżko!~
+@115  = ~*upuszcza Bulgoczący wywar*~
+@116  = ~Pies Przekręta~
+@117  = ~Pani Bezgrzywa~
+@118  = ~Drini~
+@119  = ~Wypełniam misję od samych bogów! Muszę iść i, eee, zebrać starą ekipę!~
+@120  = ~Ari~
+@121  = ~Chwisgi Callabacha~
+@122  = ~Chwisgi Callabacha
+
+Po otwarciu tej klarownej, niezwykle mocnej cieczy uderza cię zapach tak ostry i mocny, że nawet kwiaty zaczynają więdnąć. Na tylnej etykiecie widnieje ostrzeżenie: „Wytwórca tego trunku zrzeka się wszelkiej odpowiedzialności za skutki jego spożycia. Pijesz na własne ryzyko.”~
+@123  = ~Barmanka~
+@124  = ~Notatka Driniego~
+@125  = ~Ta stara, postrzępiona kartka śmierdzi – co akurat nie dziwi – zwietrzałym piwem.
+
+Widnieje na niej nabazgrana koślawym pismem lista, nad którą musisz nieźle pomęczyć wzrok, by cokolwiek odczytać:
+
+Trunki Driniego:
+
+Arabellańskie wino wytrawne
+Wibrysa
+Krasnoludzka whiskey
+Biała grappa Dalina
+Portowe ale
+
+Ostatnia linijka to już kompletne gryzmoły, ale zdaje się, że dopisano tam: „Coś mocnego, czego jeszcze nie piłem”.~
+@126  = ~Butelka zatrutego Arabellańskiego wina wytrawnego~
+@127  = ~Butelka zatrutego Arabellańskiego wina wytrawnego
+
+Ta pękata butelka o płaskiej szyjce była wyraźnie intensywnie użytkowana. Na jej lśniącej powierzchni wygrawerowano jakąś pokraczną, rozwścieczoną bestię, a skórzany futerał ozdobiono kamykami, piórami i tym podobnymi drobiazgami. Naczynie to najwyraźniej służyło do noszenia przy sobie alkoholu. W środku zachęcająco mieni się wino o owocowym aromacie, jednak chorobliwie zielonkawy odcień, jaki trunek przybrał w ciągu ostatnich pięciu minut, powinien ostrzec każdego, kto zna się na prawach natury. To niezawodny znak, że napój został zaprawiony zabójczą przyprawą zwaną dławicielką, która najpewniej pochodzi z Chult.
+
+PARAMETRY:
+
+Waga: 1~
+@128  = ~Monique~
+@129  = ~Dewny~
+@130  = ~Bulgoczący wywar Malocholisa~
+@131  = ~Bulgoczący wywar Malocholisa
+
+Legenda głosi, że Thylamon Malocholis, nieprzyzwoicie bogaty właściciel ziemski z Północy, rzucił niegdyś wyzwanie wszystkim chłopom w swoich włościach. Zadanie polegało na uwarzeniu piwa, którego jakość dorównałaby wartości złota zgromadzonego w jego piwnicach. Nagrodą dla zwycięzcy miało być tyle kruszcu, ile tylko zdoła unieść.
+
+Tuziny dzielnych kmieci natychmiast zabrały się do pracy. Do późnych godzin nocnych warzyli dziwaczne, a nierzadko wybuchowe mikstury, lecz żadna z nich nie zdołała zadowolić podniebienia Malocholisa. Mijały tygodnie bezowocnych prób, aż pewnego dnia przed obliczem pana stanął zupełnie niepozorny krasnolud. Składając niski ukłon, oznajmił, że zna sekret trunku doskonałego i zaprezentuje go Malocholisowi za trzy dni. Następnie, przedstawiając się jako Grzmotohuk Młotopikotopór, skłonił się raz jeszcze i odszedł.
+
+Zgodnie z obietnicą, trzy dni później Młotopikotopór powrócił – wyraźnie bledszy i chudszy – i postawił przed Malocholisem pojedynczy kufel spienionego piwa. Gospodarz upił łyk i natychmiast ogłosił krasnoluda zwycięzcą, gdyż w istocie był to napitek wart całego złota z jego piwnic. Zwycięzcę zaprowadzono do skarbca, gdzie odkrył, że Malocholis obracał głównie klejnotami, a nie monetami, wobec czego zapłata za trzy dni wysiłku wyniosła dokładnie czternaście sztuk złota.
+
+Niedługo później Malocholis przekonał się, że para sprawnych rzepek w kolanach warta jest znacznie więcej niż podły żart.
+
+Receptura tego wyśmienitego piwa zaginęła w mrokach dziejów. Choć wielu próbowało odtworzyć jego smak, nikomu aż do dziś się to nie udało. Wędrowny alchemik z pewnością poderżnąłby gardło bliźniemu, byle tylko położyć ręce na tym unikalnym wywarze.
+
+To z całą pewnością coś, czego Drini nigdy wcześniej nie pił.~
+@132  = ~Bary~
+@133  = ~Hersal~
+@134  = ~Robukin Skalna Czaszka~
+@135  = ~Handlarz~
+@136  = ~Ziarna kawy Wyborna java~
+@137  = ~Ziarna kawy Wyborna java
+
+Te ziarna mogą śmiało rywalizować z wszelkimi plonami pochodzącymi z Kara-Tur. Legenda głosi, że wyhodował je stary elficki czarownik. Są dwa razy większe od zwykłych ziaren kawy i mają niezwykle głęboki aromat. Choć parzy się z nich wyśmienity napój, powiada się, że odpowiednio zaklęte przez elfa stają się kluczowym składnikiem lekarstwa na skutki nadmiernego świętowania.~
+@138  = ~Przewodnik Vola po Candlekeep~
+@139  = ~Przewodnik Vola po Candlekeep
+
+Cytadela wiedzy wznosi się na wulkanicznym urwisku, górując nad bezkresnym morzem. Jest to potężna, wielowieżowa warownia, niegdyś domostwo słynnego jasnowidza Alaunda. Do dziś w jej murach pieczołowicie przechowuje się jego przepowiednie oraz wszelkie pisane świadectwa mądrości Krain, jakie tylko zdołano zgromadzić. Candlekeep z pewnością nie jest miejscem wypoczynku ani rozrywki. Niemniej przybysze znajdą tu skromne kramy, świątynię oraz karczmę godną polecenia. Wstęp do samej Twierdzy wymaga daru w postaci księgi, zaś ci, którzy pragną studiować klasztorne zbiory, muszą ofiarować nowy tom o wartości nie mniejszej niż dziesięć tysięcy sztuk złota.
+
+Zaprzysiężeni – mnisi Candlekeep, mieniący się niezależnymi od wszelkich wyznań – skupują również wybrane dzieła, a w wielkiej tajemnicy wynajmują agentów do zdobywania pożądanych woluminów. Ponieważ dostęp do biblioteki zwykle wymaga protekcji wpływowego maga, wiele ksiąg oddawanych w ramach opłaty to jedynie pośledniej jakości grymuary.
+
+Wspólnotą rządzi Strażnik Ksiąg, wspierany przez Pierwszego Czytacza – drugiego w hierarchii i tradycyjnie najmędrszego mędrca konwentu. Pod nimi służy ośmiu Wielkich Czytaczy, którym asystują Kantor, Przewodnik oraz Strażnik Bramy. Kantor przewodzi nieustannym deklamacjom proroctw Alaunda, wspierany przez trzech pomocników znanych jako Głosy Północy, Południa i Wschodu. Przewodnik odpowiada za nauczanie akolitów, zaś Strażnik Bramy czuwa nad gośćmi, bezpieczeństwem, zaopatrzeniem wspólnoty oraz kontaktami z klerem.
+
+Centralną fortecę otacza tarasowy ogród skalny porośnięty drzewami. Krążą również plotki o rozległych lochach pod zamkiem, sięgających czasów starożytnych, gdy służyły jako krypty dla najmędrszych skrybów.
+
+Z nielicznymi wyjątkami żaden gość nie może przebywać w Candlekeep dłużej niż dziesięć dni ani powrócić do klasztoru przed upływem miesiąca od ostatniej wizyty. Porządku w Twierdzy strzeże pięciu podoficerów Strażnika Bramy: czterech strażników oraz Klucznik, z których każdy dowodzi oddziałem uzbrojonych mnichów.
+
+Najniżej w hierarchii stoją Poszukiwacze, zajmujący się badaniami i pracami pomocniczymi. Nad nimi znajdują się Skrybowie, kopiujący dzieła i kompilujący księgi na sprzedaż – główne źródło dochodu wspólnoty. Wyżej stoją Czytacze oraz Kantor.
+
+Obecnym Strażnikiem Ksiąg jest Ulraunt, człek dumny i wyniosły, a zarazem mag o umiarkowanym znaczeniu. Pierwszy Czytacz, Tethtoril, bywa często mylony przez gości z samym rządcą ze względu na swą pańską postawę, przenikliwą inteligencję i powściągliwe oblicze.
+
+W Candlekeep obowiązuje jedna absolutna zasada:
+
+„Ci, którzy niszczą wiedzę atramentem, ogniem lub mieczem, sami zostaną zniszczeni.”
+
+Tutaj książki są cenniejsze od ludzi.~
+@140  = ~Przewodnik Vola po Wrotach Baldura~
+@141  = ~Przewodnik Vola po Wrotach Baldura
+
+To portowe miasto od wieków stanowi schronienie i ostoję dla ludów Wybrzeża Mieczy. Nawet najbardziej wybredny kupiec znajdzie tu niemal wszystko, czego zapragnie: liczne gospody i tawerny, składy kupieckie, świątynie najważniejszych bóstw, w pełni wyposażony sklep magiczny oraz setki pomniejszych budynków, w których toczy się codzienne życie miasta.
+
+Wrota Baldura są miastem handlu – tolerancyjnym z natury, lecz rządzonym twardą ręką. Porządek utrzymuje sprawna straż miejska oraz potężna Kompania Najemna Płomiennej Pięści, licząca ponad tysiąc zbrojnych. Szacuje się, że co dziesiąty mieszkaniec miasta jest członkiem tej formacji lub jej tajnym agentem, wyszkolonym w walce i zdolnym w jednej chwili wezwać wsparcie. Przybysze mogą swobodnie spacerować ulicami i oddawać się interesom, mając świadomość, że czujne oczy straży niemal zawsze są w pobliżu.
+
+Bezpieczeństwo wzmacnia również rozbudowany system magicznych latarni, które o zmierzchu i nocą rozświetlają ulice oraz place. To właśnie one w dużej mierze odpowiadają za wyjątkowo niski poziom przestępczości, co budzi powszechne zadowolenie wśród kupców i właścicieli kramów.
+
+Miasto zawdzięcza swą nazwę legendarnemu żeglarzowi i odkrywcy Balduranowi. Wedle podań to on przed wiekami przepłynął obok elfiej ojczyzny Evermeet, wyruszając w poszukiwaniu mitycznych wysp Anchoromé, leżących daleko za znanymi morzami. Balduran powrócił z opowieściami o rozległych i dziwnych krainach oraz z ogromnymi bogactwami, którymi hojnie obdarzył mieszkańców swej rodzinnej przystani.
+
+Część tych skarbów przeznaczono na wzniesienie murów chroniących osadę przed najazdami orków i barbarzyńców, stanowiących w tamtych czasach śmiertelne zagrożenie. Wkrótce potem Balduran ponownie wyruszył ku odkrytym przez siebie cudownym krainom – i z tej wyprawy nigdy już nie powrócił.
+
+Niezależnie od jego losu, mury sfinansowane z pozostawionego złota przyczyniły się do gwałtownego rozwoju miasta. Zabudowa szybko wykroczyła poza pierwotne fortyfikacje. Okoliczni farmerzy, chcąc zabezpieczyć swoje posiadłości, wznieśli kolejne mury, pozostawiając port poza strefą ochrony. Dzięki temu mogli pobierać opłaty od wszystkich wozów wjeżdżających z nabrzeży do bezpiecznego, obwarowanego miasta.
+
+Rozwiązanie to spotkało się z gwałtownym sprzeciwem morskich kapitanów, dla których port był domem i źródłem utrzymania. Oświadczyli oni, że brama, przez którą wpływa handel z południa i cały ruch portowy, jest „Bramą Baldura”, i odmówili płacenia myta. Konflikt zakończył się obaleniem wzbogaconych rolników i przejęciem władzy przez kapitanów, którzy ostatecznie nadali miastu nazwę Wrota Baldura.
+
+Czterej najstarsi spośród nich, których dni na morzu dobiegały końca, przekazali swe statki młodszym żeglarzom. W zamian uzyskali ich poparcie jako rządcy rodzącego się miasta. Początkowo dla żartu nazywali siebie książętami, lecz tytuł ten okazał się przydatny w dyplomacji i z czasem został uświetniony przydomkiem „Wielkich”.
+
+Dziś organ ten znany jest jako Rada Czworga. Jej członkowie wybierani są przez lud i sprawują władzę dożywotnio lub do chwili dobrowolnej rezygnacji. W Radzie zasiada doświadczony wojownik Entar Srebrna Tarcza, potężna czarodziejka Liia Jannath, poszukiwacz przygód znany jedynie jako Belt oraz Eltan, dowódca Kompanii Najemnej Płomiennej Pięści. Każde z nich reprezentuje inną siłę kształtującą oblicze miasta, a ich wzajemna rywalizacja i sojusze mają niebagatelny wpływ na codzienne życie mieszkańców.
+
+Zabudowa Wrót Baldura składa się głównie z wysokich, wąskich budynków o niewielkich, szczelinowych oknach umieszczonych wysoko nad ziemią. Okiennice chronią wnętrza przed zimowymi wiatrami oraz wszechobecnymi mewami. Ponad dachami domów góruje monumentalny Pałac Książęcy – siedziba Rady, miejsce uczt, rozpraw sądowych i sprawowania władzy.
+
+Niedaleko pałacu wznosi się Wielka Komnata Cudów, poświęcona Gondowi. Jest to największa z trzech głównych świątyń miasta, a jej rozległe skrzydła mieszczą halę wystawową, w której prezentowane są najbardziej udane wynalazki wyznawców boga rzemiosła.
+
+W pobliżu Wrót Czarnego Smoka rozciąga się Szeroki Plac – olbrzymie targowisko tętniące życiem o każdej porze dnia i nocy. Choć z nazwy jest otwartą przestrzenią, w praktyce wypełniają go tymczasowe stragany, skrzynie i stoły handlowe, a kupcy i klienci stoją tu niemal ramię w ramię. Poza tym miejscem miasto pozbawione jest wyrazistych punktów orientacyjnych; wszechobecna wilgoć skutecznie zniechęca do wywieszania sztandarów i prowadzenia otwartych kramów.
+
+Ci natomiast, którzy poszukują nadmiernych libacji, hazardu oraz cielesnych uciech, kierowani są do Głębokich Piwnic – wilgotnego, mrocznego labiryntu połączonych korytarzy, do którego wejście znajduje się tuż przy Szerokim Placu.~
+@142  = ~Przewodnik Vola po Beregoście~
+@143  = ~Przewodnik Vola po Beregoście
+
+Znużeni wędrowcy przemierzający Nadbrzeżny Trakt między Wrotami Baldura a Amn często zatrzymują się w Beregoście. Miasteczko leży nieco na uboczu głównej drogi, mniej więcej dzień marszu na południe od miejsca, w którym Lwi Trakt odbija od Nadbrzeżnego Traktu. Choć znacznie mniejsze od Wrót Baldura, Beregost oferuje zaskakująco wiele udogodnień: kilka gospód i składów kupieckich, sklep magiczny, świątynię oraz przyzwoitą tawernę, dzięki czemu od lat pełni rolę bezpiecznego przystanku na szlaku handlowym.
+
+Bliskość północnych granic Amn sprawia, że miejscowość ta bywa chętnie wybierana przez amnijskich kupców jako punkt zbiórki karawan. Stąd wyruszają oni na ryzykowną wyprawę lądową na północ, ku Waterdeep, lub na wschód, w stronę Morza Spadających Gwiazd. W efekcie Beregost, mimo swych niewielkich rozmiarów, w trudnych do przewidzenia odstępach czasu bywa zatłoczony ponad miarę, a spokojne ulice wypełniają się wozami, zwierzętami pociągowymi i uzbrojonymi strażnikami.
+
+Początki osady sięgają czasów, gdy była ona rolniczą wspólnotą znajdującą się pod protekcją szkoły magii. Dziś jednak duchową i społeczną dominantą miasta jest Pieśń Poranka – potężna świątynia Lathandera, która przyćmiewa wszystkie inne budowle. Jej wpływy widoczne są w codziennym życiu mieszkańców, dla których świt, odnowa i praca na roli mają niemal sakralne znaczenie.
+
+Drugim miejscem, o którym mówi się w Beregoście niemal szeptem, są ruiny szkoły Ulcastera. Ów znamienity mistrz przywołań założył swą akademię ponad trzysta lat temu, a jej renoma szybko przyciągnęła adeptów magii z całego Wybrzeża Mieczy. Sukces jednak okazał się zgubny. Magowie z Calimshanu, obawiając się rosnącej potęgi szkoły, uderzyli na nią w niszczycielskiej bitwie czarów. Akademia została obrócona w ruinę, a Ulcaster zaginął w zamęcie walki i nigdy nie odnaleziono ani jego ciała, ani pewnych śladów jego losu.
+
+Z dawnej szkoły pozostały jedynie wypalone zgliszcza, które do dziś straszą na wzgórzu na wschód od miasta. Miejscowi wierzą, że ruiny nawiedzają upiory rzucające czary, a lęk przed nimi sprawił, że Beregost przez lata rozbudowywał się głównie na zachód od Nadbrzeżnego Traktu, pozostawiając wschodnie wzgórza pastwiskom i owcom. Co znamienne, w całym mieście znajduje się tylko jedna tawerna – nosząca, jakżeby inaczej, nazwę Płonący Czarodziej.
+
+Formalnym zarządcą Beregostu jest Kelddath Ormlyr. Choć w mieście istnieje pięcioosobowa rada, w praktyce jego słowo stanowi prawo. Ormlyr jest niestrudzonym orędownikiem rolnictwa, handlu oraz dalszej rozbudowy osady, a jego ambicją jest przekształcenie Beregostu w trwały i bezpieczny punkt na handlowej mapie Wybrzeża. Pełni on również funkcję Najjaśniejszego Poranka Lathandera, będąc arcykapłanem Pieśni Poranka, a jego przyboczni dbają o porządek i bezpieczeństwo w mieście.
+
+W swych działaniach Kelddath Ormlyr może liczyć na wsparcie dwóch potężnych sojuszników. Pierwszym z nich jest Thalantyr, czarodziej o niepodważalnej renomie i mistrz przywołań, którego obecność odstrasza wielu potencjalnych wichrzycieli. Drugim jest Taerom „Grzmiący Młot” Fuiruim, kowal znany daleko poza granicami miasteczka, dostarczający broni i pancerzy zarówno karawanom, jak i obrońcom Beregostu.~
+@144  = ~Wibrysa~
+@145  = ~Wibrysa
+
+Trunek ten ma ciemną, mętną barwę, delikatnie iskrzy się elektryczną energią i wyróżnia się nadzwyczaj przyjemnym, pobudzającym aromatem. Według podań napój został po raz pierwszy przyrządzony przez starą elficką mędrczynię, która poszukiwała sposobu na uleczenie męża z dolegliwości spowodowanych nadmiernym świętowaniem. Ziarna stanowiące podstawę wywaru miały zostać, zgodnie z legendą, wyhodowane przez samą elficką czarodziejkę, co czyni je niezwykle rzadkimi i trudnymi do zdobycia. Jedynie elfy znają zaklęcie będące ostatnim, niezbędnym elementem receptury.~
+@146  = ~*pije*~
+@147  = ~Lady Napitek~
+@148  = ~Haludak~
+@149  = ~Krasnoludzka whiskey Skalnej Czaszki~
+@150  = ~Krasnoludzka whiskey Skalnej Czaszki
+
+Butelka ta zawiera porcję krasnoludzkiej whiskey. Trunek ów, warzony przez klan Skalnej Czaszki z grzybów, pszenicy oraz innych składników, które lepiej pozostawić sferze domysłów, dojrzewa przez całe stulecia w ogromnych kamiennych kadziach. Członkowie klanu uznają partię za gotową, gdy wrzucona do kadzi orcza czaszka całkowicie się rozpuści. Najrzadsze roczniki, takie jak ten, leżakują przez okres odpowiadający rozpuszczeniu pięciu czaszek lub nawet dłużej. Krasnoludy w całym Faerûnie chwalą tę whisky za bogaty bukiet, piekący posmak i właściwości krzepiące. Przedstawiciele większości innych ras polecają ją natomiast jako środek do rozniecania ognia, wyżerania farby i przyprawiania o morderczego kaca.
+
+PARAMETRY:
+
+Waga: 1~
+@151  = ~Mecenas Naparów~
+@152  = ~Olej hartowniczy~
+@153  = ~Olej hartowniczy
+
+W tej butelce znajduje się specjalny olej, który kowal Cromwell przygotował dla Robukina Skalnej Czaszki. Z naczynia wydobywa się woń zjełczałego tłuszczu, a sama ciecz w dotyku wydaje się jednocześnie piaszczysta i śliska. Być może lepiej nie badać jej zawartości zbyt wnikliwie.~
+@154  = ~Pisarka~
+@155  = ~Zwój Dużego~
+@156  = ~Zwój Dużego
+
+To zapieczętowany zwój, który Robukin „Duży” Skalna Czaszka powierzył ci, abyś dostarczył go kowalowi Cromwellowi. Możesz jedynie zgadywać, jakie sekrety skrywa – złamanie pieczęci rozproszy zawartą w nim magię, czyniąc go bezużytecznym dla Cromwella.~ ~Zwój Dużego
+
+To zapieczętowany zwój, który Robukin „Duży” Skalna Czaszka powierzył ci, abyś dostarczyła go kowalowi Cromwellowi. Możesz jedynie zgadywać, jakie sekrety skrywa – złamanie pieczęci rozproszy zawartą w nim magię, czyniąc go bezużytecznym dla Cromwella.~
+@157  = ~Fred~
+
+@159  = ~Corradun~
+@160  = ~Dom Kawy Haludaka~
+@161  = ~Ardotiańska java~
+@162  = ~Kawa Darelesha~
+@163  = ~Napar z liści nana~
+@164  = ~Czaj Tanasiego~
+@165  = ~Karlotańska koka~
+@166  = ~Kalen Grimm~
+@167  = ~Allanya Danc~
+@168  = ~Jacobus P. Sanderick~
+@169  = ~Biała grappa Dalina~
+@170  = ~Biała grappa Dalina
+
+Ten wiekowy trunek o niezwykle tajemniczym rodowodzie pojawiał się jedynie sporadycznie na Wybrzeżu Mieczy oraz w okolicznych krainach. Legenda głosi, że półelf imieniem Dalin Winthraven poświęcił całe życie doskonaleniu receptury ognistego trunku. Wierzył, że dzięki niemu jego niewielka tawerna rozkwitnie, a on sam zdobędzie sławę i fortunę.
+
+Przez długie lata harował w swoim miasteczku, serwując gościom wywary tak koszmarne, że wielu z nich uciekało do znacznie odleglejszych przybytków, byle tylko napić się czegoś znośnego. Dalin widział, że ryzykuje upadek interesu, lecz pogoń za nieuchwytną recepturą stopniowo przerodziła się w obsesję. Z czasem pozostali przy nim jedynie najwierniejsi klienci – ci, których w mieście zatrzymywały okoliczności lub zwyczajny brak środków na wyjazd.
+
+W dniu, w którym Dalin został zmuszony do zamknięcia tawerny, zebrał wszystkie pozostałe zapasy: szypułki, skórki i pestki z produkcji swych poślednich napitków oraz wszystko inne, co nadawało się do destylacji. Całość wrzucił do kadzi, podejmując ostatnią próbę. Los chciał, że właśnie w ten sposób powstał najwspanialszy, czysty i wytrawny, a zarazem ognisty trunek, jakiego mieszkańcy miasteczka kiedykolwiek próbowali.
+
+Pełen nowej energii półelf spakował manatki, przelał trunek do butelek i wyruszył w nieznane, by sprzedać swoje dzieło i rozpocząć nowe życie. Niestety, prześladował go pech – nim dotarł do pierwszego miasta, padł ofiarą bandytów, a cały drogocenny wywar został skradziony lub zniszczony podczas napadu.
+
+Dalin mógł spróbować raz jeszcze, lecz los nie był już dla niego łaskawy. Podzielił tajemniczy los wielu nieszczęśników: błąkał się samotnie po dziczy, załamany i bez grosza przy duszy.
+
+Ponieważ był jedyną osobą znającą sekret tego niezwykłego napoju, nigdy nie udało się go odtworzyć. Biała grappa Dalina cieszyła się jednak ogromnym uznaniem, a te nieliczne butelki, które krążyły po Krainach, zawsze wzbudzały poruszenie – cenione przede wszystkim za swą absolutną unikalność.
+
+PARAMETRY:
+
+Waga: 8~
+@171  = ~Klucz do piwnicy~
+@172  = ~To klucz do piwnicy z alkoholem w Norze Siedmiu Dolin. Widocznie Allanya nie oddała go, gdy została wyrzucona z pracy za barem.~
+@173  = ~Beczka Wilhelmus~
+@174  = ~Ta duża, starannie wypolerowana dębowa beczka posiada metalową tabliczkę z wygrawerowanym imieniem „WILHELMUS”. Najwyraźniej Corradun i jego beczka przeżyli wspólnie niejedną ciekawą chwilę...
+
+Z wnętrza dobiega obiecujący bulgot mocnego ale. To dość niezwykłe, by półelf pokroju Corraduna gustował w takim piwie, ale najwyraźniej żeglarze to ludzie o dość specyficznych upodobaniach. Gdyby Drini nie potrzebował tej zawartości do swojego zaklęcia, pewnie sam miałbyś ochotę pociągnąć z niej kilka głębszych łyków.
+
+PARAMETRY:
+
+Waga: 20~ ~Ta duża, starannie wypolerowana dębowa beczka posiada metalową tabliczkę z wygrawerowanym imieniem „WILHELMUS”. Najwyraźniej Corradun i jego beczka przeżyli wspólnie niejedną ciekawą chwilę...
+
+Z wnętrza dobiega obiecujący bulgot mocnego ale. To dość niezwykłe, by półelf pokroju Corraduna gustował w takim piwie, ale najwyraźniej żeglarze to ludzie o dość specyficznych upodobaniach. Gdyby Drini nie potrzebował tej zawartości do swojego zaklęcia, pewnie sama miałabyś ochotę pociągnąć z niej kilka głębszych łyków.
+
+PARAMETRY:
+
+Waga: 20~
+@175  = ~Sir Suleci~
+@176  = ~Kebodi~
+@177  = ~*pije*~
+@178  = ~Butelka Arabellańskiego wina wytrawnego~
+@179  = ~Butelka Arabellańskiego wina wytrawnego
+
+Ta pękata butelka o płaskiej szyjce była wyraźnie intensywnie użytkowana. Na jej lśniącej powierzchni wygrawerowano jakąś pokraczną, rozwścieczoną bestię, a skórzane obicie ozdobiono kamykami, piórami i tym podobnymi drobiazgami. Naczynie to najwyraźniej służyło do noszenia przy sobie alkoholu. 
+
+Wygląda na to, że alchemik Sanderick zdołał już zneutralizować działanie przyprawy pochodzącej z Chult, zwanej dławicielką.
+
+PARAMETRY:
+
+Waga: 1~
+
+@180  = ~Laurlana~
+
+@181  = ~Magiczne buty instynktu przetrwania~
+@182  = ~Magiczne buty instynktu przetrwania
+
+W dawnych czasach żyła niziołka, która zwała się Worrelyn Zwinnostopa, która – jak wielu jej pobratymców – miała dość swobodne podejście do cudzej własności. Choć w swoim fachu radziła sobie całkiem dobrze, była płochliwa i skłonna do ucieczki przy najmniejszych oznakach kłopotów. Taka ostrożność zwykle działała na jej korzyść: zanim prawdziwe problemy zdążyły się pojawić na miejscu występku, ona była już bezpieczna w domu, ciesząc się miską gorącego gulaszu. Jednak w starciu z pewnym starym czarodziejem nawet jej zwinne stopy nie zdołały uchronić jej przed tragicznym losem.
+
+Dramauth Obłąkany, jeden z członków budzącego grozę bractwa znanego jako Bełkocząca Dwunastka, był magiem skrajnie podejrzliwym. Worrelyn miała nieszczęście złożyć mu nocną „wizytę”. Przemknęła obok licznych pułapek oraz czarów strażniczych i zdołała wynieść kilka drobniejszych artefaktów. Ponieważ jej własne obuwie było już mocno znoszone, wychodząc, zabrała z korytarza parę butów należących do maga.
+
+Nie mogła wiedzieć, że Dramauth obłożył klątwami wszystkie swoje przedmioty ruchome, co miało chronić je przed kradzieżą. Gdy tylko wsunęła stopy w buty, jej dusza została w nie wciągnięta, a ciało zniknęło bez śladu. Następnego ranka czarodziej musiał jedynie ustalić położenie swojej własności za pomocą wróżbiarstwa i po prostu ją podnieść.
+
+Cząstka ducha niziołki przetrwała w tych starych butach do dziś. Objawia się ona nagłym przyspieszeniem kroków noszącego zawsze wtedy, gdy znajdzie się on w obliczu niebezpieczeństwa.
+
+PARAMETRY:
+
+Specjalne:
+– Szybkość poruszania się: +50% przez 1 rundę po otrzymaniu obrażeń
+
+Waga: 3~
+
+@183  = ~Ciemnofioletowy kamień Ioun~
+@184  = ~Ciemnofioletowy kamień Ioun
+
+Ten kamień, o głębokiej fioletowej barwie, pozwala noszącemu dostrzegać to, co kryje się w mroku.
+
+PARAMETRY:
+
+Specjalne:
+– Infrawizja: 18 metrów
+
+Waga: 2~
+
+@185  = ~Migotliwy biały kamień Ioun~
+@186  = ~Migotliwy biały kamień Ioun
+
+Kamień jest chłodny w dotyku i emanuje energią.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na zimno: +10%
+
+Waga: 2~
+
+@187  = ~Zwiększona szybkość poruszania się~
+@188  = ~Jeszcze z tobą nie skończyłam! Wracaj tu, tchórzliwy padalcu!~
+
+@189  = ~Tom Arkanów Pamięci~
+@190  = ~Tom Arkanów Pamięci
+
+Ten trzeszczący, oprawny w skórę tom należał niegdyś do Jeremiasza, maga cieszącego się niezbyt wielką sławą w Waterdeep. Jeremiasz stworzył tę księgę dla jednego ze swoich mniej pojętnych uczniów, mając nadzieję, że pomoże ona wspomóc opłakaną pamięć niesfornego młodzieńca. Pomimo dobrych intencji mistrza, tom był rzadko używany, jako że uczeń wkrótce potem uległ niefortunnemu wypadkowi i nagle zakończył swą naukę.
+
+PARAMETRY:
+
+Specjalne:
+– Wiedza: +10 (jednorazowo, przy pierwszym użyciu)
+– Raz dziennie pozwala przypomnieć sobie dwa wcześniej rzucone czary poziomu 5. lub niższego
+
+Waga: 25~
+
+
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+///// dialogue strings                                 \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+
+// SCAM (PRZEKRĘT)
+@10001  = ~Ha HA!~ [G3SCAMHA]
+@10002  = ~Zwinne palce i szybkie nogi wielkiego Przekręta dopadły kolejną ofiarę!~
+
+// DEWNY (PIJANY BEŁKOT)
+@10003  = ~Gdz-gdziesie... podziały... t-te drzwi?~ 
+@10004  = ~Kto mi kazał... tachać... to-to coś?~ 
+@10005  = ~Zapomdrzwi... g-gdzie łóżko? Mzxnzmzn?~
+
+// SIR SULECI (INSTRUKCJE)
+@10006  = ~Wibrysa to rodzaj kawy. Spróbuj poszukać w Domu Kawy tutaj, na Promenadzie.~
+@10007  = ~Czy mogę pomóc w czymś jeszcze?~
+@10008  = ~Tak jak mówiłem wcześniej, w Domu Kawy na Promenadzie masz na to największą szansę.~
+
+// SULECI I KEBODI (O winie arabellańskim)
+@10009  = ~Arabellańskie wytrawne to wino z importu. Spróbuj poszukać go w Morskiej Zdobyczy w Dokach albo w tym przybytku przy Bramach miasta.~
+@10010  = ~Chodzi o gospodę Pod Krzywym Żurawiem. Samuel Grzmotobek może też coś mieć w Pięciu Dzbanach.~
+@10011  = ~To prawda, ma całkiem niezły wybór. Jego też warto odwiedzić.~
+@10012  = ~Prawdopodobnie znajdziesz to tam, gdzie docierają dostawy z importu. Sprawdź Pod Krzywym Żurawiem albo w Morskiej Zdobyczy. Samuel Grzmotobek w Pięciu Dzbanach też może coś mieć.~
+
+@10013  = ~Mamy Arabellańskie wytrawne, ale jest zatrute dławicielką z Chult.~
+@10014  = ~Zatrute? W takim razie wystarczy proste zaklęcie, żeby je oczyścić.~
+@10015  = ~Wybaczy pan, ale nie przy dławicielce. Tu trzeba pomocy waszego znajomego alchemika.~
+@10016  = ~Skąd ty wiesz takie rzeczy?~
+@10017  = ~Tak, o niego.~
+@10018  = ~Zanieś to do maga Sandericka w Dzielnicy Rządowej. On powinien pomóc.~
+@10019  = ~Właściwie, nieważne. Chodzi ci o Sandericka?~
+
+// Wskazówki o krasnoludach
+@10020  = ~W Tawernie Delosara często bywa sporo krasnoludów. Zajrzyj tam.~
+@10021  = ~W Tawernie Delosara w Dzielnicy Mostów znajdziesz wielu krasnoludzkich klientów. Sprawdź tam.~
+
+// Konfrontacja z Przekrętem
+@10022  = ~Wybitny Przekręt jest zajęty. Czego chcesz?~
+@10023  = ~Szukam ale, które mi ukradłeś.~
+@10024  = ~Przestań pajacować i oddaj mi to ale. Póki jeszcze możesz.~
+@10025  = ~Wspaniały Przekręt nie oddaje rzeczy uczciwie zwędzonych gapiącym się turystom.~
+@10026  = ~Ten przedmiot jest dla mnie niezwykle ważny i muszę go odzyskać. Podaj cenę.~
+@10027  = ~Cierpliwy i wielkoduszny <CHARNAME> jest całkiem poważnie zirytowany. Oddawaj zgubę albo broń się!~ ~Cierpliwa i wielkoduszna <CHARNAME> jest całkiem poważnie zirytowana. Oddawaj zgubę albo broń się!~
+@10028  = ~Szkoda na to czasu. Masz tu dziesięć sztuk złota i oddawaj ale.~
+@10029  = ~Nieee! Aaaajjjjeee!~
+@10030  = ~Młody, oddawaj towar, zanim wbiję ci topór prosto w przełyk!~
+@10031  = ~Oddany Przekręt żąda stu sztuk złota. Ani miedziaka mniej.~
+@10032  = ~To kpina! Oddasz mi go za darmo. I to już.~
+@10033  = ~W porządku, oto twoje złoto.~
+@10034  = ~Nie zapłacę ani miedziaka powyżej dziesięciu. Co ty na to?~
+@10035  = ~To nie jest warte więcej niż pięćdziesiąt i tyle oferuję.~
+@10036  = ~Sto złociszy! To więcej niż...~
+@10037  = ~To znaczy... nad wyraz skromny Przekręt przyjmuje twoją ofertę. Miłego dnia.~
+@10038  = ~Chodź, chłopcze, dziś jemy po królewsku!~
+@10039  = ~Dziesięć złociszy! To więcej niż...~
+@10040  = ~Pięćdziesiąt złociszy! To więcej niż...~
+@10041  = ~Tu jesteś! Giń, złodzieju!~
+@10042  = ~I... zdaje się... że chwalebny Przekręt gdzieś posiał twoje ale. Gdzie ono się podziało?~
+@10043  = ~Chodź, chłopcze, musimy go poszukać.~
+
+@10044  = ~Szaleństwo wzięło nad nim górę i wyrżnął pół wioski, zanim pchnęłam go mieczem w plecy. Odwrócił się i spojrzał na mnie... w tym ostatnim spojrzeniu mignął mi mój ukochany, a ostrze wystające z jego piersi spłynęło szkarłatem. Zapłakałam, na tym wielkim stosie ciał.~
+@10045  = ~Tylko sprawdzę, czy to ale trzyma poziom, zanim sprowadzę moją dobrodziejkę.~
+@10046  = ~O taaak, nadaje się idealnie. I to winko też wcale nie jessst takie złe... *czka* złe.~
+@10047  = ~Ty pijany moczymordo! Gdzie nasza nagroda?~
+@10048  = ~Podzielam twoją troskę o jakość składników... podaj no to wino, co?~
+@10049  = ~Mówiłeś, że pójdziesz po swoją dobrodziejkę.~
+@10050  = ~Mówiłeś, że to wszystko ma służyć do rzucenia zaklęcia.~
+@10051  = ~Kolejny nieszczęśnik, którego zgubił alkohol.~
+@10052  = ~Hę? Cooooto?~
+@10053  = ~Dość tego. Nie mamy czasu siedzieć i patrzeć, jak upijasz się do nieprzytomności. Idź po swoją panią.~
+@10054  = ~Sssspokojnie, nie trzęś tak tymi portkami. Wyjdź na zewnątrz, a ja pójdę po klientkę.~
+@10055  = ~Wybacz, kumplu... potrzeba wprawnego, sssubtelnego podniebienienia, żeby docenić tak ssszlachetne trunki... jak te.~ ~Wybacz, sssłonko... potrzeba wprawnego, sssubtelnego podniebienienia, żeby docenić tak ssszlachetne trunki... jak te.~
+@10056  = ~Te sssą dl mnie... żebym mógł rzucać czary... jak trrrzeba. *czka*~
+
+@10057  = ~Ty nędzny kundlu! Wynajęłam cię do przywołania magicznych strażników, a nie do chlania jak pospolity wyrobnik.~
+@10058  = ~Potrafisz w ogóle czarować w tym stanie?~
+@10059  = ~Moja pani, ja potrafię rzucić każ... *czka*~
+@10060  = ~Ja potrafię każ... *czka*~
+@10061  = ~Jestem gotowy do drogi.~
+@10062  = ~A to niby kto?~
+@10063  = ~Ty w szczególności wyglądasz mi znajomo, gnomie.~
+@10064  = ~Spędziłem mnóstwo czasu z twoim wspaniałym psem, Puszkiem. Może stąd mnie kojarzysz. Nie za dobrze radził sobie ze swoim chochlikiem i nie przepadał za rzepą.~
+@10065  = ~Ach tak, teraz pamiętam nasz poprzedni kontrakt. W pewien sposób wiąże się on z moimi obecnymi kłopotami.~
+@10066  = ~To jessst <CHARNAME>. Pomógł mi zdo... *czka* zdo... *czka* zdobyć te wyborne napitki.~ ~To jessst <CHARNAME>. Pomogła mi zdo... *czka* zdo... *czka* zdobyć te wyborne napitki.~
+@10067  = ~Więc jesteście najemnikami, tak? Powinnam zatem wyjaśnić, co tutaj robimy.~
+@10068  = ~Problem zaczął się od mojego byłego męża, Golodona Bezgrzywego. W młodości on i jego wspólnik ukradli magiczne artefakty grupie zwanej Bełkoczącą Dwunastką.~
+@10069  = ~Jego partner, Dradeel, zniknął na lata, aż pewnego dnia wrócił, bredząc coś o pieskach. Zabił Golodona i został schwytany przez Zakapturzonych Czarodziejów. Nic więcej o jego losie nie wiem.~
+@10070  = ~Bełkocząca Dwunastka wciąż jednak domaga się zwrotu skradzionych przedmiotów. Golodon nie żyje, a Dradeel jest poza ich zasięgiem, więc koniec końców zaczęli polować na mnie.~
+@10071  = ~Zakapturzeni Czarodzieje to ci sami, którzy zabrali Imoen i Irenicusa. Każdy ślad Dradeela mógłby bardzo pomóc naszej sprawie.~
+@10072  = ~Byliśmy w Czarowięzach i spotkaliśmy ten wrak człowieka, który niegdyś zwał się Dradeelem. Pomógł nam w walce z Irenicusem, ale w obecnej postaci jest zupełnie bezużyteczny.~
+
+@10073  = ~Spotkaliśmy już kiedyś Dradeela. Utknęliśmy na wyspie pełnej wilkołaków, a on pomógł nam się stamtąd wydostać.~
+@10074  = ~W czym możemy pomóc?~
+@10075  = ~Twój człowiek obiecał nam zapłatę.~
+@10076  = ~Cóż to za jedni, ta Bełkocząca Dwunastka?~
+@10077  = ~Zakapturzeni Czarodzieje to skryta kasta. Nikt nie wie, co dzieje się z ich więźniami.~
+@10078  = ~Właśnie dlatego Dwunastka wzięła mnie na cel.~
+@10079  = ~Odbierzemy nagrodę i znikamy.~
+@10080  = ~Spotkało go to, na co zasłużył, ale w niczym nie rozwiązuje to moich obecnych kłopotów.~
+@10081  = ~To by wyjaśniało te jego brednie o „nawałnicach psich wilkołaków”, choć w niczym nie rozwiązuje to moich kłopotów.~
+@10082  = ~Wynajęłam Driniego, żeby zapewnił mi magiczną ochronę. Patrząc na niego teraz, szczerze wątpię, czy będzie z niego jakiś pożytek.~
+@10083  = ~Wypraszam sobie!~
+@10084  = ~Dlatego to was chcę prosić o ochronę. Tylko przez jakiś czas, aż znajdę maga, który woli księgi od kufla.~
+@10085  = ~Daję tysiąc sztuk złota i kamień łotrzyków. Płatne z góry i to niezależnie od tego, co obiecał wam Drini. Co wy na to?~
+@10086  = ~Zgoda, przyjmuję ofertę.~
+@10087  = ~Nie. Weźmiemy to, co obiecał Drini i ruszamy w swoją stronę.~
+@10088  = ~Otrzymasz swoją zapłatę. Mam jednak dla ciebie coś lepszego, o ile interesuje cię większy zarobek.~
+@10089  = ~Mów dalej.~
+@10090  = ~O Bełkoczącej Dwunastce wiem tylko tyle, ile wygadał Golodon i co sama zdołałam wywęszyć.~
+
+@10091  = ~To młoda klika magów żądnych władzy. Nie są tak liczni ani wpływowi jak Zhentarimowie czy Harfiarze, ale wciąż są dla mnie śmiertelnym zagrożeniem.~
+@10092  = ~Niech i tak będzie. Oto złoto, o którym mówił Drini.~
+@10093  = ~Muszę zatem szukać pomocy gdzie indziej. Chodź, Drini, trzeba cię doprowadzić do stanu używalności.~
+@10094  = ~Doskonale! Zobaczmy więc, na co cię stać, Drini.~
+
+@10095  = ~Sssłucham?~
+@10096  = ~Przywołanie, ty zapity durniu!~
+@10097  = ~Ach, racja. Odsssuńcie sssię wszyscy. *czka* Zaczynamy.~
+@10098  = ~Ooo, jakie ładne kolorki!~
+@10099  = ~Oto przedssstawiam: Giber-ryngi Trzy.~
+@10100  = ~Gibberlingi.~
+@10101  = ~Zapłaciłam fortunę, a ty przywołujesz... gibberlingi.~
+@10102  = ~Nie jessst tak źle. To Giber-ryngi Trzy. Sssą tak wesssołe, jak...~
+@10103  = ~GIBBERLINGI! To nie do przyjęcia!~
+@10104  = ~Ale widzissz, to nie sssą tylko... chodź o to, że ja chciałem... sssnaczy, to po prossstu...~
+@10105  = ~He-ej... wcale nie kojarzszszę... tej częśśści sss-zaklęcia... *czka*~
+@10106  = ~Miejmy nadzieję, że to coś wartego uwagi.~
+@10107  = ~Wreszcie są. Dobra robota, Numerze Trzy.~
+@10108  = ~Dziękuję, Numerze Jeden.~
+@10109  = ~Kim jesteście? Gdzie ja jestem?~
+@10110  = ~Witaj w naszej tajnej siedzibie. A co do tego, kim jesteśmy... myślę, że doskonale znasz odpowiedź.~
+@10111  = ~Bełkocząca Dwunastka. Jak mnie znaleźliście?~
+@10112  = ~Nie spodziewaliśmy się, że będziesz miała towarzystwo, ale mniejsza z tym. Wyjawisz nam, gdzie jest to, czego szukamy.~
+@10113  = ~Nie wiem, o czym mówicie.~
+@10114  = ~Wciąż udajesz głupią. Dosyć tego!~
+@10115  = ~Zważ na język, Numerze Siedem.~
+@10116  = ~Powiedz mi, co to, na litość, za stworzenia?~
+@10117  = ~To... to Gibberlingi Trzy. Budzące grozę istoty z legend, które władają siłą gigantów, mądrością starożytnych i przenikliwością mędrców.~
+@10118  = ~Smoki drżą przed nimi z trwogi! Obserwatorzy mrużą ślepia w obliczu ich niszczycielskiej szarży! Nawet tarraski giną pod ich stopami, zmiażdżone potęgą...~
+@10119  = ~Dla mnie wyglądają jak zwykłe gibberlingi.~
+@10120  = ~Eee.~
+@10121  = ~Nie daj się zwieść pozorom. To krwiożercze, bestialskie...~
+@10122  = ~Przestań marnować nasz czas. Kim są pozostali?~
+@10123  = ~Pozwolę Numerowi Trzy wyjaśnić wam szczegóły, skoro to był jej plan.~
+@10124  = ~Trudno było was wytropić, wymykaliście się nam na każdym kroku. Jednak wasz człowiek, Drini, nie był już tak ostrożny.~
+@10125  = ~Wystarczyło skontaktować się z Zakapturzonymi Czarodziejami, by przekierowali was tutaj, gdy tylko spróbuje użyć magii w waszej obecności.~
+@10126  = ~Jestem <CHARNAME>. Mam kontrakt na ochronę tej kobiety. Odsuńcie się.~
+@10127  = ~Moje imię to nie wasza sprawa.~
+@10128  = ~Jestem <CHARNAME>. Przechodziłem koło gospody, kiedy mnie tu w jakiś sposób przeteleportowano.~ ~Jestem <CHARNAME>. Przechodziłam koło gospody, kiedy mnie tu w jakiś sposób przeteleportowano.~
+@10129  = ~Czego szukacie? Dlaczego prześladujecie tę kobietę?~
+@10130  = ~Możecie odejść, gdy tylko odzyskamy nasze artefakty.~
+@10131  = ~Mówiłam wam już, że nie wiem, gdzie one są.~
+@10132  = ~Zatem tutaj zginiesz. Numerze Osiem, sprowadź pozostałych.~
+@10133  = ~To jak najbardziej nasza sprawa. Z imieniem czy bez, nie powstrzymasz nas.~
+
+@10134  = ~Daję ci ostatnią szansę: gdzie są przedmioty, które skradł nam Golodon?~
+@10135  = ~Też mi bajeczka.~
+@10136  = ~Ty kłamliwy sukinsynu!~ ~Ty kłamliwa sssuko!~
+@10137  = ~Mniejsza z tym. Ostatnia szansa: gdzie są przedmioty, które skradł nam Golodon?~
+@10138  = ~Chcemy tylko odzyskać to, co nam zabrano. Reszta nie powinna was interesować.~
+@10139  = ~Ta kobieta to nasz ostatni ślad prowadzący do złodziei i jedyna nadzieja na odzyskanie zguby, jednak nasza cierpliwość właśnie się wyczerpała.~
+
+@10140  = ~Jałmużny, jałmużny dla biednej kobiety. Proszę, panie, wspomożecie koleżankę po fachu, którą opuściło szczęście i nastały dla niej ciężkie czasy? Każdy miedziak będzie błogosławieństwem. Każdy grosz przybliża mnie do uleczenia.~ ~Jałmużny, jałmużny dla biednej kobiety. Proszę, pani, wspomożecie koleżankę po fachu, którą opuściło szczęście i nastały dla niej ciężkie czasy? Każdy miedziak będzie błogosławieństwem. Każdy grosz przybliża mnie do uleczenia.~
+@10141  = ~Mój Boże, co tu tak potwornie śmierdzi? Zupełnie jakby coś tu zdechło.~
+@10142  = ~Oczywiście, proszę, oto złota moneta.~
+@10143  = ~Stało się coś złego? Może mógłbym ci jakoś pomóc w twoich nieszczęściach?~ ~Stało się coś złego? Może mogłabym ci jakoś pomóc w twoich nieszczęściach?~
+@10144  = ~Zejdź mi z drogi. Nie mam pojęcia, dlaczego pozwala się takiemu plugastwu włóczyć po ulicach.~
+@10145  = ~Prawdę mówiąc, szukaliśmy cię. Doszły nas słuchy, że jesteś znawczynią rzadkich trunków.~
+@10146  = ~Ciężko stwierdzić. Zdaje mi się, że to był opos. Chociaż... może jednak sroka?~
+@10147  = ~Opos? To obrzydliwe.~
+@10148  = ~To było pytanie retoryczne. Co jest z tobą nie tak?~
+@10149  = ~Jesteś obłąkana, wiesz o tym? Trzymaj się ode mnie z daleka, jeśli ci życie miłe.~
+@10150  = ~Dziękuję, wasza hojność jest doprawdy wielka. W zamian za ten dar, dam wam dobrą radę. Koń bez nosa przegra w wyścigu idącym łeb w łeb.~
+@10151  = ~Zapamiętam to sobie. Zwłaszcza jeśli kiedyś spotkam konia bez nosa.~
+
+@10152  = ~Eee... no dzięki za radę. Czy mogę coś jeszcze dla ciebie zrobić?~
+@10153  = ~Kobieto, ty potrzebujesz pomocy, której ja ci nie dam. Twoje miejsce jest w przytułku dla obłąkanych, tam szukaj ratunku.~
+@10154  = ~Pora na mnie. Żegnaj.~
+@10155  = ~Pozwól, że opowiem ci moją historię – smutną i pełną osamotnienia. Nie zawsze byłam nędzarką. Kiedyś, tak jak ty, szukałam przygód. Może nawet obiło ci się o uszy moje imię. Nazywam się Ariariannanaomillicent... w skrócie Ari.~
+@10156  = ~Tylko nie mów do mnie Millie, bo pożałujesz.~
+@10157  = ~Jako młoda czarodziejka chciałam podbić cały Faerûn i szybko zyskałam niemałą sławę, ale pewnego dnia, gdy puściłam z dymem tabun orków, zachciało mi się kąpieli. Wiesz, jak trudno domyć włosy z sadzy? No właśnie. Skąd miałam wiedzieć, że ta sadzawka była święta?~
+@10158  = ~Przeklęli mnie za to świętokradztwo. Woda przestała na mnie działać – nieważne, czy ją piłam, czy się w niej myłam. Kąpiel nic nie dawała, brud trzymał się jak wcześniej. Piłam ze źródła, a w gardle wciąż czułam suchość. Na całe szczęście alkohol to nie czysta woda, więc on na mnie działa. A mycie? Zapomnij. Nie śmierdzę tak z własnej woli, wiesz?~
+@10159  = ~Ciężko z kimś pogadać, gdy ludzie nie potrafią wytrzymać z tobą w jednym pomieszczeniu. I wierz mi, żadne perfumy nie zduszą tego smrodu.~
+@10160  = ~Ale jest dla mnie ratunek. Moja przyjaciółka sprawdziła to coś aż w samym Candlekeep. Muszę zdobyć pewien rzadki trunek. Chwisgi.~
+@10161  = ~To towar z Maztiki, rzadko tu widywany, więc koczowałam w Dokach i czekałam na odpowiedni statek. W końcu jeden przypłynął, ale całe Chwisgi poszło do „Morskiej Zdobyczy”, na pożegnalną popijawę jakiegoś żeglarza.~
+@10162  = ~Karczmarz i jego goście wyganiają mnie, gdy tylko spróbuję wejść. Ratunek na moją udrękę jest tuż za tymi drzwiami, ale dla mnie są one zamknięte na cztery spusty. Ech, gdyby tak bogowie zesłali mi chociaż jednego barmana z wiecznym katarem!~
+
+@10163  = ~Chwisgi? A gdzie ja niby mam to znaleźć?~
+@10164  = ~Pomogę ci.~
+@10165  = ~Dosyć tego. Mam już po dziurki w nosie tego bełkotu. Zamknij się i spływaj.~
+@10166  = ~Nie sądzę, żebym mógł cokolwiek dla ciebie zrobić.~ ~Nie sądzę, żebym mogła cokolwiek dla ciebie zrobić.~
+@10167  = ~Wybaczcie, panie, nie chciałam zajmować wam cennego czasu.~ ~Wybaczcie, pani, nie chciałam zajmować wam cennego czasu.~
+@10168  = ~Dziękuję za tę jakże trafną uwagę na temat wystroju moich „salonów”.~
+@10169  = ~Zanim całkiem odlecimy w dygresje – czy mogę ci jakoś pomóc?~
+@10170  = ~Pomogę ci, jeśli tylko wreszcie przejdziesz do rzeczy.~
+@10171  = ~Próbujesz mnie wykończyć psychicznie, co? Zostawiam cię z twoim szaleństwem.~
+@10172  = ~Na twoim miejscu nie podchodziłabym do tego tak lekko. Podróżowałam kiedyś z rycerzem, który miał konia bez węchu. Ser Thufir był strasznym sknerą, ale zdarzył się ten jeden raz, kiedy naprawdę nie powinien był żałować złota.~
+@10173  = ~Thufir pewnie wciąż by żył, gdyby jego wierzchowiec wyczuł kępę wymiotnika. Zamiast tego biedne bydlę wlazło w same chaszcze akurat wtedy, gdy pyliły. Bogowie musieli się na Thufira wyjątkowo uwziąć, bo chłop był astmatykiem. Wyzionął ducha, dosłownie wypluwając płuca.~
+@10174  = ~Rada przednia, nie ma co. To jak, potrzebujesz tej pomocy?~
+@10175  = ~Eee... fascynujące. Na mnie już pora. Muszę ruszać dalej.~
+@10176  = ~Chcesz mi pomóc? Cóż, dziękuję za troskę, szlachetny panie. Mam przeczucie, że pewnego dnia odnajdziesz siebie... i pożałujesz, że ci się to udało.~ ~Chcesz mi pomóc? Cóż, dziękuję za troskę, szlachetna pani. Mam przeczucie, że pewnego dnia odnajdziesz siebie... i pożałujesz, że ci się to udało.~
+@10177  = ~No dobrze, dziękuję za chwilę uwagi. Niech bogowie cię prowadzą, a twoi wrogowie niech błądzą w oparach iluzji i zamętu.~
+@10178  = ~Przed chwilą ci mówiłam. Tam, za tymi drzwiami. Pytaj o Chwisgi.~
+@10179  = ~A, no tak.~
+@10180  = ~Nie.~
+@10181  = ~Och, dziękuję, dziękuję! Nareszcie widać światełko w tunelu! Dałeś mi nadzieję. Od samej twojej dobroci robi mi się ciepło na sercu... Chociaż nie, to pewnie ten wczorajszy kot.~ ~Och, dziękuję, dziękuję! Nareszcie widać światełko w tunelu! Dałaś mi nadzieję. Od samej twojej dobroci robi mi się ciepło na sercu... Chociaż nie, to pewnie ten wczorajszy kot.~
+
+@10182  = ~No dobrze, zostawię cię w spokoju, szlachetny panie. W nagrodę za ten pokaz empatii życzę ci najgorszego miłosnego odrzucenia – oby ci ręka zdrętwiała.~ ~No dobrze, zostawię cię w spokoju, szlachetna pani. W nagrodę za ten pokaz empatii życzę ci najgorszego miłosnego odrzucenia – oby ci ręka zdrętwiała.~
+@10183  = ~Co, znowu ty? Wracasz niczym szczur na tonący okręt. Czego tym razem chcesz? Nie masz przypadkiem jakichś ważniejszych spraw na głowie?~
+@10184  = ~Przypomnij mi, czego miałem szukać?~
+@10185  = ~Zmień ton, kiedy do mnie mówisz.~
+@10186  = ~Tylko przechodzę. Nie zwracaj na mnie uwagi.~
+@10187  = ~Cieszy mnie twój widok. Znowu nawdychałaś się oparów z garbarni?~
+@10188  = ~Mówiłam raz, powtórzę i tysięczny. Musisz znaleźć trunek o nazwie Chwisgi. Powinieneś dostać go gdzieś w okolicy.~ ~Mówiłam raz, powtórzę i tysięczny. Musisz znaleźć trunek o nazwie Chwisgi. Powinnaś dostać go gdzieś w okolicy.~
+@10189  = ~A niby jaki ton mam przybrać? Może falset? No, to czego ode mnie chciałeś?~ ~A niby jaki ton mam przybrać? Może falset? No, to czego ode mnie chciałaś?~
+@10190  = ~Co mam niby zrobić?~
+@10191  = ~Tylko tędy przechodzę.~
+@10192  = ~Tego już za wiele. Giń!~
+@10193  = ~Ruszaj więc w drogę. Czas ucieka, a mrok gęstnieje z każdą twoją chwilą zwłoki.~
+@10194  = ~Głupcy!~
+@10195  = ~Gdzie tam, nie odważyłabym się. Garbarze przysięgają, że od mojego smrodu psują się im skóry. Ucz się na błędach innych, bo życia ci nie starczy, byś samemu popełnił je wszystkie. No, to co cię tu znowu sprowadza?~ ~Gdzie tam, nie odważyłabym się. Garbarze przysięgają, że od mojego smrodu psują się im skóry. Ucz się na błędach innych, bo życia ci nie starczy, byś sama popełniła je wszystkie. No, to co cię tu znowu sprowadza?~
+@10196  = ~Co miałem dla ciebie znaleźć?~ ~Co miałam dla ciebie znaleźć?~
+@10197  = ~Tylko tędy przechodzę.~
+@10198  = ~Oto Chwisgi, które kazałaś nam zdobyć.~
+@10199  = ~O, wielny dniu, kalej, kalu! Udało ci się! Wkrótce uwolnię się od tej ohydnej klątwy! Wiesz, jak to frustruje, gdy nawet zombie omijają cię szerokim łukiem? Czułam się jak przepocona przepaska biodrowa jakiegoś barbarzyńcy.~
+@10200  = ~Wielkie dzięki, nieustraszony bohaterze. Ocaliłeś mnie od losu gorszego niż śmierć. Ten trunek jest tak mocny, że rozpuszcza farbę. I to jest szczera prawda, bez owijania w bawełnę.~ ~Wielkie dzięki, nieustraszona bohaterko. Ocaliłaś mnie od losu gorszego niż śmierć. Ten trunek jest tak mocny, że rozpuszcza farbę. I to jest szczera prawda, bez owijania w bawełnę.~
+@10201  = ~Byliśmy już w środku i zdobyliśmy Chwisgi. Proszę, weź je.~
+
+@10202  = ~Ach, powracacie w moje skromne progi.~
+@10203  = ~Przypomnij mi, kim właściwie jesteś?~
+@10204  = ~Nie mam teraz czasu na twoje gadki.~
+@10205  = ~Ach, przyjaciele! Właśnie zakończyłem kufel... to znaczy, przygotowania. Czy macie już trunki niezbędne do tego, ekhm, rytuału?~
+@10206  = ~Zeszło nam trochę, ale mamy już wszystko.~
+@10207  = ~Jeszcze nie mamy wszystkiego.~
+@10208  = ~Wszystko na miejscu, melduję gotowość!~
+@10209  = ~Wiesz, nie jestem twoim barmanem...~ ~Wiesz, nie jestem twoją barmanką...~
+@10210  = ~...mam prawie wszystko, czego mi trzeba. Choć, heh, ona nie chciała o tym słyszeć.~
+@10211  = ~No, to bierzcie się do warzenia! Życie mojego chlebodawcy wisi na włosku!~
+@10212  = ~Hehe, warzenia... jak w browarze... no, wiecie, co mam na myśli...~
+@10213  = ~Ach, mniejsza z tym. Wróćcie, gdy będziecie gotowi.~
+
+@10214  = ~Najmilsi, mam dla was ekscytującą propozycję! Wyglądacie na strasznie sfatygowanych, przysiądźcie się, dajcie spocząć nogom!~
+@10215  = ~Zaintrygowałeś mnie...~
+@10216  = ~Mówiłem już: nie. Żegnam.~ ~Mówiłam już: nie. Żegnam.~
+@10217  = ~Mam nadzieję, że to nie jest kolejny przekręt, żeby wyciągnąć ode mnie złoto...~
+@10218  = ~Ile razy trzeba ci odmawiać, żebyś wbił to sobie do tego zakutego łba? Właściwie to nie odpowiadaj.~
+@10219  = ~Mogę posłuchać przez chwilę. Niczego jednak nie obiecuję.~
+@10220  = ~Wybornie! Siedzi się wygodnie? Zatem zamieniam się w słuch... to znaczy, ja zaczynam mówić!~
+@10221  = ~Jak sobie życzycie. Przejdę zatem prosto do sedna...~
+@10222  = ~Widzę po waszych zmęczonych twarzach, że ostatnio zajmowaliście się wyłącznie bezmyślnym bieganiem na posyłki, służąc jakiemuś głupcowi za zwykłe popychadła. Cóż, koniec z tym! Oferuję wam bowiem przygodę życia, o której bardo... historycy – tacy jak ja, dodam nieskromnie – będą rozprawiać przez pokolenia!~
+@10223  = ~Wymaga to jedynie, ekhm, drobnej przysługi... uregulowania naszego rachunku przy barze. Zdaje się, że w niewyjaśnionych okolicznościach... rozstałem się ze swoją sakiewką.~
+@10224  = ~Na razie nie zdradzę nic więcej. Niech napięcie rośnie. No i jak, wchodzicie w to?~
+
+@10225  = ~Dalej uważam, że to zwykły przekręt, żeby wyciągnąć ode mnie złoto.~
+@10226  = ~Po tych wszystkich popisach straciłem zainteresowanie. Idź zawracać głowę komuś innemu.~ ~Po tych wszystkich popisach straciłam zainteresowanie. Idź zawracać głowę komuś innemu.~
+@10227  = ~Jak duży jest ten rachunek?~
+@10228  = ~Ach... czy to oznacza „tak”?~
+@10229  = ~No dobrze, ile mnie to będzie kosztować?~
+@10230  = ~Nie do końca. Zagrożenie ze strony tych magów jest tak wielkie, że nawet wy byście mu nie podołali. Na szczęście podczas moich podróży posiadłem wiedzę o przyzywaniu istot, które powinny sprostać temu przerażającemu zadaniu.~
+@10231  = ~Musicie tylko przynieść mi kilka składników do zaklęcia, podczas gdy ja będę tutaj siedział i... koordynował. Tak, koordynował! To bardzo wyczerpujące zajęcie, wierzcie mi.~
+@10232  = ~Brzmi jak jedno z tych bezmyślnych zadań polegających na bieganiu na posyłki, o których przed chwilą mówiłeś~
+@10233  = ~Muszą to być doprawdy straszliwi przeciwnicy, skoro sami nie możemy sobie z nimi poradzić.~
+@10234  = ~Rany! To prawdziwa opowieść o przygodach i intrygach. Czego potrzebujesz?~
+@10235  = ~Cóż takiego zamierzasz przyzwać, żeby pomóc tej kobiecie?~
+@10236  = ~Kto jest twoim mocodawczynią i co takiego zrobiła, że naraziła się tym czarodziejom?~
+@10237  = ~Zdarzało mi się już wykonywać gorsze zadania... Czego dokładnie potrzebujesz?~
+@10238  = ~Ekhm... Pozory mylą? Zapewniam was, nie pożałujecie!~
+@10239  = ~Tak, to kabała magów pogrążonych w najmroczniejszej czarnej magii! Z pewnością nawet Zakapturzeni Czarodzieje by im nie sprostali... Choć jestem, ekhm, przekonany, że moi wybrańcy staną na wysokości zadania.~
+@10240  = ~Nie wyjawię swoich sekretów ot tak! Poza tym pewnie o nich nie słyszeliście, to bardzo skryta, ekhm, ekipa. Wolałbym nie mówić nic więcej... Jakieś pytania?~
+@10241  = ~Ona woli zachować anonimowość, nigdy nie wiadomo, czy jej wrogowie nie podsłuchują. Spotkacie ją, gdy już przygotujecie, ekhm, składniki zaklęcia.~
+@10242  = ~A co do jej winy... kto wie, jakie powody może mieć tak złowieszcza grupa magów, by prześladować niewinną niewiastę?~
+@10243  = ~Trunki, których potrzebuję, są dość rzadkie – przygotowałem tutaj ich listę.~
+
+@10244  = ~Powinniście poszukać mojego, ekhm, znajomego, nazywa się Sir Suleci. Znajdziecie go w Mithrest na Promenadzie Waukeen. Nie umywa się tamto miejsce do tej karczmy, ale Suleci najwyraźniej je lubi. On zna się na rzadkich trunkach i jest mi winien przysługę...~
+@10245  = ~Gdy już wszystko zdobędziecie, przynieście to tutaj, a wtedy przejdziemy do przyzywania.~
+@10246  = ~Skoro winien ci jest przysługę, to dlaczego sam go nie poprosisz o te napitki?~
+@10247  = ~W porządku. Wrócimy tutaj, gdy już zdobędziemy składniki.~
+@10248  = ~Muszę zostać tutaj i, ekhm...~
+@10249  = ~Cóż...~
+@10250  = ~Przygotować się do, ekhm, rzucenia zaklęcia? Koordynować działania z mojego sztabu dowodzenia przy barze?~
+@10251  = ~Eee...~
+@10252  = ~W każdym razie, to niezwykle ważne zadanie.~
+@10253  = ~Doskonałe wieści! Natychmiast poinformuję o tym moją mocodawczynię...~
+@10254  = ~No, gdzie się podziała ta barmanka?~
+@10255  = ~Och. W takim razie...~
+@10256  = ~Spójrzcie tam! Cóż za niezwykłe zjawisko!~
+@10257  = ~Do kroćset... Ostatni raz dałem się nabrać na tę sztuczkę...~
+@10258  = ~Cóż, właściwie to nie jestem pewien.~
+@10259  = ~Wasze pijackie wybryki kosztowały tę karczmę równe 32 sztuki złota.~
+@10260  = ~Właściwie to nie brzmi AŻ TAK źle...~
+@10261  = ~Plus kolejne 10 za stołek i szklanki, które potłukliście.~
+@10262  = ~Ups. Czyli razem 42? Dla tak znamienitych poszukiwaczy przygód to marne grosze.~
+@10263  = ~Przynajmniej liczyć potrafisz...~
+@10264  = ~Zatem 42 sztuki złota. Niewygórowana cena za przywilej wzięcia udziału w bez wątpienia najwspanialszej przygodzie naszych czasów. Co wy na to?~
+@10265  = ~Obawiam się, że jestem równie spłukany jak ty. Przykro mi!~ ~Obawiam się, że jestem równie spłukana jak ty. Przykro mi!~
+@10266  = ~To rzeczywiście niewielka cena. Zapłacę.~
+@10267  = ~Doprawdy, zapłaciłbym dziesięć razy tyle za taką okazję!~
+@10268  = ~Nie zamierzam marnować pieniędzy na twoje pijaństwo. Żegnam.~
+@10269  = ~Przynajmniej niektórzy klienci w tym przybytku mają gotówkę. Drini, Salvanas, tym razem wam się upiekło.~
+
+@10270  = ~Wybornie!~
+@10271  = ~Naturalnie... W każdym razie, przejdźmy do szczegółów. Jestem na usługach pewnej czarodziejki, która drży o własne życie! To doprawdy urocza dama, która nie z własnej winy naraziła się grupie niegodziwych magów.~
+@10272  = ~Czyli chcesz, żebyśmy się z nimi rozprawili?~
+@10273  = ~Pozwólcie, że się przedstawię: Drini – bard, dowcipniś i gawędziarz. Jedni mają mnie za człowieka majętnego i gustownego, inni za głupca i łotra, ja zaś wolę myśleć o sobie jako o wolnym duchu. Zupełnie jak mój kompan, Salvanas.~
+@10274  = ~Miło cię poznać.~
+@10275  = ~Nie mam na to całego dnia...~
+@10276  = ~Tak. Czy będę miał tę przyjemność i poznam wasze imiona? Uważam, że osobisty akcent sprawia, iż interesy stają się mniej... ekhm... suche i urzędowe.~
+@10277  = ~Zgadzam się. Nazywam się <GABBER>.~
+@10278  = ~Nie podoba mi się twój ton i nie mam ochoty z tobą dłużej rozmawiać. Żegnam.~
+@10279  = ~Wolałbym pominąć kwestię imion, jeśli nie macie nic przeciwko.~ ~Wolałabym pominąć kwestię imion, jeśli nie macie nic przeciwko.~
+@10280  = ~Wybaczą panowie...~
+@10281  = ~Dobre sobie! Ooo, witaj ślicznotko.~
+@10282  = ~Przyszłam po zapłatę.~
+@10283  = ~A może wolisz zamiast tego jakiś gorący sekret?~
+@10284  = ~Prze-przepraszam najmocniej! Byłem właśnie, ekhm, w połowie opowieści. Tak.~
+@10285  = ~Siedzicie tu od godzin i szczerze mówiąc, panie Drini, znając pańską historię, chcielibyśmy zobaczyć złoto. Teraz.~
+@10286  = ~W każdym razie, jak mówiłem, nieźle się bawiliśmy. Na pewno wiecie, jak to jest. Słuchajcie, a może zamiast zapłaty przyjmiecie pewną, gorącą informację?~
+@10287  = ~Ej, to była moja kwestia!~
+@10288  = ~Ech!~
+@10289  = ~Albo mógłbym ci dać „coś niecoś” jutro rano...~
+@10290  = ~Jeśli natychmiast nie zapłacicie za te drinki, panowie, czeka was rozmowa z wykidajłami.~
+@10291  = ~A chociaż z żeńskimi wykidajłami?~
+@10292  = ~Miałem już okazję ich, ekhm, poznać i nie jest to doświadczenie, które chciałbym prędko powtórzyć...~
+@10293  = ~Czas na nową taktykę?~
+
+@10294  = ~Jestem piratem miłości i przybyłem po twój skarb... Arrr!~
+@10295  = ~No i co ty na to, słonko?~
+@10296  = ~A ja na to, że twój własny „skarb” oberwie, jeśli zaraz nie sypniesz złotem.~
+@10297  = ~Gdybym powiedział, że masz piękne ciało, czy wzięłabyś mi go... to znaczy, to za złe?~
+@10298  = ~Dość tego!~
+@10299  = ~Czekajcie! Mam plan. Poza tym chyba powinienem, ekhm, faktycznie zająć się pewną pracą... Wybaczcie mi na moment.~
+@10300  = ~Hej, wy tam! Wyglądacie na poszukiwaczy przygód...~
+@10301  = ~Nie mam zamiaru się w to mieszać.~
+@10302  = ~Kto, ja?~
+@10303  = ~Skądże, na pewno nie my.~
+@10304  = ~Można tak powiedzieć.~
+@10305  = ~Słucham? Dlaczego nie dacie mi spokoju? Delektuję się ostatnim drinkiem, zanim ze wszystkim skończę. Widzicie tę flaszkę? Rozpuściłam w niej dawkę dusiciela... gdy tylko ją wychylę, odejdę na zawsze.~
+@10306  = ~No dobrze, pani, nie będę ci zawracać głowy.~
+@10307  = ~Mogę ci jakoś pomóc?~
+@10308  = ~Przestań się mazać! Jestem dziecięciem Bhaala, mam na głowie mnóstwo nieszczęść, a mimo to żyję i walczę!~
+@10309  = ~Dlaczego, na Toril, chciałabyś ze sobą skończyć?~
+@10310  = ~Wyglądasz na wojowniczkę. Jeśli chcesz umrzeć, dlaczego nie zrobisz tego z honorem na polu bitwy?~
+@10311  = ~Tak, możesz mi pomóc. ZOSTAWIAJĄC MNIE W SPOKOJU!~
+@10312  = ~Pomiot Bhaala, doprawdy? Kochałam się kiedyś w jednym z twoich pobratymców, ale skaza była w nim zbyt silna. Byliśmy na romantycznej wycieczce w małej wiosce niedaleko Silverymoon...~
+@10313  = ~Ale dlaczego właściwie chcesz ze sobą skończyć?~
+@10314  = ~Oho. Lepiej zostawię cię z tym drinkiem.~
+@10315  = ~Jestem zakochana – i nie jest to szczenięce zauroczenie, jakim darzy Tiiro ta głupiutka Aulava, ale namiętność kobiety o gorącej krwi.~
+@10316  = ~No i co w tym złego?~
+@10317  = ~Ach, rozumiem. Mówisz o Kivanie, prawda?~
+
+@10318  = ~Wybacz, Monique. Zostawię cię z twoimi czarnymi myślami.~
+@10319  = ~No to kto tym razem stał się obiektem twoich westchnień?~
+@10320  = ~Na bogów, próbowałam! Wyzywałam na pojedynek każde monstrum, jakie zna ten świat, w nadziei na śmierć godną moich cierpień! Xvarty, tasloi, orki, trolle, zielone szlamy, nawet smoki. Walczyłam z nimi wszystkimi, nie zważając na własne życie!~
+@10321  = ~Może spróbujesz powalczyć ze mną i moimi towarzyszami? Bylibyśmy trudniejszym wyzwaniem niż jakiś tam smok!~
+@10322  = ~Kobieto, jesteś gorsza niż Xan! Zostawię cię w spokoju.~
+@10323  = ~Częścią problemu jest to, że zawsze tracę głowę dla silnych, milczących typów. To nie byłoby jeszcze takie złe, gdyby nie fakt, że tacy jak oni rzadko szukają kogoś takiego jak ja. A w tych rzadkich przypadkach, gdy już zaiskrzy, zwykle kończą marnie i to nadzwyczaj szybko.~
+@10324  = ~Nie do końca cię rozumiem, ale skoro tak bardzo chcesz umrzeć, to czemu nie zginiesz honorowo w walce?~
+
+@10325  = ~*wzdycha* Czy myśmy się już spotkali? A może po prostu cała okolica ma ze mnie używanie?~
+@10326  = ~Nazwijmy to przeczuciem. Dobra, zostawiam cię samą.~
+@10327  = ~Tropiciel z mroczną i tragiczną przeszłością – a któż by inny?~
+@10328  = ~Proszę, pozwól mi trwać w moim smutku.~
+@10329  = ~Skoro chcesz dziś umrzeć, niech i tak będzie.~
+@10330  = ~Kiedy zakochałam się po raz pierwszy, byłam jeszcze podlotkiem, a on sławnym bohaterem. Powiedziałam sobie wtedy, że zasłużę na jego miłość, zostając najsłynniejszą poszukiwaczką przygód pod słońcem!~
+@10331  = ~Trzy lata później, gdy moja sława kroczyła przede mną niczym herold, przyszłam go odwiedzić... i zastałam go żonatego z dziewczyną, która nie skrzywdziłaby muchy, nawet gdyby ta ją zaatakowała. Za to piekła najlepszą szarlotkę w całym Cormyrze.~
+@10332  = ~„Szczęście zawsze sprzyja romantykom”. Który głupiec to wymyślił? Ach, ten elficki łotr, tuż przed tym, jak rzucił mnie dla dziewczyny, która puściła go w samych skarpetkach...~
+@10333  = ~Byłam raz żoną mężczyzny moich marzeń. No, niezupełnie żoną, to była tylko farsa. Wszystko było niemal idealne, prócz faktu, że on na każdym kroku wytykał mi, że to tylko przedstawienie. Przepraszał mnie, gdy musiał mnie pocałować lub trzymać za rękę publicznie! Jedyne, co mogłam robić, to uśmiechać się, klepać go po plecach i zapewniać, że to się wkrótce skończy i znów będziemy wolni.~
+
+@10334  = ~Moje serce najpierw zdruzgotano, potem rozbito w drobny mak, obrócono w niwecz i starto na pył. Pozwoliłam mu przesypać się przez palce, myśląc: „Wreszcie jestem wolna, wreszcie nie mam serca”. Jakże się myliłam!~
+@10335  = ~Służyliśmy razem jako zwiadowcy na wyspach Moonshae. Moim zadaniem było przedostać się niepostrzeżenie do oblężonego miasta, by przekazać wieść o odsieczy i przygotować obrońców do ataku, który miał odwrócić uwagę wroga. On miał prowadzić armię pod same mury.~
+@10336  = ~Szanse na to, że przeżyję, były nikłe, więc przed odejściem wyznałam mu miłość. Objął mnie i powiedział: „Wypatruj mnie. Będę pierwszym, który wkroczy do miasta, a ty będziesz tam na mnie czekać”.~
+@10337  = ~I prawie mu się udało. Elitarne oddziały wroga, zapędzone w kozi róg, stawiły ostatni opór przy samej bramie. Gdy wyrąbywał sobie drogę przez ich szeregi, trafiła go zabłąkana kula ognia... Widziałam z murów, jak pochłania go płomień...~
+@10338  = ~Klamka zapadła. Już zdecydowałam.~
+@10339  = ~Za tych, których kochaliśmy!~
+@10340  = ~Na dwanaście wiatrów! To po prostu zniknęło! *wzdycha* No cóż... nie pozostaje mi nic innego, jak wrócić na szlak.~
+@10341  = ~Szukam konkretnego trunku. Macie może Arabellańskie wytrawne?~
+@10342  = ~Owszem, miałem butelkę jeszcze parę godzin temu. Pewna tropicielka ją kupiła, wzięła kieliszek i poszła na górę. Od tamtej pory jej nie widziałem.~
+@10343  = ~Nie obiło mi się o uszy. Spróbuj u starego Samuela w Pięciu Dzbanach albo Pod Krzywym Żurawiem.~
+@10344  = ~No i masz ci los! Sprzedałem ostatnią butelkę parę dni temu, a nowa dostawa dotrze dopiero za jakiś czas.~
+@10345  = ~Spróbuj u Palucha w Morskiej Zdobyczy – czasami sprowadzają rarytasy prosto ze statków – albo Pod Krzywym Żurawiem.~
+@10346  = ~Dziękuję za pomoc.~
+
+@10347  = ~A może spróbujesz sił ze mną? Obiecuję, że będę trudniejszym wyzwaniem niż byle smok!~
+@10348  = ~Właśnie zapijam się na śmierć i byłbym wdzięczny, gdyby nikt mi w tym nie przeszkadzał.~
+@10349  = ~To moje ulubione miejsce!~
+@10350  = ~Racz opuścić moje towarzystwo. Już samo przebywanie wśród tutejszego pospólstwa jest wystarczająco męczące.~
+@10351  = ~Wolę przynosić własne krzesło. Kto wie, czym można się zarazić od tego plebsu?~
+@10352  = ~Najpierw ja, potem ty.~
+
+//@10353  = ~*Gul gul gul gul*.~
+
+@10354  = ~*chlup!* Wchodzi jak złoto! Szkoda tylko, że smak do niczego. Teraz twoja kolej.~
+@10355  = ~*wypij duszkiem*~
+@10356  = ~*wychyl jednym haustem*~
+@10357  = ~*sącz powoli i z klasą*~
+@10358  = ~Idź dalej. Nie ma tu nic ciekawego. Przepłucz gardło, jeśli musisz, i ruszaj w drogę.~
+@10359  = ~*Dewny wpatruje się intensywnie w Udę i kompletnie cię ignoruje*.~
+@10360  = ~*Wygląda na to, że po prostu odsypia pijaństwo. Dewny przenosi pojęcie „słabej głowy” na zupełnie nowy poziom*.~
+@10361  = ~I możesz tam zostać! Zobaczymy, czy ta twoja gruba czaszka ochroni twój ptasi móżdżek przed tą beczką! Idę do domu!~
+@10362  = ~Wyśmienite pichcenie. Nawet skwaszona mina Udy nie zdołałaby zepsuć smaku tego lukru.~
+@10363  = ~Czyli naprawdę lubisz ciasta?~
+@10364  = ~Co masz przeciwko pijącym ludziom?~
+@10365  = ~Widzę, że wymieszałaś tu coś specjalnego. To jakiś legendarny trunek?~
+@10366  = ~Jeśli nie chcesz tego napitku, to ja mogę go wziąć.~
+@10367  = ~Jak tam pogoda na dole?~
+@10368  = ~Ładne stopy.~
+@10369  = ~Więc... co taka miła niziołka jak ty robi w takim miejscu?~
+@10370  = ~Ciasta Udy... to dla nich tu jestem! Ona jednak nie jest zachwycona, gdy przychodzę prosić o dolę. Już nie raz musiałam stąd wiać, żeby nie oberwać patelnią.~
+
+@10371  = ~W czymś pomóc?~
+@10372  = ~To ty tutaj robisz za wykidajłę?~
+@10373  = ~Ja? Gdzie tam! Jak tylko popiją, zmieniają się w bełkoczące, śliniące się kłody, które ledwo powłóczą nogami... a ja potem muszę targać te trupio ciężkie zwłoki do domu! Jestem niziołkiem, na litość bogów!~
+@10374  = ~Samuel, niech go bogowie błogosławią, pozwala im żłopać o wiele więcej, niż powinien. Cóż, ON ma spokój. To nie on musi ich potem stąd wywalać!~
+@10375  = ~Może i jestem mała, ale krzepę mam za dwóch! Żaden kobold by mi nie podskoczył!~
+@10376  = ~Doprawdy... imponujące.~
+@10377  = ~Masz krzepę jak dwa koboldy? No niebywałe!~
+@10378  = ~No ba! Matula jest ze mnie dumna jak z nikogo innego. A ojciec? Ojciec to po prostu Stary, jemu zawsze wszystko jedno.~
+@10379  = ~Taa. Wyszedł mi jakiś buzujący wywar. Jak dla mnie to czyste piekielne pomyje! Co się stało ze starym, dobrym płukaniem gardła, chociażby porządną szklanką mleka?~
+@10380  = ~Słuchaj, piwo naprawdę nie jest takie złe. Spróbuj łyka, a zobaczysz.~
+@10381  = ~Próbowałaś kiedyś w ogóle piwa?~
+@10382  = ~Mogę wziąć ten napitek, który niesiesz? Skoro i tak ci obrzydł...~
+@10383  = ~A może uwolnię cię od ciężaru tej ciężkiej beczułki?~
+@10384  = ~Hej, Dewny... zdaje mi się, że Uda woła cię na dokładkę ciasta!~
+@10385  = ~Taa, ty to wyżłopiesz, a ja będę miała kolejny worek kartofli do wywleczenia za drzwi. Nie mam pojęcia, co wy wszyscy w tym widzicie.~
+@10386  = ~Słuchaj no, mikrusie. Dawaj ten kwas, albo kopnę cię tak mocno, że wylądujesz na drugim końcu Torilu.~
+@10387  = ~Piłam już piwo... nie te pomyje, to fakt, ale lepsze pewnie nie są. Przecież to zlewnia ze wszystkiego, co obcy zostawili w kuflach!~
+@10388  = ~Po prostu nie potrafisz pić jak dorosła.~
+@10389  = ~Założę się, że po prostu boisz się to wypić.~
+@10390  = ~Czy ty mnie właśnie nazwałeś MIKRUSEM?! O nie, tego już za wiele! Nikt nie będzie mnie obrażał we własnej robocie!~ ~Czy ty mnie właśnie nazwałaś MIKRUSEM?! O nie, tego już za wiele! Nikt nie będzie mnie obrażał we własnej robocie!~
+
+@10391  = ~Słucham?! Dewny nie jest jakąś tam mizdrzącą się niziołczą panienką ze wsi! Potrafię pić na równi z najlepszymi! Po prostu zazwyczaj tego nie robię.~
+@10392  = ~Coś mi się nie wydaje, żebyś mówiła prawdę.~
+@10393  = ~Cykor.~
+@10394  = ~Tchórz.~
+@10395  = ~Mięczak.~
+@10396  = ~Jesteś podszytą tchórzem, trzęsącą się, słabowitą babą. Dziwne, że włosy na stopach jeszcze ci ze wstydu nie wypadły.~
+@10397  = ~Sugerujesz, że kłamię?!~
+@10398  = ~TEGO JUŻ ZA WIELE! Wyzywam cię na pojedynek w piciu!~
+@10399  = ~Ten, kto utrzyma się na nogach, bierze piwo. Co więcej – to on będzie odpowiedzialny za wynoszenie tych wszystkich pijanych niedorajd dzisiejszej nocy!~
+@10400  = ~Felma! Dwa kufle!~
+@10401  = ~Następna kolejka...~
+@10402  = ~*Gul... gul... gul... gul*.~
+@10403  = ~*pije* No proszę... to wcale nie jest takie złe...~
+@10404  = ~*pij z zapałem*~
+@10405  = ~*wychyl kufel*~
+@10406  = ~*pij jak koneser*~
+@10407  = ~Hehehe! Dobra robota! Tylko coś mi się świat za bardzo kręci...~
+@10408  = ~Co ja... co to ja miałam zrobić? A, racja! Moja kolejka, nie?~
+
+//@10409  = ~*Gul... gul... gul...*~
+
+@10410  = ~Czemu wszystko jest do góry nogami? ...Muszę... muszę wracać do rrrrroboty...~
+@10411  = ~Więcej ciasta? Masz, potrzymaj mi to chwilę, co?~
+@10412  = ~Ha, ha, ha! Zabawne. Mali ludzie potrzebują mniej energii, produkują mniej odpadów, zmieszczą się w każdą dziurę, a przede wszystkim: NIE SŁUŻĄ jako podłokietniki!~
+@10413  = ~A dziękuję. Dziś rano je szczotkowałam.~
+@10414  = ~Przykro mi, panie, ale moje serce należy już do Pippina.~ ~Przykro mi, pani, ale moje serce należy już do Pippina.~
+@10415  = ~Działa za każdym razem.~
+@10416  = ~Ten moczygęba przesiaduje tu bez przerwy. Jasne, że go znam.~
+@10417  = ~Zzzz... *Chrrr!* ...zzzz.~
+@10418  = ~Znasz barda imieniem Drini?~
+@10419  = ~Więc co ty na to, Samuelu?~
+@10420  = ~Strasznie mi przykro, Dewny, ale odpowiedź wciąż brzmi: nie. Teatr w Pięciu Dzbanach to, jak sama nazwa wskazuje,teatr, a nie salon piosenki. Athkatlański Avatar? Od samej tej nazwy w głowie się mąci.~
+@10421  = ~Ale Biff Niedouczony zgłosił się już na przesłuchania!~
+@10422  = ~Biff Niedouczony chce w tym brać udział? Niech mnie kule biją, w takim razie teraz to już na pewno się nie zgadzam!~
+@10423  = ~No już, nie patrz tak ponuro. Masz, napij się miodu pitnego Evermead! Od razu ci się humor poprawi!~
+
+@10424  = ~Blech. Dobrze wiesz, że nie powinieneś mi tego oferować.~
+@10425  = ~Heh. Właśnie dlatego zaproponowałem. Karczmarzowi, który dłużny jest ci przysługę, nigdy nie zabraknie trunków dla klientów. Za nic w świecie nie pojmę tej twojej niechęci do okazjonalnego kielicha, ale cóż... ludzie są różni.~
+@10426  = ~To smakuje paskudnie, ot co! A skoro o tym mowa...~
+@10427  = ~Próbowałeś tego nowego ciemnego piwa o niskiej zawartości alkoholu, które dla ciebie uwarzyłam? Jak przyjęli je klienci?~
+@10428  = ~Cóż, powiedzmy, że nazwałaś je idealnie. Mało procentów w kuflu, to i mało werwy w ludziach! W życiu nie widziałem bardziej ponurej bandy! Musiałem wycofać to z karty. Reszta beczki leży gdzieś na zapleczu...~
+@10429  = ~Masz, weź to z powrotem i spróbuj jeszcze raz. Na pewno któregoś dnia trafisz na porządną recepturę!~
+@10430  = ~Samuelu! Czy ty właśnie dałeś jej jakiś pojemnik?~
+@10431  = ~Owszem, moja droga pani!~
+@10432  = ~Nieeeeeeee... czy ty wiesz, co właśnie zrobiłeś?!~
+@10433  = ~No dobrze, wy pijackie mopsy, wy moczygęby! Już wam wystarczy. Zabieram szklanki, no już, raz-dwa!~
+@10434  = ~I wszystko ląduje w beczce.~
+@10435  = ~Hej! Przecież była jeszcze do połowy pełna!~
+@10436  = ~Miło widzieć tu jakiegoś optymistę! Słuchaj, teraz może to boleć, ale twoja wątroba mi za to podziękuje.~
+@10437  = ~A kogo tam obchodzi wątroba? Gardło się liczy, a moje gardło chce z powrotem swoje piwo!~
+@10438  = ~Ja po prostu to wezmę.~
+@10439  = ~Co u licha? Czy ty zdajesz sobie sprawę, że właśnie wlałaś szlachetny rocznik do tej swojej pospolitej beczki?~
+@10440  = ~Hyc!~
+@10441  = ~Chyba powinnam ci podziękować. Nadmiar trunków mógłby tylko przytępić mój talent.~
+@10442  = ~Dziękuje.~
+
+@10443  = ~Po co mi zabierasz piwo, co? Masz coś do małych ludów, co? Co? O, czekaj... ty też jesteś niziołkiem.~
+@10444  = ~EJ! Dawaj to tutaj, ty włochatostopy darmozjadzie! Nie wlewaj tego do tej... NIEEEE! MOJE PIWO!~
+@10445  = ~Oddawaj tę beczkę w tej chwili, jeśli ci życie miłe!~
+@10446  = ~Po co ci to jeszcze? Przecież to się wymieszało z tym słabym czarnym piwem i zlewkami po tych wszystkich ludziach...~
+@10447  = ~Czekajcie, ta beczka nagle zrobiła się jakaś ciepła...~
+@10448  = ~Cóż, zawsze byłem otwarty na nowe doznania. Daj mi spróbować...~
+@10449  = ~*pije* Wyborny bukiet... Lekkie dla nosa, z nutą korzenną, jagodową i szczyptą gałki muszkatołowej... z rześkim, wytrawnym finiszem. A co to za posmak?~
+@10450  = ~Na... na mój największy młot! Toż to legenda w płynie! Udało ci się uwarzyć nic innego, jak Bulgoczący wywar Malocholisa! Napitek nazwany na cześć tego dziwacznego, kradnącego piwo, przerośniętego bękarta z legend...~
+@10451  = ~Niech to... legenda mówi też, że krasnoludy dostają od tego potwornego bólu głowy... oooch... chyba właśnie zaczyna brać... aaaaa... muszę się na chwilę położyć...~
+@10452  = ~No i pięknie, zabiłaś go!~
+@10453  = ~E tam, tylko zasnął. A ty wcale nie pomagasz zwalczać tego durnego stereotypu, że „niziołki to tylko złodzieje”. Myślę, że lepiej cię powstrzymam, zanim zupełnie stracisz umiar...~
+@10454  = ~SAM! Dewny znowu rozrabia!~
+@10455  = ~No już, Dewny, nie mogę pozwolić, żebyś tak zabierała trunki szanownym klientom. Co się stanie z moim interesem?~
+@10456  = ~Przynajmniej dożyją jutra, żeby tu wrócić! Naprawdę, pozwalać im pić tak długo, aż zaczną się pocić czystym spirytusem...~
+@10457  = ~Choć trzeba przyznać, że to miła odmiana od ich normalnego zapachu ciała.~
+@10458  = ~Poradzą sobie, mała. I tak wrócą tu jutro wieczorem. Masz, nie martw się tym. Idź pogadaj z Udą i powiedz jej, że Samuel kazał upiec dla ciebie dodatkowe ciasto, co?~
+@10459  = ~Ooooooch! Ciasto!~
+@10460  = ~Ach! Czy pracowity krasnolud nie może mieć ani chwili spokoju? Kim jesteście? Czego chcecie? Nie, to musi być skóra rekina.~
+@10461  = ~Jestem <GABBER>. Rozmawialiśmy już wcześniej.~
+@10462  = ~Cromwell powiedział, że musisz mu zapłacić za przygotowania, o które prosiłeś.~
+@10463  = ~Mam miksturę, o którą prosiłeś Cromwella. Mogę teraz dostać tę whiskey?~
+@10464  = ~Eh? Czego chcecie? Nie widzicie, że pracuję nad czymś niezwykle ważnym? Ach, nie, to nie zadziała.~
+@10465  = ~Co nie za... yyy, co nie zadziała?~
+@10466  = ~Kim jesteś?~
+@10467  = ~Hej, krasnoludzie, stoję tuż obok.~
+@10468  = ~Przeklęci głupcy!~
+@10469  = ~W takim razie zostawię cię w spokoju.~
+
+@10470  = ~Nie mogę nakładać jednych run na drugie. Cała kolejność się sypnie i to cholerstwo zacznie pluć kulami ognia albo wydawać dziwne dźwięki. Muszę wszystko zrrrobić... ach, zrobić od nowa. Mało brakowało, a bym to wszystko koncertowo sknocił.~
+@10471  = ~Ale co ty właściwie robisz?~
+@10472  = ~Kim ty w ogóle jesteś?~
+@10473  = ~Trzy części stali na... Co? Co robię? Myślę, tworzę i co jakiś czas modlę się o natchnienie. Wykuwam potężną broń, ot co, a ty mi tylko przeszkadzasz tym mieleniem ozorem. Muszę ją odpowiednio wyważyć, bo inaczej będzie latać na wszystkie strony jak szalona.~
+@10474  = ~Nie powinieneś być teraz przy kuźni czy coś w tym stylu?~
+@10475  = ~W takim razie zostawię cię przy pracy.~
+@10476  = ~Będę musiał ją naostrzyć... Czego będę potrzebować... Ach, osełki, oczywista sprawa. Ty wciąż się gapisz? Nie podchodzi się do kuźni z kawałem metalu, by tłuc w niego jak jakiś zrodzony w gnoju ork, ty kiepie. Stworzenie nawet najprostszej broni wymaga planowania. A potrzeba głębokich przemyśleń i wielkiego natchnienia, jeśli chce się stworzyć oręż o takim charakterze! Na brodę Dumathoina! O tym też nie mogę zapomnieć!~
+@10477  = ~Na jakim jesteś etapie?~
+@10478  = ~Co? Na jakim etapie? Spodziewasz się, że będę odmierzał każdą sekundę? Mam ci pisać liściki przy każdej decyzji, jaką podejmę? Phi! Jestem tam, gdzie jestem, i tyle ci musi starczyć. Ach, papier nie nadaje się do kreślenia run. Nigdy nie wyjdą jak należy. No i będę musiał je potem wyryć na ostrzu, to jasne.~
+@10479  = ~Jak uważasz.~
+@10480  = ~Mithril nie wchodzi w rachubę, ale może stop by zadziałał, co? Ja? Jestem Robukin, syn Kenukina z klanu Skalnej Czaszki. Zapytałbym cię o imię, ale mam za dużo na głowie i jeszcze więcej rzeczy, które mogą mi wylecieć z pamięci.~
+@10481  = ~Co właściwie robisz?~
+@10482  = ~Mithril nie wchodzi w rachubę, ale może stop by zadziałał, co? Ja? Jestem Robukin, syn Kenukina z klanu Skalnej Czaszki. Miło mi cię poznać, ale intensywnie myślę i łatwo mnie rozproszyć, więc zrozumiesz, jeśli nie zapytam cię o twoje godne miano. Jestem pewien, że nie chcesz przeszkadzać krasnoludowi przy pracy, prawda?~
+@10483  = ~Będę potrzebował diamentowych narzędzi, żeby naciąć... Wiem, że tam stoisz, czyś ty do reszty zgłupiał?~ ~Będę potrzebował diamentowych narzędzi, żeby naciąć... Wiem, że tam stoisz, czyś ty do reszty zgłupiała?~
+@10484  = ~Może przydałoby ci się trochę więcej szacunku.~
+@10485  = ~Dobra, już ci nie przeszkadzam.~
+@10486  = ~Możliwe, że muszę... Szacunku? Szacunek to zostawienie uczciwego krasnoluda w spokoju, kiedy pracuje. Precz stąd.~
+@10487  = ~Dobra, już cię zostawiam.~
+
+@10488  = ~Poczujesz mój szacunek na ostrzu mojego miecza, głupcze!~
+@10489  = ~Masz przygotowane zamówienie dla Robukina Skalnej Czaszki?~
+@10490  = ~Masz na myśli to dla Dużego? Ta, mam to zamówienie gdzieś tutaj. Przyniosłeś zapłatę?~ ~Masz na myśli to dla Dużego? Ta, mam to zamówienie gdzieś tutaj. Przyniosłaś zapłatę?~
+@10491  = ~Zapłatę? Nic nie mówił o żadnej zapłacie!~
+@10492  = ~Ach, więc to na moją whiskey masz chrapkę, tak? Cóż, nie dostaniesz jej, więc zjeżdżaj.~
+@10493  = ~Chodzi o szczytny cel.~
+@10494  = ~Mogę dobrze zapłacić.~
+@10495  = ~Dawaj ją tutaj, brodaczu. I to już.~
+@10496  = ~Taa, moje zlecenie też jest szczytne. Sam jej potrzebuję i to wcale nie do picia. Nie dostaniesz jej, więc nie marnuj czasu i spływaj.~
+@10497  = ~A po co ci to wiedzieć?~
+@10498  = ~Nie ma żadnego sposobu, byś zmienił zdanie?~
+@10499  = ~W porządku. Zostawię cię w spokoju.~
+@10500  = ~Jeśli już musisz wiedzieć, potrzebuję jej do hartowania ostrza, by nadać mu odpowiedni szlif. Bez tego cała ta kowalska robota pójdzie na marne. Ten trunek jest zbyt rzadki, bym go rozdawał byle moczygębom, nieważne z jakiego powodu.~
+@10501  = ~Musi być jakiś sposób, żebyś mi go oddał.~
+@10502  = ~Dobrze, zostawię cię w spokoju.~
+@10503  = ~Może powinienem użyć do tego młota... Co? Och, skoro tak ci zależy, to jest jeden sposób. Początkowo planowałem schłodzić ostrze specjalną mieszanką. Problem w tym, że przez to całe planowanie zapomniałem drogi do rzemieślnika, u którego ją zamówiłem. Przeklęte miasta tych długonogich, nigdy nie budują ich z sensem. Jeśli znajdziesz tego chłopa i odbierzesz gotowe chłodziwo, whiskey będzie twoja. Pamiętam tylko, że tam, gdzie mieszka, słychać było plusk wody. Jasne, tu też pluska, ale weź zrozum ludzi i to ich durne budowanie miast. Pamiętaj, to porządny fachowiec, krasnolud, żeby nie było wątpliwości. To moje ostatnie słowo. Znajdź mój wywar, a uczciwie się rozliczymy.~
+@10504  = ~Taa, nie wątpię. Wyglądasz na kogoś przy groszu. Ale tu nie o złoto chodzi. Whiskey jest mi potrzebna do pracy, nie do płukania gardła. Nie dostaniesz jej, więc się odczep.~
+@10505  = ~Cóż, wyglądasz na kogoś hardego, to fakt. Ale choćbyś był nie wiadomo jak groźny, nie dostaniesz mojej whiskey bez walki. No dalej, jeśli śmiesz!~ ~Cóż, wyglądasz na kogoś hardego, to fakt. Ale choćbyś była nie wiadomo jak groźna, nie dostaniesz mojej whiskey bez walki. No dalej, jeśli śmiesz!~
+@10506  = ~Zatem giń, głupcze!~
+@10507  = ~Ta, i dobrze. Wreszcie spokój. Teraz, gdybym tylko...~
+@10508  = ~Ta, być może, ale mam za dużo na głowie, by spamiętywać imiona każdego przechodnia. Czego chcesz?~
+
+@10509  = ~Ach, czyżbym nie dał ci zwoju? Nieważne, masz go teraz. Zanieś go do Cromwella, odbierz mój olej hartowniczy i whiskey będzie twoja. Ej! Tylko nie próbuj go czytać, bo wypuścisz magię i Cromwell odprawi cię z kwitkiem. No już, ruszaj.~
+@10510  = ~Ach, oto i ona! Choć no tutaj, ślicznotko. Ach, cudownie. Whiskey jest twoja, rób z nią, co chcesz. Hmmm, nie mogę pozwolić, żeby to tak leżało, bo jeszcze zepsuje cały efekt...~
+@10511  = ~Proszę, oto puchar Wibrysy, używaj go mądrze. Ja ruszam występować na znacznie większej scenie.~
+@10512  = ~Masz już te nasiona? Mam podpisany kontrakt na występy na północy i niedługo muszę ruszać, więc lepiej się pospiesz.~
+@10513  = ~Mam nasiona, proszę bardzo.~
+@10514  = ~Nie mam ich jeszcze.~
+@10515  = ~Nie jestem jeszcze gotowy, wrócę później.~ ~Nie jestem jeszcze gotowa, wrócę później.~
+@10516  = ~Och, a słyszeliście o tym Kelseyu Coltrane'ie? No mówię wam, on rozpala do czerwoności! Grałam z nim pewnej nocy i mój dom stanął w płomieniach, a wtedy...~
+@10517  = ~Trochę tu drętwo, nie uważacie? Może jak coś zaśpiewam, to nastroje się poprawią? Albo, o, już wiem – opowiem kawał! To zawsze rozładowuje atmosferę.~
+@10518  = ~W czym mogę pomóc?~
+@10519  = ~Szukam Wibrysy. Możesz mi pomóc?~
+@10520  = ~Szukam Wibrysy. Podobno ty możesz mi pomóc ją zdobyć.~
+@10521  = ~W niczym, dziękuję.~
+@10522  = ~Jak tam moje dzieci? Jakie dzieci? Ach, no tak, dziewczynki. Mają się świetnie. Przynajmniej miały się tak, kiedy ostatnio byłam w domu. Em, nie wspominając o tym, kiedy to było. I uwierzycie, że jedna z nich niedługo zrobi ze mnie babcię? Babcię! A mam dopiero 514 lat!~
+
+//@10523  = ~Jak wolisz.~
+
+@10524  = ~Zatem ruszajmy w drogę, co?~
+@10525  = ~Cóż, w takim razie lepiej użyj całego swojego uroku w rozmowie z Haludakiem. Jak już mówiłam, nie będę tu czekać w nieskończoność.~
+@10526  = ~Nie zamierzam wiecznie odkładać podróży na Północ. Pospiesz się, proszę.~
+@10527  = ~Cóż, on nie był za to bezpośrednio odpowiedzialny. Właściwie to wcale nie była jego wina. Po prostu, no cóż... yyy...~
+@10528  = ~No powiedz, czy nie masz przypadkiem ciekawszych zajęć?~
+@10529  = ~Cóż, muszę przyznać, że potrafisz nieźle bajdurzyć.~
+@10530  = ~Co to za historia? Mówiono mi, że jesteś bardką, a nie bajarką.~
+@10531  = ~Szukam Wibrysy. Wiesz, co to takiego i gdzie można ją zdobyć?~
+@10532  = ~Mecenas Naparów uważa, że możesz wiedzieć coś o Wibrysie. Muszę ją znaleźć.~
+@10533  = ~Fred i Mecenas Naparów sądzą, że możesz wiedzieć, gdzie dorwę nieco Wibrysy.~
+@10534  = ~Potrzebuję Wibrysy. Fred uznał, że będziesz w stanie mi pomóc.~
+@10535  = ~Nic, nieważne.~
+@10536  = ~W końcu jestem bardką! Znam mnóstwo opowieści. Powiedzcie, słyszeliście tę o Minscu i magicznej fasoli? Dawno, dawno temu...~
+@10537  = ~Opowieść! Proszę, zamieniam się w słuch.~
+@10538  = ~To na pewno wspaniała historia, ale naprawdę nie mam teraz czasu. Szukam Wibrysy. Wiesz, co to jest i gdzie ją znajdę?~
+@10539  = ~Historia pewnie urocza, ale śpieszę się. Mecenas Naparów twierdzi, że wiesz coś o Wibrysie.~
+@10540  = ~Na pewno to świetna historia, ale goni mnie czas. Fred i Mecenas Naparów wspominali, że możesz wiedzieć, gdzie zdobyć Wibrysę.~
+@10541  = ~Opowieść zapewne zacna, ale potrzebuję Wibrysy. Fred twierdzi, że mi pomożesz.~
+@10542  = ~Możemy pominąć te bajeczki? Szukam Wibrysy. Wiesz, gdzie ją znajdę?~
+@10543  = ~Przejdźmy do rzeczy, dobrze? Mecenas Naparów twierdzi, że wiesz coś o Wibrysie.~
+@10544  = ~Daruj sobie te historie. Fred i Mecenas Naparów mówili, że wiesz, jak zdobyć Wibrysę.~
+@10545  = ~Oszczędź mi tych bajań. Fred uważa, że możesz mi pomóc z Wibrysą.~
+@10546  = ~No i proszę, przez ciebie straciłam wątek! Czego ty właściwie chcesz?~
+@10547  = ~Wibrysa? Raju! Jestem zaskoczona, że w ogóle o niej słyszeliście. A po co wam ona?~
+@10548  = ~Fred mówi, że to niezawodne lekarstwo na kaca. Dla mnie to wystarczający powód.~
+@10549  = ~Podałem już powód. Pomożesz mi czy nie?~ ~Podałam już powód. Pomożesz mi czy nie?~
+@10550  = ~Podobno to niezbędny składnik potężnego czaru przywoływania.~
+@10551  = ~Nieważne, po co mi ona. Po prostu jej potrzebuję.~
+@10552  = ~Mam przygotować zestaw różnych trunków, a Wibrysa jest na liście.~
+@10553  = ~Cóż, pogadamy o bystrości umysłu, kiedy ty dobijesz do pięciuset czternastu lat! O ile dożyjesz jutra. Zatem – chcesz czegoś czy nie?~
+@10554  = ~Chcę Wibrysy. Podobno wiesz, gdzie ją zdobyć.~
+@10555  = ~*wzdycha* Nieważne. Wrócę, jak już ochłonę.~
+
+@10556  = ~O nie! Tylko nie ONI?!? Dlaczego ktokolwiek chciałby przyzywać... no cóż, mniejsza z tym. W każdym razie, nie mam teraz tego napitku przy sobie.~
+@10557  = ~To co mam teraz zrobić?~
+@10558  = ~Sugerujesz, że mogłabyś go zdobyć?~
+@10559  = ~Dlaczego ten trunek jest tak  wyjątkowy?~
+@10560  = ~A ty kim niby jesteś? Chłopcem na posyłki?~ ~ A ty kim niby jesteś? Panną na posyłki?~
+@10561  = ~Taki ze mnie chłopiec na posyłki, jak z ciebie avarielka.~ ~Taka ze mnie panna na posyłki, jak z ciebie avarielka.~
+@10562  = ~Tak, jestem chłopcem na posyłki. I dziś muszę znaleźć Wibrysę.~ ~Tak, jestem panną na posyłki. I dziś muszę znaleźć Wibrysę.~
+@10563  = ~Proszę, potrzebuję Wibrysy. Czy możesz mi po prostu powiedzieć, co to jest i gdzie mogę to zdobyć?~
+@10564  = ~Proszę, potrzebuję Wibrysy. Czy możesz mi po prostu powiedzieć, gdzie ją znajdę?~
+@10565  = ~*warknij* Chyba wrócę, jak już trochę ochłonę.~
+@10566  = ~To prawda, bezskrzydłą avarielką nie jestem, ale za to jestem bardką. Może zainteresuje cię poemat o młodej dziewczynie i jej rycerzu w lśniącej zbroi?~
+@10567  = ~Poemat! Tak, to brzmi wspaniale.~
+
+@10568  = ~Łagodna bryza,
+Wśród kwiatów dwoje kochanków,
+Czas dla nich stanął.~
+@10569  = ~W żarze namiętności,
+Świata poza sobą nie widzą,
+Choć wokół szaleją burze.~
+@10570  = ~Gdy liście barwy zmienią,
+Wiatr zapowie nadejście zmian,
+Czy miłość ich przetrwa?~
+@10571  = ~Wicher mroźniejszy teraz,
+Ziemia jałowa, śnieżne zamiecie,
+Lecz dwa serca biją jak jedno.~
+@10572  = ~Gdzie odeszłaś teraz?
+Mówiłaś, że mnie nie opuścisz,
+Łzy padają niczym deszcz.~
+
+@10573  = ~Ach, piękne. Zawsze pozwala mi zebrać myśli. Na czym to skończyliśmy?~
+@10574  = ~Nieważne, dziękuję.~
+@10575  = ~Nieco to nieuprzejme, nie uważasz? Gdybym była obrażalska, w tej chwili przerwałabym tę rozmowę. Masz szczęście, że ze mnie taka wyrozumiała elfka.~
+@10576  = ~Wibrysa to specjalna mikstura, którą matka mojego męża pichciła dla jego ojca, gdy ten zbytnio pofolgował sobie z trunkami. Do jej przyrządzenia potrzeba ziaren kawy Wyborna java i odrobiny magii. Wypijał to i w godzinę robił się trzeźwiuteńki jak poranek – jak to zwykli mawiać ludzie.~
+@10577  = ~Niezawodne lekarstwo na kaca. Podoba mi się to.~
+@10578  = ~Już wiem, czym to jest. Muszę ją zdobyć, pomożesz mi?~
+@10579  = ~Wiesz, jak ją przyrządzić?~
+@10580  = ~Czy mogłabyś przygotować dla mnie odrobinę?~
+@10581  = ~Wiesz, gdzie mógłbym ją dostać?~ ~Wiesz, gdzie mogłabym ją dostać?~
+@10582  = ~No tak. Nie żeby pochwalała zachowania, przez które ludzie potrzebują Wibrysy. Jednak pewne rzeczy są poza moją kontrolą.~
+@10583  = ~Napitek przyrządza się dość łatwo. Przynieś mi ziarna kawy Wyborna java, a ja odczynię odpowiednie uroki i presto! Wibrysa gotowa!~
+@10584  = ~Słyszałeś to, Boo? Ta miła pani zna historię o Minscu!~
+@10585  = ~Owszem, i jeśli przestaniesz mi wchodzić w słowo, to może ją usłyszysz.~
+@10586  = ~Przyjmij przeprosiny. Proszę, mów dalej.~
+@10587  = ~Fred? Doprawdy, nie mam pojęcia, o kim mówisz. Ach, chwileczkę... tak, teraz go sobie przypominam. W moim wieku pamięć czasem szwankuje, jeśli się jej nieco nie rozrusza.~
+@10588  = ~Przecież siedzę tuż obok!~
+@10589  = ~Tak, tak. Powiedziałam przecież, że już pamiętam, no nie?~
+@10590  = ~Więc o co właściwie ci chodziło?~
+@10591  = ~Ty naprawdę nie kontaktujesz, co się wokół ciebie dzieje, prawda?~
+@10592  = ~Ziarna kawy Wyborna java? Haludak ma ich pod dostatkiem – to właśnie Ardotiańska java, którą teraz popija. Próbowałam go przekonać, żeby pozwolił mi ją sprzedawać, ale on nie chce słyszeć o udostępnianiu takich specjałów „plebsowi”.~
+@10593  = ~No popatrz, nawet nie musisz wychodzić z Domu Kawy Haludaka, żeby je zdobyć. Wygląda na to, że będziesz musiał użyć całego swojego uroku. Poczekam tutaj na te ziarna.~ ~ No popatrz, nawet nie musisz wychodzić z Domu Kawy Haludaka, żeby je zdobyć. Wygląda na to, że będziesz musiała użyć całego swojego uroku. Poczekam tutaj na te ziarna.~
+@10594  = ~Widzieliście gdzieś ziarna javy? Ech! Oczywiście, że tak. Ale chodzi mi o PRAWDZIWĄ Wyborną javę, zdaje się, że gdzieś mi się zapodziały.~
+@10595  = ~To mój przybytek, więc traktuj mnie z należytym szacunkiem!~
+
+@10596  = ~Podobno masz zapasy kawy Wyborna java. Chcemy ją od ciebie odkupić.~
+@10597  = ~Nieważne.~
+@10598  = ~Słucham?~
+@10599  = ~NIE! Są moje, MOJE!~
+@10600  = ~Dobrze na tym wyjdziesz, jeśli nam ją odsprzedasz.~
+@10601  = ~Zabierzemy ją siłą, jeśli zajdzie taka potrzeba.~
+@10602  = ~Skoro nie chcesz dobić targu, to podaj chociaż nazwisko swojego dostawcy.~
+@10603  = ~Hehe! Widzicie? Nic mi nie zrobicie, mam tu ochronę! A kawy i tak nie dostaniecie.~
+@10604  = ~Nic ci nie zrobimy? Zaraz się przekonamy!~
+@10605  = ~BŁAGAM, czy możemy odkupić od ciebie choć trochę Wybornej Javy?~
+@10606  = ~Czy możemy coś dla ciebie zrobić w zamian za te ziarna?~
+@10607  = ~Czy zdradzisz nam chociaż, kto cię zaopatruje?~
+@10608  = ~Nie macie nic, co mogłoby mi zrekompensować stratę tych ziaren.~
+@10609  = ~Spróbuję gdzieś indziej. Mecenasie Naparów! Skoro ty parzysz tę javę, musisz mieć własne zapasy. Sprzedaj mi je.~
+@10610  = ~Skoro tak, to podaj mi przynajmniej nazwisko dostawcy.~
+@10611  = ~Dziesięć sztuk złota.~
+@10612  = ~Pięćdziesiąt sztuk złota.~
+@10613  = ~Sto sztuk złota.~
+@10614  = ~Wiem z pewnego źródła, że mam jedyne zapasy Wybornej javy w całej Athkatli. Mój dostawca, Mujai, sprowadza ją tylko dla garstki wybrańców w Amn. O ile mi wiadomo, to jedyny importer, który znalazł kogoś chętnego do handlowania z ludźmi. Niestety od kilku tygodni nie dostarczył ani jednego worka.~
+@10615  = ~Rozumiesz więc, że to ze MNĄ musisz trzymać sztamę, ze MNĄ! *drga mu powieka*~
+@10616  = ~Porozmawiam z tym Mujaiem. Gdzie go znajdę?~
+@10617  = ~W takim razie muszę kupić ziarna od ciebie.~
+@10618  = ~Wygląda na to, że jesteś moją jedyną nadzieją. Oddasz mi te ziarna, CHOĆBYM MIAŁ CI JE WYDRZEĆ Z GARDŁA.~ ~Wygląda na to, że jesteś moją jedyną nadzieją. Oddasz mi te ziarna, CHOĆBYM MIAŁA CI JE WYDRZEĆ Z GARDŁA.~
+@10619  = ~Nie znajdziesz go. Zapadł się pod ziemię. Był pewien, że wróci, zanim moje zapasy się wyczerpią. Powiedział, że musi na jakiś czas zniknąć, bo wierzyciele siedzą mu na karku.~
+@10620  = ~Ha! Dziesięć? Czy ty masz pojęcie, ile kosztuje uncja tego towaru? Dziesięć sztuk złota nie pokryje nawet kosztów transportu.~
+@10621  = ~Pięćdziesiąt sztuk złota, tak? Niewielki zysk... ale niech będzie, dla ciebie wystarczy.~
+@10622  = ~Pięćdziesiąt sztuk złota? Niewiele zarobię, ale niech będzie – to starczy, by pokryć ryzyko, że sam zostanę bez kawy. Zgoda, przyjacielu.~ ~Pięćdziesiąt sztuk złota? Niewiele zarobię, ale niech będzie – to starczy, by pokryć ryzyko, że sam zostanę bez kawy. Zgoda, przyjaciółko.~
+@10623  = ~Pięćdziesiąt sztuk złota... kusząca oferta, miałbym z tego ładny grosz. To jednak wciąż za mało, by ryzykować, że sam zostanę na lodzie bez zapasów.~
+@10624  = ~STO SZTUK ZŁOTA? Masz! Bierz te ziarna, zabieraj je wszystkie!~
+@10625  = ~STO SZTUK ZŁOTA? Ardeku, daj mu te ziarna. A złoto dawaj tutaj, jest moje!~
+@10626  = ~Nie będę zaklinać javy kupionej za cenę krwi!~
+@10627  = ~Stój! Na bogów, Haludaku, po prostu oddaj im te ziarna!~
+@10628  = ~Nie ma mowy! Moje są!~
+@10629  = ~Nie bądź durniem, ci ludzie gotowi są zabić dla garści ziaren!~
+@10630  = ~No już, dobra! Ale potrącę to wam z pensji – tobie i Ardekowi też!~
+@10631  = ~Mnie? A ja co mam z tym wspólnego?~
+
+@10632  = ~To ty wygadałeś tym szaleńcom o ziarnach! Myślisz, że nie widzę, jak spiskujecie za moimi plecami?~
+@10633  = ~Daj już spokój, Haludaku.~
+@10634  = ~No dobra, niech będzie! Masz te ziarna, odczyniaj te swoje czary-mary... czy jak tam to nazywasz.~
+@10635  = ~Dziękuję. Miejmy to już z głowy.~
+@10636  = ~Mogłabyś spróbować wyleczyć go z tego nałogu.~
+@10637  = ~Świetnie się czuję tak, jak jest, bardzo dziękuję!~
+@10638  = ~Zatem odbierzemy je siłą.~
+@10639  = ~W takim razie NAPRAWDĘ odbierzemy je siłą.~
+@10640  = ~Zatem muszę je od ciebie odkupić.~
+@10641  = ~W takim razie pójdę do twojego dostawcy. Jak się nazywa?~
+@10642  = ~Wątpię, byście mieli dość złota, żeby mi się to opłaciło. Ryzykuję posadę, wydając wam te ziarna.~
+@10643  = ~W takim razie wrócę do rozmowy z Haludakiem.~
+@10644  = ~Heh! Z samych napiwków mam więcej.~
+@10645  = ~No cóż! To oferta zbyt kusząca, bym mógł odmówić.~
+@10646  = ~Nie masz prawa sprzedawać mojej Wybornej Javy!~
+@10647  = ~Patrz i się ucz. Zwrócę ci koszty, ale nie zamierzam przepuścić takiej okazji na zarobek. I tak wisisz mi podwyżkę za to, że w ogóle trzymam ten przybytek w ryzach.~
+@10648  = ~Wylecisz na zbity pysk, jeśli oddasz te ziarna!~
+@10649  = ~Jakoś w to wątpię, Haludaku. Nigdy nie znajdziesz nikogo na moje miejsce, a już na pewno nie za te nędzne grosze, które mi płacisz.~
+@10650  = ~Grrr. Jeszcze o tym porozmawiamy.~
+@10651  = ~Nie wątpię.~
+@10652  = ~Witamy w Domu Kawy Haludaka. Czy podać coś do picia?~
+@10653  = ~Tak właściwie to szukam Maheera. Wydawało mi się, że to jego lokal.~
+@10654  = ~Nazywasz się Haludak?~
+@10655  = ~Muszę zdobyć trunek zwany Wibrysą. Wiem, że głównym składnikiem jest java. Macie ją na stanie?~
+@10656  = ~Dom Kawy? Pokaż, co tam macie.~
+@10657  = ~Na razie podziękuję.~
+@10658  = ~Hmf! Maheer potrafi sprawiać takie wrażenie, prawda? W rzeczywistości to tylko kupiec, który handluje tutaj wieczorami za przyzwoleniem Haludaka. Jeśli tu jest, zwykle siedzi przy stoliku pod północną ścianą. W przeciwnym razie znajdziesz go na straganie przed budynkiem, na Promenadzie.~
+@10659  = ~Rozumiem, dziękuję. Pójdę go poszukać.~
+@10660  = ~Mówiłeś coś o javie? Jaki macie wybór?~
+@10661  = ~Czyli to miejsce należy do Haludaka? To ty?~
+@10662  = ~Rozumiem, dziękuję. Szukam trunku zwanego Wibrysą. Podobno głównym składnikiem jest java. Macie ją?~
+@10663  = ~Nie, jestem tylko Mecenasem Naparów. Mówię „tylko”, ale prawda jest taka, że praktycznie sam prowadzę ten interes – Haludak już się do niczego nie nadaje. Siedzi na końcu baru, jeśli NAPRAWDĘ musisz z nim pogadać. Uważaj jednak, facet ma lekką paranoję.~
+@10664  = ~Co mu dolega?~
+@10665  = ~W takim razie dam mu spokój.~
+@10666  = ~Chętnie spróbuję waszej javy. Co polecasz?~
+@10667  = ~Za bardzo polubił własny towar, jeśli rozumiesz, o co mi chodzi, ale niech to cię nie powstrzymuje przed degustacją. Mogę przyjąć zamówienie?~
+@10668  = ~Tym razem podziękuję.~
+@10669  = ~Jasne, co macie w ofercie?~
+@10670  = ~Rozsądny wybór. Chcesz coś zamówić?~
+@10671  = ~Może później, dziękuję.~
+@10672  = ~Nie teraz. Muszę zdobyć napitek znany jako Wibrysa. Dowiedziałem się, że jego głównym składnikiem jest java. Macie ją tutaj?~ ~Nie teraz. Muszę zdobyć napitek znany jako Wibrysa. Dowiedziałam się, że jego głównym składnikiem jest java. Macie ją tutaj?~
+@10673  = ~Może później. Co się właściwie stało z Maheerem? Odniosłem wrażenie, że to jego lokal.~ ~Może później. Co się właściwie stało z Maheerem? Odniosłam wrażenie, że to jego lokal.~
+@10674  = ~Czemu nie? Co macie dobrego?~
+@10675  = ~Wibrysa, powiadasz? Przykro mi, nie mamy jej. Powinieneś zapytać Freda – on jest ekspertem od wszystkiego, co związane z javą. Może wiedzieć, gdzie ją zdobyć. Siedzi tam, po drugiej stronie baru.~
+@10676  = ~Poza tym to chyba elfi trunek, więc możesz też spróbować u Lady Napitek. Jest bardką, a oni ponoć wiedzą wszystko. Ostrzegam jednak, że ta konkretna artystka ma fatalne problemy z pamięcią krótkotrwałą.~
+@10677  = ~Fred i Lady Napitek? Dzięki za pomoc.~
+@10678  = ~Fred i Lady Napitek? Dzięki za pomoc. A ty jesteś Haludak?~
+@10679  = ~Fred i Lady Napitek? Dzięki. A co z Maheerem? Myślałem, że to jego interes.~ ~Fred i Lady Napitek? Dzięki. A co z Maheerem? Myślałam, że to jego interes.~
+@10680  = ~Fred i Lady Napitek? Dzięki. Skoro już tu jestem, dałoby się czegoś napić?~
+@10681  = ~Java czyni cuda, jeśli chodzi o usuwanie skutków wina i piwa. Od samego aromatu robi mi się lepiej. Tylko nie przesadźcie – przestanę was obsługiwać, jeśli zobaczę, że zaczynają wam latać ręce.~
+@10682  = ~Na czym to skończyliśmy? Ach tak, oto ziarna. A teraz poproszę to złoto, dziękuję bardzo.~
+@10683  = ~Wiedzieliście, że Volo pisał tu swój Przewodnik po Athkatli? Pewnego dnia będę równie sławna jak on.~
+@10684  = ~Ciekawe, czy Elminster miewa czasem problemy z trybem łączącym.~
+@10685  = ~Powinnam napisać ten rozdział w pierwszej czy w trzeciej osobie? Volo zazwyczaj pisze w trzeciej i dodaje przypisy, ale nie chcę kopiować jego stylu... zbyt mocno.~
+@10686  = ~Ardotiańska java, którą tu serwują, to najlepsza rzecz, jaką piłem.~
+@10687  = ~Trzymajcie się z dala od kawy Darelesha – wyciska łzy z oczu. *wzdryga się*~
+@10688  = ~Napar z liści nana jest bardzo odświeżający w gorące popołudnia.~
+@10689  = ~Nie jestem wielkim fanem Czaju Tanasiego. Ta pisarka w kącie go uwielbia, ale to po prostu nie moja bajka.~
+@10690  = ~Nie próbowałem jeszcze tej nowej karlotańskiej koki. Mecenas twierdzi, że musi najpierw dopracować recepturę, nim mi ją poda. To poczciwy człowiek.~
+@10691  = ~Chcesz czegoś?~
+@10692  = ~Próbuję dowiedzieć się czegoś o Wibrysie, możesz mi pomóc?~
+@10693  = ~Wibrysa to magiczny elficki napój przyrządzany z najlepszej javy. Formuła czaru nadająca jej te szczególne właściwości jest przekazywana z pokolenia na pokolenie, przez co Wibrysa ma dziś wiele odmian.~
+@10694  = ~Ta bardka nieco dalej przy barze, ta, co żyje we własnym świecie... założę się, że wie, jak ją przyrządzić.~
+@10695  = ~Myślałem, że już to przerabialiśmy. Spróbuj tym razem zapamiętać.~
+@10696  = ~No, znam tę śpiewkę. Ile jest ci winien?~
+@10697  = ~Cały on. Robukin zapomniałby własnych nóg, gdyby bogowie nie przypilnowali, żeby były dobrze przymocowane.~
+@10698  = ~Nie o pieniądze tu idzie, jeśli o tym myślisz.~
+@10699  = ~Ano, winien mi jest specjalną zapłatę – zwoje. Musisz je od niego wydostać. Nie przyjmę niczego innego za ten olej, który dla niego przygotowałem. Przynieś mi zwoje, a specyfik będzie twój.~
+@10700  = ~W czymś jeszcze mogę ci pomóc?~
+@10701  = ~Przynoszę zwoje od Robukina. Masz ten olej dla niego?~
+@10702  = ~Tak, mam go tutaj. Bierz go i oby był wart tego całego biegania, na które posłał cię Robukin.~
+@10703  = ~Szukam Krasnoludzkiej whiskey, macie trochę?~
+@10704  = ~Krasnoludzką whiskey trzymam tylko dla jednego ze stałych bywalców, ale jeśli lubisz krasnoludzkie wyroby, mam za barem niezły grog.~
+@10705  = ~Nie, potrzebuję konkretnie Krasnoludzkiej whiskey. Jest szansa, żeby ją dostać?~
+@10706  = ~Może później. Wiesz, gdzie indziej mógłbym dostać Krasnoludzką whiskey?~
+@10707  = ~Moja whiskey jest dla Robukina, tego krasnoluda w kącie. Musisz pogadać z „Dużym”, jak go nazywamy, i sprawdzić, czy ci trochę odstąpi.~
+@10708  = ~Czy ty jesteś „Duży”? Powiedziano mi, że możesz mieć coś, czego potrzebuję.~
+@10709  = ~„Duży”? Ano, niektórzy z tych tutaj tyczek tak mnie zwą. Hm, chyba będę musiał im nieco przykrócić języka... Co takiego niby mam, czego ty potrzebujesz, co? Chętnie o tym posłucham. No?~
+@10710  = ~Słyszałem, że masz Krasnoludzką whiskey. Właśnie jej potrzebuję.~ ~Słyszałam, że masz Krasnoludzką whiskey. Właśnie jej potrzebuję.~
+
+@10711  = ~Masz Krasnoludzką whiskey. Oddawaj ją.~
+@10712  = ~Do stu piorunów, wy lądowe szczury! Co tu się wyprawia?~
+@10713  = ~Skoro to miał być prezent dla mnie, to dlaczego cała wasza zgraja dobrała się do antałka i żłopie go w najlepsze?~
+@10714  = ~Złoty wywar Corskiego?! Podajcie mi kufel, wychylę parę kwart razem z wami!~
+@10715  = ~Uważaj na słowa, kiedy mówisz o Laurlanie, ty obrośnięty pąklami kundlu! Nie dziewka, a prawdziwa dama, chłopcze. Moje serce nie należy już do morza, tylko do niej.~
+@10716  = ~Nieźle radzę sobie z ostrzem, może załapię się na jakąś robotę jako strażnik czy ktoś taki. Bylebym mógł wracać do Laurlany. Dorobimy się gromadki własnych szczeniaków, a ja ich nauczę wszystkiego o morzu i robocie na pokładzie.~
+@10717  = ~Pobudka, wy mątwie mózgi! Ech, i z kim ja mam teraz pić? Oho! Hej tam, przyjacielu! Jak leci?~ ~Pobudka, wy mątwie mózgi! Ech, i z kim ja mam teraz pić? Oho! Hej tam, przyjaciółko! Jak leci?~
+@10718  = ~Całkiem nieźle. Nie masz nic przeciwko, jeśli się z tobą napiję?~
+@10719  = ~W gardle mi zaschło, jeśli rozumiesz, o co mi chodzi.~
+@10720  = ~Zamknij się, ty stary pijaku, i oddawaj tę beczułkę!~
+@10721  = ~Skoro szukasz dobrego trunku, bierz śmiało cały antałek. Moi kompani najwyraźniej mają już dość, a i ja czuję się całkiem błogo.~
+@10722  = ~Nie pogardzę, dzięki.~
+@10723  = ~Niech nikt nie mówi, że Corradun kiedykolwiek odprawił spragnioną duszę z kwitkiem. Bierz całą beczkę, kamracie. Ja już z niej pożytku mieć nie będę.~ ~Niech nikt nie mówi, że Corradun kiedykolwiek odprawił spragnioną duszę z kwitkiem. Bierz całą beczkę, kamratko. Ja już z niej pożytku mieć nie będę.~
+@10724  = ~Dzięki, przyjacielu. Zdrowia życzę!~
+@10725  = ~Może i jestem pijany i widzę cię podwójnie, ale to tylko znaczy, że wpakuję po ostrzu w każdego z was! Dalej, chłopcy! Brać ich! Ech, niech to szlag, te durnie są zbyt pijane, żeby walczyć! Dobra, bierzcie beczkę, ale radzę wam oglądać się za siebie. Nigdy nie wiadomo, kiedy i kto wpakuje wam kosę, wy szczury z zęzy!~ ~Może i jestem pijany i widzę cię podwójnie, ale to tylko znaczy, że wpakuję po ostrzu w każdą z was! Dalej, chłopcy! Brać ich! Ech, niech to szlag, te durnie są zbyt pijane, żeby walczyć! Dobra, bierzcie beczkę, ale radzę wam oglądać się za siebie. Nigdy nie wiadomo, kiedy i kto wpakuje wam kosę, wy szczurzyce z zęzy!~
+@10726  = ~Zjeżdżaj z drogi, ty stary obdartusie!~
+@10727  = ~Tak, mój aniele. Już idę...~
+
+@10728  = ~Corradun? Powinnam była wiedzieć, ty głupi, brzydki pijaku! Rusz tyłek do domu, ty śmierdzący kocurze, zanim straż zakuje cię w kajdany. Jak mogłeś szlajać się z tą hołotą w noc przed naszym ślubem? Sama nie wiem, dlaczego w ogóle zgodziłam się za ciebie wyjść...~
+@10729  = ~Corradun, wszyscy dorzuciliśmy się do puli, żeby sprawić ci ładny prezent na emeryturę.~
+@10730  = ~Arghh! Corradun, to prawda? Porzucasz życie na pełnym morzu dla jakiejś dziewki?~
+@10731  = ~Bard? Zdaje się, że ten gąsior szukał natchnienia na dnie butelki tak długo, aż sam zaczął trącić gorzałką zamiast poezją.~
+@10732  = ~Phi! Wątpię, by jakakolwiek jarmarczna sztuczka, którą potrafiłby przywołać taki pijaczyna, mogła równać się z najmizerniejszą istotą, jaką ja potrafię przyzwać. (Ten osobnik ledwo trzyma się na nogach, a co dopiero miałby panować nad rękami przy rzucaniu zaklęcia).~
+@10733  = ~Ej! Słyszałem to! Zdziwiłbyś się, ile można zdziałać, kiedy zasieje się w kimś odrobinę zwątpienia.~
+@10734  = ~A to niby co ma znaczyć? (Nawet nie potrafię zniżyć się do jego poziomu intelektualnego).~
+@10735  = ~Znaczy, ten... Nieważne, nie o to chodzi.~
+@10736  = ~Gibberlingi, i to wyjątkowo mizerne. Jak już rzekłem, potrafiłem przyzwać potężniejsze istoty, będąc jeszcze w powijakach. (Tak, ten niechlujny fircyk jest równie nieudolny, jak sądziłem).~
+@10737  = ~Wspaniale, kolejny kompan Salvanasa. Myślę, że powinniśmy unikać wdawania się z nim w dysputy.~
+@10738  = ~A tyś kto? Jakaś czarownica, co chce ze mnie zrobić diabła?~
+@10739  = ~Nie zawracałabym sobie głowy takim śmieciem jak ty, iblith.~
+@10740  = ~To nie ją powinieneś próbować oczarować, Drini.~
+@10741  = ~Takie dąsy z pewnością czarują mnie!~
+@10742  = ~Yoshi mnie zna, wie, że potrafię opowiedzieć historię czy dwie, co nie?~
+@10743  = ~Ach, to prawda; choć twoje opowieści mają tyle wspólnego z rzeczywistością, co to okropne zdrobnienie mojego imienia z oryginałem.~
+@10744  = ~Uch...~
+@10745  = ~To chyba komplement, nie?~
+@10746  = ~Mówiąc wprost: nie.~
+@10747  = ~Święta prawda.~
+@10748  = ~Mimo wszystko, nigdy nic nie wiadomo. Może warto go wysłuchać – co nam szkodzi spróbować?~
+@10749  = ~Suleci to w gruncie rzeczy poczciwiec, mimo tego, co mogłaby sugerować jego zażyłość z tamtym łajdakiem.~
+@10750  = ~Hmmf.~
+@10751  = ~Jeśli zmienisz zdanie, znajdziesz mnie tutaj.~
+@10752  = ~Gdybyś potrzebował czegoś jeszcze, służę pomocą.~ ~Gdybyś potrzebowała czegoś jeszcze, służę pomocą.~
+@10753  = ~Dobrego dnia życzę.~
+
+@10754  = ~Na bogów, daj mi święty spokój! Nie widzisz, że mam dość własnych problemów i nie potrzebuję jeszcze ludzi twojego pokroju, którzy będą mnie nękać!~
+@10755  = ~Czekaj. My się nie znamy, prawda?~
+@10756  = ~Prawda, przyjacielu. Coś się stało?~
+@10757  = ~Nigdy w życiu cię nie widziałem i szczerze mówiąc, wolałbym, żeby tak pozostało...~ ~Nigdy w życiu cię nie widziałam i szczerze mówiąc, wolałabym, żeby tak pozostało...~
+@10758  = ~Zakładam, że jesteś byłym kochankiem tej niziołki w kącie. Przykro mi, ale czas umierać.~
+@10759  = ~Więc to ty jesteś byłym kochankiem tej niziołki w kącie? Słyszałem już tę historię i wygląda na to, że moglibyście to wyjaśnić, gdybyście tylko ze sobą porozmawiali.~ ~Więc to ty jesteś byłym kochankiem tej niziołki w kącie? Słyszałam już tę historię i wygląda na to, że moglibyście to wyjaśnić, gdybyście tylko ze sobą porozmawiali.~
+@10760  = ~To ty jesteś tym złodziejem, o którym tyle słyszałem od tamtej niziołki? Tej, która teraz leży tam martwa?~ ~To ty jesteś tym złodziejem, o którym tyle słyszałam od tamtej niziołki? Tej, która teraz leży tam martwa?~
+@10761  = ~Czy coś się stało? Tak, stało się! Jedyna miłość mojego życia uciekła z jakimś bękartem z wyższych sfer!~
+@10762  = ~Przykro mi to słyszeć. Może opowiesz mi całą historię?~
+@10763  = ~Wybacz, nie mam na to czasu...~
+@10764  = ~W takim razie zostaw mnie w spokoju...~
+@10765  = ~Więc w końcu posłała kogoś, żeby mnie zabił, by mogła uciec ze swoim kochankiem? Wiedziałem!~
+@10766  = ~Przygotuj się na spotkanie ze stalą!~
+@10767  = ~Allanya? Ona... nie żyje? Co się stało?!~
+@10768  = ~Próbowała mnie wynająć, żebym cię zabił, bo rzekomo zrujnowałeś jej interes. W zamian oferowała najlepsze trunki, jakie mają w tym barze. Uznałem, że łatwiej będzie ją zabić i zabrać klucz z jej zwłok.~ ~Próbowała mnie wynająć, żebym cię zabiła, bo rzekomo zrujnowałeś jej interes. W zamian oferowała najlepsze trunki, jakie mają w tym barze. Uznałam, że łatwiej będzie ją zabić i zabrać klucz z jej zwłok.~
+@10769  = ~Dostała to, na co zasłużyła. Próbowała cię zamordować!~
+@10770  = ~A więc miałem rację! Chciała mnie zabić... choć nigdy nie sądziłem, że... naprawdę to zrobi...~
+@10771  = ~Allanya...~
+@10772  = ~O co ci chodzi? Na litość boską, ona chciała twojej śmierci!~
+@10773  = ~Och, nie rycz. Dostała to, na co zasłużyła, wierz mi.~
+@10774  = ~Zawsze podejrzewałem, że taki ma plan. Zabić mnie i uciec z NIM, ale... nigdy nie sądziłem, że... naprawdę się do tego posunie...~
+@10775  = ~Ona... była jedyną kobietą, którą kochałem... A teraz odeszła...~
+@10776  = ~Przykro mi zawracać ci głowę w takiej chwili, ale mam klucz do jakiejś piwnicy i nie mam pojęcia, gdzie ona jest. Myślisz, że mógłbyś mi pomóc?~
+@10777  = ~Życie jest brutalne. Przestań się mazać, ty ckliwy idioto! Słuchaj, mam klucz do piwnicy, ale nie mam pojęcia, gdzie ona jest. Chcę, żebyś przyniósł mi ten „wyborny trunek”.~
+@10778  = ~Wybacz, że cię o to męczę, ale Allanya obiecała mi jedne z najlepszych trunków w tym lokalu, a tak się składa, że ja bardzo ich potrzebuję. Masz pojęcie, gdzie mogą być?~
+@10779  = ~Każdy ma jakieś problemy. Przestań się mazać, ty ckliwy idioto! Allanya obiecała mi najlepsze trunki, jakie tu mają, i naprawdę ich potrzebuję. Wiesz, gdzie je ukryła?~
+@10780  = ~Tak, wiem, gdzie jest piwnica.~
+@10781  = ~Przyniosę ci ten napitek, ale potem zostaw mnie w spokoju. Proszę.~
+
+@10782  = ~Znajdziesz go w piwnicy... Miała klucz, o ile dobrze pamiętam. Powinien być gdzieś przy niej... przy jej ciele...~
+@10783  = ~Przynieś mi go, a pójdę po ten trunek. Potem jednak zostaw mnie w spokoju. Proszę!~
+@10784  = ~Kiedy się poznaliśmy, była barmanką w tej przytulnej małej karczmie. Niesamowitą, dodam. Gdy pierwszy raz przekroczyłem te progi, nie mogłem oderwać od niej wzroku. Te piękne oczy, cudowne usta, jej owłosione palce u stóp...~
+@10785  = ~Wybacz, na czym to ja skończyłem?~
+@10786  = ~*chrząka* Z zawodu jestem specjalistą od cichej roboty, a karczma to doskonałe miejsce, by wejść w posiadanie nadmiarowych przedmiotów o sporej wartości. Pewnego dnia przyłapała mnie na gorącym uczynku. Myślałem, że już po mnie, lecz wtedy zobaczyłem coś w jej oczach. Coś, co mówiło mi, że wcale nie chce mnie oddawać straży.~
+@10787  = ~Wtedy właśnie wymyśliliśmy nasz interes. Ona doprawiała drinki, a ja wyciągałem z kieszeni gości przedmioty, których i tak nie potrzebowali.~
+@10788  = ~Och, nie patrz tak na mnie. Jeśli jakiś bogaty bękart wchodzi tutaj z sakiewką rozmiarów Tethyru, to doprawdy nie potrzebuje całej tej gotówki tylko dla siebie, prawda? Ja jedynie... dokonywałem redystrybucji wśród tych, którzy potrzebowali jej bardziej.~
+@10789  = ~Wszystko szło świetnie, dopóki nie znalazła sobie innego. Jakiegoś nadętego snoba z wyższych sfer, który obiecał jej „lepsze życie” czy inne bzdury tego typu. Myślałem, że mnie kocha, że łączyło nas coś więcej niż łupy... ale myliłem się.~
+@10790  = ~Wystawiła mnie. Dała cynk strażnikowi, o którym wiedziała, że zamierzam go okraść. Rozcieńczyła mu piwo, żeby był w pełni sił i mógł upilnować swoje kieszenie. Złapał mnie na gorącym uczynku!~
+@10791  = ~Ta suka chciała mnie po prostu usunąć z drogi, żeby zagarnąć wszystkie NASZE ciężko zarobione dobra i uciec z tym drugim draniem!~
+@10792  = ~Skoro ja nie mogę jej mieć, nie dostanie jej nikt! Wyglądasz na kogoś z gatunku „najpierw tnij, potem pytaj”. Mam dla ciebie robotę.~
+@10793  = ~Rozumiem doskonale. Nie martw się, zajmiemy się nią.~
+@10794  = ~A co możesz zaoferować w zamian za wykonanie tego zadania?~
+@10795  = ~Jesteś pewien wszystkich faktów? Naprawdę uważam, że powinieneś z nią o tym porozmawiać.~
+@10796  = ~Nie mogę po prostu zabić kobiety z zimną krwią. Przykro mi.~
+@10797  = ~Pozwól, że to przemyślę. Wrócę później.~
+@10798  = ~Porozmawiać z nią?! Oszalałeś?! Słyszałeś, co ta zdradziecka kobieta mi zrobiła!~ ~Porozmawiać z nią?! Oszalałaś?! Słyszałaś, co ta zdradziecka kobieta mi zrobiła!~
+@10799  = ~Myśl o niej z kimś innym jest po prostu zbyt bolesna...~
+
+@10800  = ~Przecież wiesz, że to fatalny pomysł. Proszę, po prostu z nią porozmawiaj. Na pewno zdołacie to wyjaśnić.~
+@10801  = ~Przemyśl to jeszcze. Czy naprawdę mógłbyś po czymś takim spojrzeć sobie w oczy? To wcale nie musi się tak skończyć.~
+@10802  = ~Dobra, zrobimy to, ale mam nadzieję, że nasza fatyga zostanie odpowiednio wynagrodzona.~
+@10803  = ~Proszę, chociaż mnie wysłuchaj!~
+@10804  = ~W porządku, wysłucham tej twojej historii.~
+@10805  = ~Czy wyglądam na kogoś, kto chce słuchać „opowieści o utraconej miłości”? Chcę się po prostu napić w spokoju, a nie użerać ze śmierdzącym żebrakiem, który jęczy nad swoim losem. Zjeżdżaj!~
+@10806  = ~Wybornie. Nie martw się, zostaniesz za to sowicie nagrodzony. Przeszukaj ją, gdy skończysz – powinna mieć przy sobie klucz do tajnej piwnicy. Przynieś mi go, a dostaniesz butelkę najlepszego trunku, jaki tu serwują.~
+@10807  = ~To ta całkiem ładna niziołka w kącie...~
+@10808  = ~Rozumiem.~
+@10809  = ~Będę tu jeśli zmienisz zdanie...~
+@10810  = ~Mówiłem już, że była barmanką, prawda? Wciąż ma przy sobie klucz do tajnej piwnicy. Przynieś go, gdy będzie już po wszystkim, a dostaniesz butelkę najlepszego alkoholu w tym przybytku.~
+@10811  = ~Zatem, zrobisz to?~
+@10812  = ~Jasne. Gdzie ona jest?~
+@10813  = ~Dziękuję. To ta niziołka tam w kącie, ta całkiem urodziwa...~
+@10814  = ~Masz rację... Nie wiem, jak miałbym dalej żyć ze świadomością, że przeze mnie zginęła.~
+@10815  = ~Może to faktycznie nieporozumienie. Może to wszystko jedna wielka pomyłka. Sam już nie wiem...~
+@10816  = ~Muszę z nią porozmawiać. Dziękuję ci, panie.~ ~Muszę z nią porozmawiać. Dziękuję ci, pani.~
+@10817  = ~Proszę. Weź te splamione krwią pieniądze i zostaw mnie w spokoju.~
+@10818  = ~I jak, masz klucz?~
+@10819  = ~Tak, proszę bardzo.~
+@10820  = ~Nie, jeszcze nie. Wrócę niebawem.~
+@10821  = ~W takim razie skoczę po ten napitek, ale potem daj mi wreszcie święty spokój. Proszę.~
+@10822  = ~Więc... to już? Już po wszystkim?~
+@10823  = ~Nie mogę uwierzyć, że odeszłaś... *szlocha* Byłaś jedyną kobietą, którą kochałem...~
+@10824  = ~Skoro zrobiłeś to, o co prosiłem, przyniosę ci ten przeklęty napitek. Potem jednak zostaw mnie w spokoju. Proszę!~ ~Skoro zrobiłaś to, o co prosiłem, przyniosę ci ten przeklęty napitek. Potem jednak zostaw mnie w spokoju. Proszę!~
+@10825  = ~Skoro robota wykonana, to przyniosę ci ten przeklęty napitek. Masz klucz?~
+@10826  = ~Ee... nie. Zapomniałem go zabrać.~ ~Ee... nie. Zapomniałam go zabrać.~
+@10827  = ~Jeśli mi go dostarczysz, zdobędę dla ciebie ten trunek, ale potem zostaw mnie w spokoju. Proszę.~
+@10828  = ~Zaczekam tutaj, aż się z nią rozprawisz. Wtedy otrzymasz nagrodę.~
+@10829  = ~Rozumiem. Wrócę wkrótce.~
+@10830  = ~Zmieniłem zdanie. Nie potrafię zabić kobiety z zimną krwią. Przykro mi.~ ~Zmieniłam zdanie. Nie potrafię zabić kobiety z zimną krwią. Przykro mi.~
+@10831  = ~Tak sobie myślę... Jesteś pewien, że znasz całą prawdę? Naprawdę uważam, że powinieneś najpierw z nią porozmawiać.~
+@10832  = ~A, wróciłeś. Zmieniłeś zdanie?~ ~A, wróciłaś. Zmieniłaś zdanie?~
+@10833  = ~Przemyślałem to i masz rację. Pomogę ci.~ ~Przemyślałam to i masz rację. Pomogę ci.~
+@10834  = ~Wciąż się waham. Wrócę później.~
+@10835  = ~Czego znowu chcesz? Nie możesz po prostu zostawić biedaka sam na sam z jego nieszczęściem?~
+@10836  = ~Wybacz, wcześniej byłem nieco gburowaty. Stało się coś złego?~ ~Wybacz, wcześniej byłem nieco gburowata. Stało się coś złego?~
+@10837  = ~Och... wybacz mi, panie... naprawdę, przepraszam, ale czy mógłbyś poświęcić mi chwilę? Tylko moment. Nie chciałabym się narzucać, ale to... to pilna sprawa. On na pewno do ciebie podejdzie. Na pewno. Wystarczy na ciebie spojrzeć – poszukiwacz przygód, jak nic. A on wie. Wie, że nie puszczę mu tego płazem, więc nastawia przeciwko mnie każdego, kogo spotka! Każdego! Mnie! Osobę, która uczciwie tu pracowała! A oni mu wierzą... „Och, czyż nie jest czarujący?”, „Cóż za serdeczny gość!” Phi! Oczywiście, że taki jest – przecież to zwykły złodziejaszek! Hmf. Zasługują na każde kłamstwo, którym ich karmi... Gdybym choć przez moment podejrzewała, że spróbuje tego samego ze mną – przysięgam – nigdy nie zmarnowałabym ani odrobiny energii na tego durnia...~ ~Och... wybacz mi, pani... naprawdę, przepraszam, ale czy mogłabyś poświęcić mi chwilę? Tylko moment. Nie chciałabym się narzucać, ale to... to pilna sprawa. On na pewno do ciebie podejdzie. Na pewno. Wystarczy na ciebie spojrzeć – poszukiwaczka przygód, jak nic. A on wie. Wie, że nie puszczę mu tego płazem, więc nastawia przeciwko mnie każdego, kogo spotka! Każdego! Mnie! Osobę, która uczciwie tu pracowała! A oni mu wierzą... „Och, czyż nie jest czarujący?” „Cóż za serdeczny gość!” Phi! Oczywiście, że taki jest – przecież to zwykły złodziejaszek! Hmf. Zasługują na każde kłamstwo, którym ich karmi... Gdybym choć przez moment podejrzewała, że spróbuje tego samego ze mną – przysięgam – nigdy nie zmarnowałabym ani odrobiny energii na tego durnia...~
+@10838  = ~Czy ty... wciąż mówisz do MNIE?~
+@10839  = ~Brzmi, jakbyś miała kłopoty.~
+@10840  = ~Tak, to doprawdy interesujące. Wybacz, ale muszę iść...~
+@10841  = ~Pokłóciłaś się z kimś?~
+@10842  = ~Rozmawiałem już z twoim byłym kochankiem. Szczerze mówiąc, brzmi to tak, jakbyście mogli się porozumieć, gdybyście tylko ze sobą porozmawiali.~
+
+@10843  = ~Rozmawiałem z twoim byłym kochankiem. Poinformował mnie, że masz klucz do tutejszej piwnicy. Zamierzam go zdobyć.~ ~Rozmawiałam z twoim byłym kochankiem. Poinformował mnie, że masz klucz do tutejszej piwnicy. Zamierzam go zdobyć.~
+@10844  = ~Cóż, oczywiście, że wciąż mówię do ciebie! Przecież patrzę na ciebie, a nie na tego typa po drugiej stronie baru... Co? Czekaj, nie! Nie patrz tam! Co ty wyprawiasz?! Bogowie, płonę... płonę ze wstydu! Jeśli zobaczył, to będzie wiedział... Nie, żeby nie powinien... Chociaż... właściwie powinien. Zasłużył na to! Niech się pichci we własnym sosie, w strachu przed tym, co go czeka! Dalej, patrz ile chcesz! PATRZ, mówię!~
+@10845  = ~Oooooch, trafił nam się mądrala! Spójrzcie tylko, prawdziwy geniusz w naszej skromnej norze, którą niektórzy nazywają barem! Jesteś magiem czy ten twój bystry instynkt to dar od natury? Tak, mam kłopoty! A przynajmniej miałam. I nie chcę pozwolić temu, kto je spowodował, wywinąć się tak łatwo jak zawsze. Zasłużył na to, co go spotka! Ten tyczkowaty łajdak tym razem się nie wyślizgnie! Jego urok go nie uratuje, przysięgam na bogów, PRZYSIĘGAM!~ ~Oooooch, trafiła nam się mądrala! Spójrzcie tylko, prawdziwy geniusz w naszej skromnej norze, którą niektórzy nazywają barem! Jesteś magiem czy ten twój bystry instynkt to dar od natury? Tak, mam kłopoty! A przynajmniej miałam. I nie chcę pozwolić temu, kto je spowodował, wywinąć się tak łatwo jak zawsze. Zasłużył na to, co go spotka! Ten tyczkowaty łajdak tym razem się nie wyślizgnie! Jego urok go nie uratuje, przysięgam na bogów, PRZYSIĘGAM!~
+@10846  = ~Co? CO?! Oto biedna, smutna, zapłakana i załamana niziołcza dama błaga cię o pomoc, a ty odwracasz się plecami? Nie jesteś lepszy od tego złodziejaszka, który wpakował mnie w to bagno! Gdzie się podziali prawdziwi bohaterowie?! No gdzie, pytam? Czy nie ma już za grosz przyzwoitości?! Zdarzało mi się dawać darmowy kufel strudzonej duszy, i po co?! Po co, pytam?! Żeby mnie ignorowano, oto po co!~ ~Co? CO?! Oto biedna, smutna, zapłakana i załamana niziołcza dama błaga cię o pomoc, a ty odwracasz się plecami? Nie jesteś lepsza od tego złodziejaszka, który wpakował mnie w to bagno! Gdzie się podziali prawdziwi bohaterowie?! No gdzie, pytam? Czy nie ma już za grosz przyzwoitości?! Zdarzało mi się dawać darmowy kufel strudzonej duszy, i po co?! Po co, pytam?! Żeby mnie ignorowano, oto po co!~
+@10847  = ~Genialne, po prostu genialne. Oczywiście, że się z kimś pokłóciłam! Myślisz, że moje oczy są tak czerwone i spuchnięte z natury? Że tak szlocham przez cały czas? Że zawsze jestem tak zgorzkniała i opryskliwa dla obcych?! TAK MYŚLISZ?! Lepiej się zastanów! Nie zawsze byłam wredną małą wiedźmą! To jego wina! On mi to zrobił i na bogów, sprawię, że zapłaci!~
+@10848  = ~Ja... Och, niebiosa... Tak strasznie przepraszam. Po prostu... nie jestem sobą... Widzisz, kiedyś tu pracowałam. Za barem. To była dobra fucha. A barmance zawsze tak trudno zapracować na szacunek, że kiedy już go masz, chcesz go trzymać z całych sił.~
+@10849  = ~Jestem pewna, że jesteś zajętą osobą, bo wyglądasz na tak znamienitego poszukiwacza przygód, lecz jeśli znajdziesz chwilę, by wysłuchać opowieści biednej damy o tym, jak padła ofiarą przystojnego drania o czarnym sercu i jego przebiegłych gierek – którego umiejętności, mówię ci, nijak mają się do czczej gadaniny – to sowicie ci to wynagrodzę.~ ~Jestem pewna, że jesteś zajętą osobą, bo wyglądasz na tak znamienitą poszukiwaczkę przygód, lecz jeśli znajdziesz chwilę, by wysłuchać opowieści biednej damy o tym, jak padła ofiarą przystojnego drania o czarnym sercu i jego przebiegłych gierek – którego umiejętności, mówię ci, nijak mają się do czczej gadaniny – to sowicie ci to wynagrodzę.~
+
+@10850  = ~A jak sposób zamierzasz to zrobić?~
+@10851  = ~Zawsze chętnie pomogę damie w opałach.~
+@10852  = ~Mogę poświęcić chwilę, by cię wysłuchać.~
+@10853  = ~Czego dokładnie ode mnie oczekujesz?~
+@10854  = ~Nie, nie mam na to czasu.~
+@10855  = ~Och, martwisz się o zapłatę, tak? Dobrze, dobrze... rozumiem. Mój były jest złodziejem, w końcu zawsze chodzi o pieniądze, czyż nie? Nie niepokój się, przejdę do tego. Pozwól, że najpierw opowiem ci tę trudniejszą część, a potem będziemy negocjować.~
+@10856  = ~To, o co chcę cię prosić, może wydać się nieco... szokujące, ale wierz mi, wyświadczysz przysługę temu miastu i miejscom takim jak to, rozprawiając się z szumowiną pokroju mojego dawnego „pączuszka”. Widzisz... on – to znaczy mój były – jest łotrem. Draniem. Złodziejskim, kłamliwym oszustem. Do tego czarującym. Jest wręcz złotousty. Nie daj się jednak na to nabrać. To zły człowiek!~
+@10857  = ~Skrzywdził cię, prawda?~
+@10858  = ~Widzę, dokąd to zmierza, i nie chcę mieć z tym nic wspólnego.~
+@10859  = ~Na bogów, nie kolejna porzucona kochanka jęcząca o złamanym sercu...~
+@10860  = ~Hm... Czy ta umowa obejmuje może jakiś unikalny rodzaj alkoholu? Właśnie takiego szukam.~
+@10861  = ~Mogę go dla ciebie zabić, jeśli chcesz.~
+@10862  = ~Czekaj no, daj mi skoń... Ty... Ach... Co proszę? Och, no cóż...~
+@10863  = ~Ja... Tak, właściwie. To byłoby... całkiem miłe. Dokładnie to, czego potrzebowałam. Kto by pomyślał.~
+@10864  = ~Nie jestem najbogatszą damą, co pewnie widać na pierwszy rzut oka, lecz posiadam pewne zasoby. Za twoją pomoc mogę zaoferować ci najlepszy trunek, jaki ma do zaoferowania ten bar. Kiedyś tu pracowałam, rozumiesz, zanim ten... ten potwór wszystko mi popsuł. Będzie twój, jeśli go, no wiesz... wyprawisz w drogę. Taką permanentną, rzecz jasna.~
+
+@10865  = ~To ten niechlujny dryblas na drugim końcu sali, ten, który gapi się w tę stronę. Ten z tym powalającym uśmiechem... i czarującymi oczami... hmf. Zostawiam cię zatem z tym zadaniem.~
+@10866  = ~Czekaj no, daj mi skończyć! Musisz zrozumieć, w co się pakujesz. Nie pozwolę, by znowu obwiniono mnie bez powodu!~
+@10867  = ~Kiedyś tu pracowałam. Prowadziłam to miejsce dla właściciela i była to najlepsza fucha, o jakiej mogłam marzyć. Znacznie lepsza niż bycie dziewczynką na posyłki u zadufanych w sobie snobów, tak jak moja biedna matka.~
+@10868  = ~Pewnego dnia przyłapałam jednego wielkoluda – człowieka, jeśli wolisz – jak wsadzał łapy do kieszeni pijaczyn w moim lokalu. Cóż, zapewniam cię, że byłam wściekła! Okradać moich gości! Wyrzuciłabym go stąd w tamtej chwili, wierz mi, gdyby nie... no właśnie. Miał ten cholerny, czarujący uśmiech... I ten sposób bycia, o którym wspomniałam. Zobaczył, że szykuję się do skoku, i zaczął tę swoją gładką gadkę... To był mój koniec.~
+@10869  = ~Tak czy siak, streszczając: przekonał mnie, że to świetny interes, by nieco ulżyć moim majętniejszym gościom w noszeniu ich wypchanych trzosów. Przecież nie potrzebowali tylu pieniędzy, skoro stać ich było na codzienne upijanie się do nieprzytomności. A my mogliśmy je wykorzystać na własne plany.~
+@10870  = ~Zgodziłam się więc, głupia ja. Przedstawił to tak pięknie... I czy uwierzysz, że ten durnień dał się złapać? Próbował okraść kompletnie trzeźwego amnijskiego strażnika! Ale to nie była tylko jego nieudolność, o nie... On zwalił wszystko na mnie! NA MNIE! Powiedział strażnikowi, że to był mój pomysł, że mu za to zapłaciłam! Jestem tego pewna... bo dokładnie tego samego dnia właściciel mnie wywalił. Moja przyszłość... wszystkie moje nadzieje przepadły przez tego tchórza!~
+@10871  = ~Mało tego, on planuje coś gorszego. Przychodzi tu codziennie, gapiąc się na mnie jak jakieś monstrum... Pewnie wini mnie za to, że jego interes padł, choć sam jest zwykłym partaczem! Musi myśleć, że zamierzam mu odpłacić. I ma rację!~
+@10872  = ~Chcę, żebyś się go pozbył. Załatw go. Wypraw go w drogę, na stałe, rozumiesz? Wiem, że to brzmi brutalnie, ale na nic innego nie zasługuje. Złamał serce ufnej kobiecie i wciąż kroczy tą swoją podłą ścieżką. Jeśli się zgodzisz, dam ci butelkę najlepszego trunku w tej karczmie. Wciąż mam klucz z czasów, gdy tu pracowałam. To jedyna rzecz, jaką mogę ci zaoferować i, cóż... sama nie mogłabym tego zrobić, to pewne.~ ~Chcę, żebyś się go pozbyła. Załatw go. Wypraw go w drogę, na stałe, rozumiesz? Wiem, że to brzmi brutalnie, ale na nic innego nie zasługuje. Złamał serce ufnej kobiecie i wciąż kroczy tą swoją podłą ścieżką. Jeśli się zgodzisz, dam ci butelkę najlepszego trunku w tej karczmie. Wciąż mam klucz z czasów, gdy tu pracowałam. To jedyna rzecz, jaką mogę ci zaoferować i, cóż... sama nie mogłabym tego zrobić, to pewne.~
+@10873  = ~Zatem, co powiesz, zacny nieznajomy? Pomożesz dziewczynie, której życie legło w gruzach? Przez tego bezużytecznego, zgniłego, złodziejskiego, kłamliwego, niechlujnego, leniwego, prostackiego, tyczkowatego, tępego, powolnego, bezkręgowego, słabego, żało...~ ~Zatem, co powiesz, zacna nieznajoma? Pomożesz dziewczynie, której życie legło w gruzach? Przez tego bezużytecznego, zgniłego, złodziejskiego, kłamliwego, niechlujnego, leniwego, prostackiego, tyczkowatego, tępego, powolnego, bezkręgowego, słabego, żało...~
+@10874  = ~Dobra, już dobra! Pomogę ci. O matulu...~
+@10875  = ~Jeśli to sprawi, że wreszcie się zamkniesz, niech będzie! Pomogę. Gdzie znajdę tego człowieka?~
+@10876  = ~Na bogów, nic dziwnego, że cię oszukał. Gadasz więcej niż gnomie dziecko. Współczuję mu, że wytrzymał z tobą na tyle długo, by w ogóle stworzyć związek. Żegnam.~
+@10877  = ~Rozmawiałaś ze swoim kochankiem od czasu tamtego incydentu?~
+@10878  = ~Wygląda na to, że spotkała cię krzywda. Pomogę ci.~
+@10879  = ~Przykro mi, ale naprawdę nie jestem zainteresowany.~ ~Przykro mi, ale naprawdę nie jestem zainteresowana.~
+@10880  = ~A co powstrzymuje mnie przed zabiciem ciebie i zabraniem klucza siłą?~
+
+@10881  = ~Och, dziękuję ci za pomoc. A co do tego, gdzie go znajdziesz... jest tam. Ten niechlujny dryblas na drugim końcu sali, ten, który gapi się w tę stronę. Z tym swoim powalającym uśmiechem... i czarującymi oczami... hmf. Zatem zostawiam to tobie.~
+@10882  = ~Ty... co proszę?! Kolejny oszust, tak?! Niedoczekanie! Nie dostaniesz tego klucza! Najpierw nauczę was, przeklęte łotry, że porządnych i uczciwych ludzi zostawia się w spokoju!~ ~Ty... co proszę?! Kolejna oszustka, tak?! Niedoczekanie! Nie dostaniesz tego klucza! Najpierw nauczę was, przeklęte łotry, że porządnych i uczciwych ludzi zostawia się w spokoju!~
+@10883  = ~Czy z nim rozmawiałam? Cóż... nie. Nie musiałam. Ledwo mogę znieść samo patrzenie na niego! Nie obchodzi mnie już, jakie ma piękne oczy! Mówię poważnie!~
+@10884  = ~Daj spokój... Przecież chcesz z nim porozmawiać. Uśmiechasz się na samą myśl o nim.~
+@10885  = ~Wiesz, że za nim tęsknisz. To nie musi się kończyć rozlewem krwi.~
+@10886  = ~To wszystko brzmi jak jedno wielkie nieporozumienie. Porozmawiaj z nim i przekonaj się sama.~
+@10887  = ~Może i jest bezużytecznym złodziejem, ale ewidentnie wciąż ci na nim zależy. Idź i z nim porozmawiaj.~
+@10888  = ~Niech i tak będzie. Gdzie go znajdę?~
+@10889  = ~Ja... Och... Po prostu... Chyba mogłabym... W sumie nigdy nie miałam okazji powiedzieć mu prosto w twarz, jakim był podłym bydlakiem! Tak... Tak, jestem to winna temu głupcowi! Hmf. Dziękuję ci. Porozmawiam z nim ostatni raz i... zobaczymy. Zobaczymy, czy ma jakąś dobrą wymówkę. Cóż, on oczywiście zawsze ma jakąś dobrą wymówkę. Przekonajmy się, czy tym razem zdoła sprawić, bym mu uwierzyła!~
+@10890  = ~O niebiosa, ja... Co? CO?! Rozmawiać z nim?! Czy ty wiesz, co ten dureń mi zrobił? Przez niego straciłam pracę! Obwinił mnie o własną nieudolność! Powierzyłam mu swoją przyszłość, a on ją zniszczył! Bez wątpienia naopowiadał ci tych swoich bajeczek. W tym jest dobry. Cóż, koniec z tym. Oszukał mnie i zasłużył na to, co go czeka!~
+@10891  = ~Wyświadczysz damie przysługę i zajmiesz się nim dla mnie? Chodzi mi o to, żeby... no wiesz, zniknął na dobre. Ja... wiem, to straszna prośba. Ale gdybyś tylko wiedział! To potwór, który żeruje na ludziach! Łamacz serc! Bezużyteczny, zgniły, złodziejski, kłamliwy, niechlujny, leniwy, prostacki, tyczkowaty, tępy, powolny, bezkręgowy, słaby, żało,,,~ ~Wyświadczysz damie przysługę i zajmiesz się nim dla mnie? Chodzi mi o to, żeby... no wiesz, zniknął na dobre. Ja... wiem, to straszna prośba. Ale gdybyś tylko wiedziała! To potwór, który żeruje na ludziach! Łamacz serc! Bezużyteczny, zgniły, złodziejski, kłamliwy, niechlujny, leniwy, prostacki, tyczkowaty, tępy, powolny, bezkręgowy, słaby, żało...~
+@10892  = ~Och. Dobry panie. Cóż, nie będę na ciebie naciskać. Rozumiem, to nie jest najprzyjemniejsza sprawa. Morderstwo nigdy nie jest przyjemne. Nie, żeby ten człowiek na nie nie zasługiwał... No, nie stój tak i nie gap się! Już tu nie pracuję, nie zamierzam cię obsługiwać!~ ~Och. Dobra pani. Cóż, nie będę na ciebie naciskać. Rozumiem, to nie jest najprzyjemniejsza sprawa. Morderstwo nigdy nie jest przyjemne. Nie, żeby ten człowiek na nie nie zasługiwał... No, nie stój tak i nie gap się! Już tu nie pracuję, nie zamierzam cię obsługiwać!~
+@10893  = ~Więc... czy... czy to już...~
+@10894  = ~Chcę powiedzieć... Czy ty...~
+@10895  = ~Złodziej nie żyje. Chcę swojej nagrody i kończmy już z tym.~
+@10896  = ~Twój były kochanek nie żyje, zgodnie z twoim życzeniem.~
+@10897  = ~Och. ... ... Cóż, oczywiście, on... Ja przecież... Przecież sama o to prosiłam...~
+@10898  = ~Mój najdroższy... Jak mogłeś... Ja... Nie mogę uwierzyć... *szlocha* Weź... weź swoją nagrodę. Pobiegłam po nią, kiedy... ty... Jestem tylko... tylko głupią kobietą. Idź już. Muszę zostać sama..~
+@10899  = ~Będę tu czekać, aż skończysz robotę. Trunek będzie twój, gdy będzie po wszystkim.~
+@10900  = ~Dobrze. Wrócę wkrótce.~
+
+@10901  = ~Uznałem, że nie chcę mieć z tym nic wspólnego. Sami rozwiążcie swoje problemy.~ ~Uznałam, że nie chcę mieć z tym nic wspólnego. Sami rozwiążcie swoje problemy.~
+@10902  = ~Czy ty w ogóle z nim rozmawiałaś od czasu tego całego zajścia?~
+@10903  = ~A może po prostu cię zabiję i wezmę ten trunek dla siebie?~
+@10904  = ~Widzę, że wróciłeś. Rozważyłeś moją ofertę? Wciąż mogę dać ci butelkę wyśmienitego trunku, jeśli tylko zajmiesz się dla mnie tym człowiekiem.~ ~Widzę, że wróciłaś. Rozważyłaś moją ofertę? Wciąż mogę dać ci butelkę wyśmienitego trunku, jeśli tylko zajmiesz się dla mnie tym człowiekiem.~
+@10905  = ~Rozważyłem. Wskaż mi tego złodzieja, a pozbędę się go dla ciebie.~ ~Rozważyłam. Wskaż mi tego złodzieja, a pozbędę się go dla ciebie.~
+@10906  = ~Rozważyłem. Uznałem, że jednak chcę ten napitek, ale nie zamierzam odwalać za ciebie brudnej roboty.~ ~Rozważyłam. Uznałam, że jednak chcę ten napitek, ale nie zamierzam odwalać za ciebie brudnej roboty.~
+@10907  = ~Chciałem zapytać: czy rozmawiałaś ze swoim kochankiem od czasu tamtego incydentu?~ ~Chciałam zapytać: czy rozmawiałaś ze swoim kochankiem od czasu tamtego incydentu?~
+@10908  = ~Hmf.~
+@10909  = ~Więc... Allanya...~
+@10910  = ~Kalen.~
+@10911  = ~Nie spodziewałem się, że jeszcze cię zobaczę.~
+@10912  = ~A ja miałam nadzieję, że cię nie zobaczę. Życie jednak nie zawsze układa się po naszej myśli, prawda?~
+@10913  = ~Po NASZEJ myśli? O ile pamiętam, KOCHANIE, przy naszym ostatnim rozstaniu nie miałem zbyt wiele do powiedzenia. To była twoja sprawka... twoja i JEGO!~
+@10914  = ~O czym ty pleciesz, ty wyrośnięty durniu?! Doskonale wiesz, że rozstaliśmy się, bo wszystko schrzaniłeś! I mało tego, jeszcze zwaliłeś winę na mnie! Jeśli myślisz, że pozwolę się tak traktować komukolwiek, a już zwłaszcza tobie, to grubo się my... zaraz, co? Jaki znowu „on”~
+@10915  = ~Dokładnie wiesz, o kim mówię, Allanyo. Myślisz, że jestem aż tak głupi? Mówię o twoim nowym gachu. Myślałaś, że nie zauważę?~
+@10916  = ~Co? CO?! O czym ty do ciężkiej cholery bredzisz?! Masz mnie za idiotkę?! Dałeś się złapać, potem obwiniłeś mnie i sprawiłeś, że mnie wylali, a teraz wymyślasz jakąś niedorzeczną historię o... o... gachu?! Doprawdy! Kalen, obawiam się, że sięgnąłeś dna, ty biedny głupcze.~
+@10917  = ~Widziałem was razem! W zeszłym tygodniu, tuż po twojej zmianie, wszedł jakiś odstawiony niziołek i zaczął ci słodzić. O, pewnie będziesz twierdzić, że to tylko przyjaciel? PRZYJACIELE nie żegnają się w taki sposób, jak wy dwoje!~
+@10918  = ~Ja... ja...~
+@10919  = ~Masz na myśli tego faceta z szopą ciemnych, kręconych włosów?~
+@10920  = ~O, TERAZ już pamiętasz. Dokładnie tak. Śmiałaś się i przymilałaś do niego jak jakiś zagubiony szczeniak. A POTEM pozwoliłaś mu się obmacywać na oczach wszystkich!~
+
+@10921  = ~Więc widziałeś to?~
+@10922  = ~Czy WIDZIAŁEM? Ani przez sekundę nie wątpiłem, że chciałaś, bym to zobaczył. I nie miałem wątpliwości, że zrobiłaś to celowo, gdy pracowałem tuż przy tym strażniku! Liczyłaś, że oszaleję z zazdrości, popełnię błąd i dam się złapać! Więc tak, wskazałem na ciebie palcem. Nie mogłem pozwolić, byś złamała mi serce i uszło ci to płazem.~
+@10923  = ~Kalen... ty...~
+@10924  = ~Po prostu to zostawmy, Allanyo. Ty mnie nie chcesz, a ja sprawiłem, że straciłaś pracę. Wciąż byłem wściekły, ale teraz... gdy znów z tobą rozmawiam... Po prostu odejdź.~
+@10925  = ~Kalen... ty... ty durniu!~
+@10926  = ~Jesteś największym głupcem, jakiego w życiu spotkałam! Ty tumanie! Ty mój ty niemądry człowieku! Czy ty w ogóle masz rozum?! Ten mężczyzna to był mój brat!~
+@10927  = ~Co? To był twój brat?~
+@10928  = ~Oczywiście, że tak! Niziołek z szopą ciemnych, kręconych włosów, dokładnie takich jak moje! Nawet gdybym planowała cię rzucić, nie sądzisz, że już dawno by mnie tu nie było? Zamiast tego przesiaduję w tej karczmie i rozpaczam! Na bogów! Nie wspominając już o tym, że sam pomysł, bym mogła KIEDYKOLWIEK porzucić mojego pączuszka dla kogoś innego, a już zwłaszcza dla innego niziołka... Przecież wiesz, że zawsze wolałam dryblasów! Doprawdy, Kalen, to po prostu niedorzeczne! Jak mogłeś w ogóle tak pomyśleć?!~
+@10929  = ~Ja, cóż... nie wiem. To po prostu tak wyglądało... Ściskałaś go tak mocno, że... założyłem najgorsze...~
+@10930  = ~Nie mogę uwierzyć, że byłeś tak roztrzęsiony, że nawet nie zauważyłeś, że ten strażnik miał bystre spojrzenie i był kompletnie trzeźwy!~
+@10931  = ~Ręce mi drżały... Dałbym się złapać, nawet gdybym okradał nieprzytomnego.~
+@10932  = ~Och... Och, mój drogi... Kalen, nie miałam pojęcia!~
+@10933  = ~Nie, Allanyo, to moja wina. Powinienem był ci zaufać.~
+@10934  = ~Myślałam, że próbujesz mnie wrobić, żeby się mnie pozbyć! A ty działałeś tylko z miłości. Mój biedny skarbie! Pomyśleć, że doprowadziłam cię do takiej desperacji!~
+@10935  = ~Oczywiście, że tak. Jesteś jedyną kobietą, którą kiedykolwiek kochałem.~
+@10936  = ~Och, mój pluszowy pączuszku. Powinnam była to wiedzieć.~
+@10937  = ~Czy... czy mi wybaczysz?~
+@10938  = ~*pociąga nosem* Już ci wybaczyłam. Znajdźmy jakieś inne miasto i zacznijmy od nowa, kochanie. Tutaj jest zbyt wiele bolesnych wspomnień.~
+@10939  = ~Tak, i zbyt wielu strażników, którzy znają moją twarz...~
+@10940  = ~Cóż, to miło. Pogodziliście się. Widzicie? Wystarczyło tylko szczerze porozmawiać.~
+@10941  = ~Tak, wszystko dobre, co się dobrze kończy. Mogę teraz dostać swoją nagrodę?~
+@10942  = ~Och, oczywiście, wybacz mi! Kalen, musimy przynieść najlepszy trunek, jaki mamy, za to, co ten nasz wybawca dla nas zrobił, by nas znów połączyć.~ ~Och, oczywiście, wybacz mi! Kalen, musimy przynieść najlepszy trunek, jaki mamy, za to, co ta nasza wybawczyni dla nas zrobiła, by nas znów połączyć.~
+@10943  = ~Już się robi, moja puchata kuleczko. Biegnę po butelkę.~
+@10944  = ~Dziękuję z całego serca. Dzięki tobie mój czarujący łotr znowu jest przy mnie. Pracowałam w takich miejscach dość długo, by wiedzieć, że niewielu przejęłoby się naszym losem tak jak ty. Powodzenia w drodze!~
+@10945  = ~Tak, wielkie dzięki.~
+
+@10946  = ~Dziękuję, panie. To dzięki tobie znów jesteśmy z moją ukochaną razem. Allanyo, myślę, że powinniśmy wręczyć mu jakiś podarunek za pomoc. Masz jeszcze ten klucz do piwnicy?~ ~Dziękuję, pani. To dzięki tobie znów jesteśmy z moją ukochaną razem. Allanyo, myślę, że powinniśmy wręczyć jej jakiś podarunek za pomoc. Masz jeszcze ten klucz do piwnicy?~
+@10947  = ~Oczywiście. Najlepszy trunek w całym lokalu dla kogoś, kto okazał serce i sprowadził do mnie mojego łobuza!~
+@10948  = ~Jeszcze raz dziękuję. Pracując w tak podejrzanych miejscach jak to, widziałam ludzi z ich najgorszej strony. Mało kto postąpiłby tak jak ty. To tobie zawdzięczamy nasze szczęście. Powodzenia na szlaku.~
+
+@10949  = ~Czołem, szefie. Co mogę dla ciebie zrobić?~ ~Czołem, szefowo. Co mogę dla ciebie zrobić?~
+@10950  = ~O, kogo ja widzę! Witam ponownie.~
+@10951  = ~Przyjaciel sir Keldorna! Cóż sir Suleci może dziś dla ciebie zrobić?~ ~Przyjaciółka sir Keldorna! Cóż sir Suleci może dziś dla ciebie zrobić?~
+@10952  = ~Przysyła mnie Drini. Twierdzi, że sir Suleci może mi pomóc.~
+@10953  = ~Muszę skompletować kolekcję pewnych trunków. Słyszałem, że Suleci to właściwa osoba do rozmowy na ten temat.~ ~Muszę skompletować kolekcję pewnych trunków. Słyszałam, że Suleci to właściwa osoba do rozmowy na ten temat.~
+@10954  = ~Czas spłacić długi. Przychodzę odebrać przysługę.~
+@10955  = ~To ty jesteś sir Suleci?~
+@10956  = ~Na razie nic, zajrzę później.~
+@10957  = ~Sam wolę „Norę”, ale sir Suleci za nic tam nie wejdzie.~
+@10958  = ~Niezbyt tu u was wesoło, co?~
+@10959  = ~Co jak co, ale w Mithrest serwują najlepszy Smoczy Oddech, jaki piłem. Nawet sir Suleci przyznaje, że jest wyborny.~
+@10960  = ~Ja? Skądże znowu, szukasz mojego szefa. Zatem, co masz do sir Suleciego?~
+@10961  = ~Nie twój interes. Porozmawiam z nim osobiście.~
+@10962  = ~Przysyła mnie Drini. Powiedział, że Suleci może mi pomóc.~
+@10963  = ~Jak uważasz, szefie. Wygląda na to, że jeszcze trochę tu zabawimy.~ ~Jak uważasz, szefowo. Wygląda na to, że jeszcze trochę tu zabawimy.~
+@10964  = ~No dobra, szefie, o co chcesz prosić sir Suleciego?~ ~No dobra, szefowo, o co chcesz prosić sir Suleciego?~
+@10965  = ~Czyżby to on był tym słynnym sir Sulecim?~
+@10966  = ~W sumie to o nic.~
+
+@10967  = ~Tja, to on. Zatem: co do niego masz?~
+@10968  = ~Przysyła mnie Drini. Powiedziano mi, że sir Suleci może pomóc mi w zdobyciu pewnych trunków.~
+@10969  = ~A właśnie, że mój interes, i nigdzie nie pójdziesz! Jestem giermkiem sir Suleciego. Jeśli chcesz z nim gadać, musisz najpierw przejść przeze mnie.~
+@10970  = ~Muszę znaleźć kilka specyficznych trunków dla barda imieniem Drini. Podobno Suleci to właściwy człowiek do pomocy.~
+@10971  = ~Został wezwany do spłacenia długu wobec Driniego. Ma mi pomóc w znalezieniu napitków.~
+@10972  = ~Lepiej stąd zmykaj, szefie. I to żwawo.~ ~Lepiej stąd zmykaj, szefowo. I to żwawo.~
+@10973  = ~Hehe. Drini, mówisz? No, to wszystko jasne. Szefie, przeszłość pana dopadła!~
+
+@10974  = ~Śmiał się? Może masz szczęście. Myślisz o tym samym, co ja?~
+@10975  = ~Szalony? To brzmi jak ktoś, kogo możemy znać.~
+@10976  = ~To nie brzmi jak zwykły kieszonkowiec. Choć typ, którego mam na myśli, ze zwyczajnością nie ma absolutnie nic wspólnego.~
+@10977  = ~Zazwyczaj można go spotkać w dokach w Dzielnicy Mostów.~
+@10978  = ~Nazywał się Przekręt? To znacznie ułatwia sprawę.~
+@10979  = ~Sir Keldornie, witajcie. Nie widzieliśmy się od lat. Wciąż na posterunku w walce o dobro?~
+@10980  = ~Ach, wróciłeś. W czym mogę ci pomóc?~ ~Ach, wróciłaś. W czym mogę ci pomóc?~
+@10981  = ~Ale zapewne nie interesują cię nasze paladyńskie bajania, co? W czym mogę ci pomóc?~
+@10982  = ~I tak pozostanie, gdyż to sprawa prywatna. Oczywiście pomożemy. Jakie trunki widnieją na tej liście?~
+@10983  = ~Nie zawracaj mi głowy! Kebodi! Zajmij się tym obdartusem.~
+@10984  = ~Jam jest sir Suleci. Nie wiem, dlaczego Drini przysłał cię do mnie, ale mam u niego dług i pragnę go spłacić.~
+@10985  = ~Na czym polega ten dług?~
+@10986  = ~Drini zlecił nam odnalezienie składników do czaru przywołania.~
+@10987  = ~Przygotowuje potężny czar przywołania dla pewnego klienta.~
+@10988  = ~Natura tego długu to prywatna sprawa między mną a Drinim i nic ci do tego. A teraz, przejdźmy do interesów, dobrze?~
+@10989  = ~Jak już mówiłem Keldornowi, natura tego długu to prywatna sprawa między mną a Drinim i nic wam do tego. Przejdźmy zatem do konkretów.~
+@10990  = ~Czego szukacie?~
+
+@10991  = ~Potrzebujemy Wibrysy.~
+@10992  = ~Na liście jest Arabellańskie wino wytrawne.~
+@10993  = ~Wiesz, gdzie możemy dostać Krasnoludzką whiskey?~
+@10994  = ~Znaleźliśmy krasnoluda z zapasem Krasnoludzkiej whiskey, ale szuka on w mieście krasnoludzkiego rzemieślnika. Masz jakieś pomysły?~
+@10995  = ~Potrzebujemy antałka Portowego ale.~
+@10996  = ~Poprosił o Białą grappę Dalina.~
+@10997  = ~Ma na liście jakąś alkoholową nowość, której nigdy wcześniej nie próbował.~
+@10998  = ~W końcu znaleźliśmy coś oryginalnego dla Driniego, ale okradli nas, gdy wychodziliśmy z karczmy!~
+@10999  = ~Gdzie, mówiłeś można znaleźć tego Przekręta?~
+@11000  = ~W tej chwili w niczym nie możecie nam pomóc.~
+@11001  = ~„Wielki” Przekręt? Całkiem prawdopodobne.~
+@11002  = ~Ba. Złodziei w Athkatli jest na pęczki.~
+@11003  = ~Owszem, Zakon toczy nieustanną walkę z pospolitą przestępczością uliczną.~
+@11004  = ~To pewnie ostatni raz, kiedy widzieliście te fanty.~
+@11005  = ~Złodziej zrobił z tego niezłe przedstawienie, śmiejąc się nam w twarz.~
+@11006  = ~Nazywał siebie „Wielkim Przekrętem”. Mówi wam to coś?~
+@11007  = ~Złodziejowi brakowało piątej klepki, jeśli wiecie, co mam na myśli.~
+@11008  = ~Ten rechoczący łajdak. Jak tylko wpadnie w moje ręce...~
+@11009  = ~Zdawał się zupełnie nie dbać o to, że przyciąga uwagę.~
+@11010  = ~Przekręt to tutejszy „as”, gość kompletnie postradał zmysły.~
+@11011  = ~Zazwyczaj kręci się w Dzielnicy Mostów. Rozejrzyjcie się w dokach, pod samym mostem.~
+@11012  = ~Czar przywołania? Dlaczego miałby przysyłać was z tym do mnie?~
+@11013  = ~Pewnie chodzi o te jego „składniki”, szefie. Pamiętaj, że mówimy o Drinim.~
+@11014  = ~Tak, oczywiście. To by wyjaśniało, dlaczego skierował was właśnie tutaj.~
+@11015  = ~O tak, zgadza się, Suleci. A ty co, nadal wizytujesz tawerny Faerûnu?~
+@11016  = ~To niesprawiedliwe, Keldornie. „Wizytowanie tawern Faerûnu” nie jest moim głównym zajęciem i dobrze o tym wiesz.~
+@11017  = ~Każdy w Zakonie szanuje twój wkład w walkę ze złem. Nie oznacza to jednak, że pochwalamy twoje pozostałe aktywności.~
+@11018  = ~Ten twój giermek jest tego najlepszym przykładem.~
+@11019  = ~Hej! Przecież się zresocjalizowałem!~
+@11020  = ~Bądź dla niego wyrozumiały, Keldornie. Nie żałuję, że go ocaliłem. Od tamtej pory nieraz dowiódł swojej wartości.~
+@11021  = ~Nadal uważam, że pożałujesz tej decyzji.~
+@11022  = ~Nie przejmujcie się nim. Jest po prostu zrzędliwy, bo w całej Athkatli nie ma gospody, która dorównałaby przepychowi „Hełmu i Płaszcza” z Wrót Baldura.~
+@11023  = ~Otóż to!~
+
+@11024  = ~Na waszym miejscu trzymałbym się od szefa z daleka, dopóki nie osuszy jeszcze paru pucharów Alurlyathańskiego.~
+@11025  = ~Kebodi! Dość już tej bezczelności!~
+@11026  = ~Mniejsza z tym. Otrzymaliśmy zlecenie na zdobycie kilku trunków. Powiedziano nam, że możesz pomóc, i zgadzam się z tą opinią.~
+@11027  = ~Oczywiście, że pomogę. Mogę spytać, dla kogo są te napitki?~
+@11028  = ~Dla pewnego hultajskiego barda imieniem Drini.~
+@11029  = ~Drini? Ha! Wygląda na to, że przeszłość pana dopadła, szefie.~
+@11030  = ~Przyznam, że ciekawi mnie natura tego długu.~
+@11031  = ~Tak, jestem tego pewien. Cóż, miło było z tobą porozmawiać, Keldornie.~
+@11032  = ~Z tobą również.~
+@11033  = ~Czy wiesz, gdzie znajdę sir Suleciego? Powiedziano mi, że tu jest.~
+@11034  = ~Oczywiście, siedzi przy stoliku najbliżej sceny ze swoim giermkiem, Kebodim.~
+@11035  = ~Czy mogę w czymś jeszcze służyć?~
+@11036  = ~Podawał się za słynnego złodzieja o imieniu „Przekręt”. Nie kojarzę jednak osobnika.~
+@11037  = ~Krasnoludzki rzemieślnik, powiadasz? Pierwszy, jaki przychodzi mi na myśl, to Cromwell, tam na dole w Dokach.~
+@11038  = ~Z Białą grappą Dalina sprawa jest prosta – mają ją tuż obok, w Norze Siedmiu Dolin. Zapytaj Patrycję za barem.~
+@11039  = ~Mówiłem przecież, to zaraz obok. Idź do Nory i pogadaj z Patrycją.~
+@11040  = ~Ha! Dobre sobie.~
+@11041  = ~Trunek, którego Drini nigdy nie pił? To dopiero zagwozdka.~
+@11042  = ~Przykro mi, przyjaciółko, ale to może wykraczać poza nasze możliwości.~ ~Przykro mi, przyjacielu, ale to może wykraczać poza nasze możliwości.~
+@11043  = ~Możecie zasugerować cokolwiek innego?~
+@11044  = ~Jak w takim razie mam skompletować tę listę?~
+@11045  = ~Chyba będę musiał po prostu mieć oczy szeroko otwarte.~ ~Chyba będę musiała po prostu mieć oczy szeroko otwarte.~
+@11046  = ~Jedynym miejscem, gdzie mogą mieć coś nowego dla Driniego, jest gospoda Pod Pięcioma Dzbanami.~
+@11047  = ~Nie liczyłbym na to, szefie. Drini nie raz i nie dwa zaglądał do kieliszka u Grzmotobeka.~
+@11048  = ~Próbowałeś Pod Pięcioma Dzbanami? W tej kwestii kończą mi się pomysły.~
+@11049  = ~Cóż, prawdę mówiąc, to zaglądał tam znacznie częściej.~
+@11050  = ~Tylko w jednym miejscu dostaniesz takie pomyje, a mianowicie w Dokach.~
+@11051  = ~Marynarze wyciągają to tylko na specjalne okazje. Paluch powinien mieć Portowe ale pod szpuntem.~
+@11052  = ~Jeśli szukasz żeglarskiego trunku, spróbuj w knajpie dla marynarzy – w Morskiej Zdobyczy.~
+
+@11053  = ~Pozdrawiam! Jam jest Jacobus P. Sanderick: czarodziej, mistrz alchemii i nieoficjalny poeta dworski rodziny królewskiej Amn. Jak mogę pomóc?~
+@11054  = ~Powiedziano nam, że możesz pomóc. Potrafisz usunąć truciznę z tego wina?~
+@11055  = ~Myślałem, że w Amn nie ma żadnej rodziny królewskiej.~ ~Myślałam, że w Amn nie ma żadnej rodziny królewskiej.~
+@11056  = ~Dlaczego zakładasz, że potrzebujemy pomocy? Nikt nigdy nie rozmawia z tobą tak po prostu, bez żadnego interesu?~
+@11057  = ~Już wracasz? Nie sądzę, by upłynął wyznaczony czas. Proszę wrócić później.~
+@11058  = ~Nie teraz, jestem zajęty.~
+@11059  = ~Och, to już ten moment? Umm... Ja tylko... Chcę powiedzieć... Obawiam się, że natknąłem się na nieoczekiwane... nie, chwila, to już mówiłem.~
+@11060  = ~O co w tym wszystkim chodzi? Chcesz mi powiedzieć, że jeszcze nie skończyłeś?~
+@11061  = ~Mam dość czekania. Gdzie jest odtrutka?~
+@11062  = ~Powinienem był to przewidzieć. Nawet nie zacząłeś, prawda?~ ~Powinnam były to przewidzieć. Nawet nie zacząłeś, prawda?~
+@11063  = ~Ach, wróciliście. Obawiam się, że napotkałem nieoczekiwane... komplikacje, przez co nie zdołałem jeszcze ukończyć powierzonego mi zadania. Umm... Spodziewam się jednak finiszu lada chwila. Moglibyście wrócić później?~
+@11064  = ~Chyba nie mam wyjścia... Kiedy wszystko będzie gotowe?~
+@11065  = ~W czym leży problem? Mogę jakoś pomóc?~
+@11066  = ~To nie wygląda dobrze. Może znajdzie się ktoś inny, kto uwinie się z tym szybciej?~
+@11067  = ~To nie powinno potrwać długo. Muszę tylko zajrzeć do moich ksiąg, by znaleźć odpowiednie antidotum, a potem pewnie kogoś posłać po niezbędne składniki. Gdy już je będę miał, reszta będzie czystą formalnością. Jeśli wrócicie za godzinę lub dwie, wszystko powinno być gotowe.~
+
+@11068  = ~Witam ponownie. Jak się miewasz?~
+@11069  = ~To nie zajmie dużo czasu. Umówmy się na kolejną godzinę, dobrze?~
+@11070  = ~Wrócę za godzinę.~
+@11071  = ~W porządku, lepiej jednak, żeby tym razem odtrutka była gotowa.~
+@11072  = ~Eh, słucham?~
+@11073  = ~Powiedziałeś, że natknąłeś się na nieoczekiwane komplikacje. To samo mówiłeś ostatnim razem, a teraz, gdy wracam, zamierzasz to powtórzyć.~
+@11074  = ~Och. Racja. A co powiesz na: „wystąpiły pewne nieprzewidziane trudności”?~
+@11075  = ~To dokładnie to samo, tylko w użyłeś innych słów...~
+@11076  = ~No dobrze. „Napotkano pewne komplikacje, których się nie spodziewałem”? Może być?~
+@11077  = ~Nie. Słuchaj, ty nawet nie zacząłeś, prawda?~
+@11078  = ~Cóż, nie ująłbym tego w ten sposób. Bliższe prawdy byłoby stwierdzenie, że nie miałem jeszcze okazji przyjrzeć się waszemu problemowi.~
+@11079  = ~Bo natknąłeś się na nieoczekiwane komplikacje, tak?~
+@11080  = ~Sugeruję, żebyś zaczął natychmiast. Nie mam na to czasu.~
+@11081  = ~Lepiej weź się do roboty już teraz, bo pożałujesz.~
+@11082  = ~Dokładnie! Po odpowiednim szkoleniu byłby z ciebie wyśmienity alchemik.~ ~Dokładnie! Po odpowiednim szkoleniu byłaby z ciebie wyśmienita alchemiczka.~
+@11083  = ~Teraz nie widzę żadnych komplikacji, więc radzę ci zacząć pracować, póki nikt ci nie zawraca głowy.~
+@11084  = ~Do. Roboty. Już.~
+@11085  = ~Nie trzeba być od razu nieuprzejmym. Alchemia to skomplikowana dziedzina. To, co laikowi wydaje się proste, w rzeczywistości może okazać się nieoczekiwanie złożonym procesem, pełnym nieoczekiwanych komplikacji.~
+@11086  = ~Chwila... chyba już to mówiłem.~
+@11087  = ~Dlatego też użyłem określenia „nieoficjalny”. No wiesz, nie-oficjalny. W sensie „niebędący urzędnikiem dworskim”. Ponieważ nie ma żadnego dworu. Umm... masz jakiś interes?~
+@11088  = ~Tak, mam butelkę zatrutego wina. Powiedziano mi, że masz na to antidotum.~
+@11089  = ~Umm... oczywiście, że ludzie rozmawiają ze mną bez żadnych zadań... tzn. interesów. Dopiero w zeszłym tygodniu zamieniłem słowo z heroldem, a tydzień wcześniej... Cóż, powiedzmy, że większość tutejszych ma irytujący zwyczaj odzywania się tylko wtedy, gdy zostaną zagadnięci.~
+@11090  = ~Prawdziwa kopalnia tematów do rozmów, doprawdy.~
+
+@11091  = ~Niemniej jednak macie jakąś sprawę do załatwienia, prawda?~
+@11092  = ~Tak, powiedziano mi, że możesz pomóc. Mam butelkę zatrutego wina i chciałbym, żebyś usunął z niego toksynę.~ ~Tak, powiedziano mi, że możesz pomóc. Mam butelkę zatrutego wina i chciałabym, żebyś usunął z niego toksynę.~
+@11093  = ~Trucizna, powiadasz? Daj mi na to spojrzeć. Nie spotkałem jeszcze substancji, której nie zdołałbym przeciwdziałać.~
+@11094  = ~To... to wspaniała wiadomość!~
+@11095  = ~Cóż, był ten jeden raz w Sembii, kiedy pewien szlachcic zniecierpliwił się czekaniem na moją starannie przygotowaną odtrutkę i wypił zatruty napój bez niej. Twierdził, że w ten sposób cierpienie potrwa krócej.~
+@11096  = ~(Zaczynam rozumieć, dlaczego tak postąpił).~
+@11097  = ~Nie biorę jednak żadnej odpowiedzialności za TAMTEN nieszczęśliwy incydent. A teraz, podaj mi tę butelkę.~
+@11098  = ~Wszystko w porządku, dziękuję. Dobrego dnia.~
+@11099  = ~Ach, rozumiem. Dusiciel. Albo dławicielka... W każdym razie: bezbarwna, bezwonna trucizna bez wyczuwalnego smaku. Potężna toksyna, lecz nie lękajcie się, mam środki, by się z nią uporać!~
+@11100  = ~Co masz na myśli, mówiąc „bezbarwna”? Przecież cała zawartość butelki jest zielona.~
+@11101  = ~Ile czasu zajmie jej usunięcie?~
+@11102  = ~Ach, brakuje ci mojego doświadczenia z tą przebiegłą trucizną, co? Kiedy mówię, że jest bezbarwna, mam na myśli – co potwierdzi każda uczona osoba – że nie posiada żadnego rozpoznawalnego koloru poza tym żywym odcieniem zieleni. A ten może być przecież oznaką wielu innych trucizn.~
+@11103  = ~Ooo, jaki on mądry w słowach! Minsc nigdy by na to nie wpadł! Cieszę się, że cię znaleźliśmy, prawda, Boo?~
+@11104  = ~Nazywając substancję „bezbarwną”, my w branży zazwyczaj rozumiemy przez to, że nie można jej zidentyfikować wyłącznie na podstawie barwy. Musimy więc użyć innych kryteriów, takich jak zapach lub, w skrajnych przypadkach, smak.~
+@11105  = ~Przed chwilą powiedziałeś, że jest bezwonna i nie ma smaku.~
+@11106  = ~Mniejsza z tym. Ile potrwa oczyszczanie tego wina?~
+@11107  = ~Umm... Tak, niby tak... chwileczkę... Ee... Chciałem powiedzieć, że...~
+@11108  = ~Ach, to...~
+@11109  = ~To tajemnica zawodowa, o której nie powinno się rozprawiać lekkomyślnie. O, właśnie tak. Dość powiedzieć, że to wyjątkowo podstępna trucizna, ale tak, znam sposób, by ją usunąć.~
+@11110  = ~No dobrze. Ile to zajmie?~
+@11111  = ~Dziękuję za ofertę, ale nie. Wymaga to umiejętności wykraczających daleko poza wiedzę nawet najlepiej poinformowanego laika. Muszę zrobić to sam.~
+@11112  = ~Jasne, byłoby świetnie. Zaraz, o czym to ja mówiłem?~
+@11113  = ~Obawiam się, że nikt poza mną nie podoła temu zadaniu. Poświęciłem całe życie na studia, by osiągnąć ten etap. Wam znalezienie kogoś o podobnych kwalifikacjach zajęłoby pewnie drugie tyle.~
+@11114  = ~Boję się, że czekanie, aż się za to zabierzesz, zajmie nam całą wieczność.~
+@11115  = ~Ty marny magiku! Twoje własne życie zaraz się skróci, jeśli nie ruszysz tyłka!~
+@11116  = ~Spokojnie, bez gróźb. Takie rzeczy po prostu wymagają czasu. To nie MOJA wina...~
+@11117  = ~O, a skoro o tym mowa, oto i on...~
+@11118  = ~Dobra. Pozwólcie, że otworzę butelkę.~
+@11119  = ~Nareszcie!~
+@11120  = ~Teraz odtrutka. Mały kawałek węgla powinien wystarczyć.~
+@11121  = ~Proszę bardzo! Gotowe do picia.~
+
+@11122  = ~Chwileczkę. Chcesz mi powiedzieć, że czekałem tyle czasu tylko po to, by zobaczyć, jak wrzucasz do butelki kawałek węgla? Sam mogłem to zrobić!~ ~Chwileczkę. Chcesz mi powiedzieć, że czekałam tyle czasu tylko po to, by zobaczyć, jak wrzucasz do butelki kawałek węgla? Sama mogłam to zrobić!~
+@11123  = ~Dziękuję. Mam nadzieję, że nie będę musiał mieć z tobą więcej do czynienia.~ ~Dziękuję. Mam nadzieję, że nie będę musiała mieć z tobą więcej do czynienia.~
+@11124  = ~To wszystko? Nic ci nie zapłaciłem, a i tak żądam zwrotu pieniędzy.~ ~To wszystko? Nic ci nie zapłaciłam, a i tak żądam zwrotu pieniędzy.~
+@11125  = ~Cóż, widzicie... Właśnie miałem zabrać się do pracy nad waszym napitkiem... wywarem... umm... dajcie mi sprawdzić...~
+@11126  = ~Wiedziałem.~ ~Wiedziałam.~
+@11127  = ~Ach, butelka wina! Tak, jak mówiłem – właśnie zamierzałem zbadać zawartość, gdy natknąłem się na nieoczekiwane komplikacje...~
+@11128  = ~Już to mówiłeś!~
+@11129  = ~Próbujesz mi wmówić, że nawet nie zacząłeś?~
+@11130  = ~Żegnajcie więc.~
+@11131  = ~Znasz może trunek, którego on prawdopodobnie nigdy wcześniej nie próbował?~
+@11132  = ~To trudne pytanie. Założę się jednak, że nie pił wywaru, który przed chwilą sporządził nasz tutejszy „promyczek słońca”.~
+@11133  = ~Mogę ci jeszcze w czymś pomóc?~
+@11134  = ~Mam po prostu małe trudności z płynnością finansową, to wszystko! To była kolej Salvanasa, ale gdzieś przepadł...~
+@11135  = ~U mnie takie numery nie przejdą. Płacisz albo... płacisz. To proste.~
+@11136  = ~Drini, jeśli natychmiast nie dasz mi złota za te trunki, będziesz musiał uciąć sobie pogawędkę z wykidajłami.~
+@11137  = ~Macie może Chwisgi?~
+@11138  = ~Świetnie radzimy sobie z tym antałkiem, dzięki.~
+@11139  = ~Masz coś przeciwko, bym się z tobą napił?~ ~Masz coś przeciwko, bym się z tobą napiła?~
+
+//@11140  = ~Masz trochę Chwisgi?~
+
+@11141  = ~Tja, ale nie sprzedam go, póki Corrie i chłopaki dobrze się bawią.~
+@11142  = ~To jego ostatni dzień, rozumiecie, i nie chcę, żeby mu czegokolwiek brakowało. Pomóc w czymś innym?~
+@11143  = ~Zabawa skończona – mogę dostać to Chwisgi?~
+@11144  = ~Tja, skoro chłopaki już skończyli, możecie ją mieć za 50 sztuk złota.~
+@11145  = ~Pewnie, mam ją, ale nie chciałem sprzedawać, póki załoga się bawiła. 50 sztuk złota.~
+@11146  = ~Mówiłem już – nie, dopóki chłopaki dobrze się bawią. Coś jeszcze?~
+@11147  = ~50 sztuk złota za zwykłą butelkę?~
+@11148  = ~Dobra, oto złoto.~
+@11149  = ~Nie, nie w tej chwili.~
+@11150  = ~To towar z importu, nieczęsto go widujemy. Zatem jak będzie?~
+@11151  = ~Proszę bardzo i miłego dnia. Mogę jeszcze w czymś pomóc?~
+@11152  = ~Skoro nie chcesz kupić, to po co o nią pytasz~
+@11153  = ~Najpierw zaślubiony morzu, teraz kobiecie... Ja tam wiem, co bym wybrał.~
+@11154  = ~Będzie mi brakować tego Corraduna, oj będzie. Ej, napijesz się z nami?~
+@11155  = ~Ooo, moja głowa. Najlepszym lekarstwem na to łupanie będzie kolejne ale, haha!~
+@11156  = ~Nie mogliśmy na was czekać, kamracie. Oto Złoty Wywar Corskiego!~
+@11157  = ~Ile cię kosztowała ta „DAMA”, Corradun? HA HA HA!~
+@11158  = ~Ale jak ty sobie poradzisz, Corradun? Przecież jesteś na morzu od dziesiątej zimy!~
+@11159  = ~Hej, ten sz-szpej ma nieź-źle... *czka* niezłe kopnięcie!~
+@11160  = ~I wcale nie m-mielesz ozorem na próżno, kamracie!~
+@11161  = ~Głupie sz-szczeniaki morskie nie potrafią nawet... *czka* utrzymać napitku w żołądku. Obrzydlisztwo.~
+@11162  = ~Cudownie. Kolejny przedstawiciel gatunku męskiego, który przychodzi tu pewnie po to, żeby zapić się do nieprzytomności i zwymiotować na moją idealnie czystą podłogę. Hmf. Czego konkretnie chcesz?~
+@11163  = ~Potrzebuję pomocy, szukam pewnego wyjątkowego i dość rzadkiego trunku...~
+@11164  = ~Potrzebuję pomocy w ważnej sprawie. Szukam Białej grappy Dalina. Powiedziano mi, że mogę ją tu dostać.~
+@11165  = ~Witaj, moja droga. Najwyższy czas, żeby do mojej gospody zawitała jakaś inna kobieta. Ostatnio widuję tu tylko tych durnych samców... głośnych, bezczelnych i obrzydliwych. Phi!~
+
+@11166  = ~Przykro mi, moja droga, ale nie mam czasu na trudne zlecenia, bo brakuje mi personelu. Musiałam odprawić moją barmankę, Allyanę, bo ten próżniak Kalen całkiem zawrócił jej w głowie. A była z niej taka porządna dziewczyna.~
+@11167  = ~W każdym razie ona może wiedzieć, jak pomóc. Spróbuj do niej podejść i ją pocieszyć. Świetnie znała nasze piwnice. Szkoda, że musiałam ją zwolnić... Trzymałabym się jednak z daleka od tego Kalena. To podły człowiek, wspomnisz moje słowa!~
+@11168  = ~„Wyjątkowy” trunek? Mój ty świecie, jaki ty jesteś bystry jak na samca! Mam własne zmartwienia... Znikaj mi z oczu i idź pogadać z tym nierobem Kalenem albo kimś innym. Miał fatalny wpływ na moją barmankę, Allyanę. Doradziłabym ci rozmowę z nią, ale bez wątpienia tylko pogorszyłbyś sprawę...~
+@11169  = ~Ty wciąż tutaj? Sio! Sio!~
+@11170  = ~Nie mam czasu słuchać tego męskiego bełkotu. Mam własne zmartwienia... Znikaj mi z oczu i idź pogadać z tym nierobem Kalenem. Zawrócił w głowie mojej barmance, Allyanie. Powiedziałabym ci, żebyś z nią pogadał, ale pewnie tylko byś wszystko popsuł...~
+@11171  = ~Znalazłem Arabellańskie wino, ale ma dziwny kolor.~ ~Znalazłam Arabellańskie wino, ale ma dziwny kolor.~
+@11172  = ~Nie mogę tego użyć – przecież to trucizna!~
+@11173  = ~Znajdź inną butelkę. Albo pogadaj z Sulecim, on może wiedzieć, co z tym fantem zrobić.~
+@11174  = ~Tak, wszystko zdaje się być w porządku... zaraz, co to ma być? Arabellańskie wytrawne nie jest zielone!~
+@11175  = ~Przecież to jest zatrute. Idź do Suleciego i dowiedz się, jak zdobyć nową butelkę.~
+@11176  = ~To towar z importu, nieczęsto go widujemy. Ale dla ciebie... co powiesz na 40 sztuk złota?~
+@11177  = ~Nie mam teraz czasu na rozmowy.~
+@11178  = ~Zatem miłego dnia.~
+@11179  = ~Prawdę mówiąc, nie mamy go na stanie.~
+@11180  = ~Nie mam na to czasu. Żegnam.~
+@11181  = ~Panie!~ ~Pani!~
+@11182  = ~Szukam tutejszego złodzieja, który zwiał z antałkiem.~
+@11183  = ~Chcesz znaleźć złodzieja tej okolicy? Musisz podać więcej szczegółów, mój drogi.~ ~Chcesz znaleźć złodzieja tej okolicy? Musisz podać więcej szczegółów, moja droga.~
+@11184  = ~Ten przeklęty złodziej dopadł mnie, gdy wychodziłem z Pięciu Dzbanów.~ ~Ten przeklęty złodziej dopadł mnie, gdy wychodziłam z Pięciu Dzbanów.~
+@11185  = ~Ach, nieważne.~
+@11186  = ~Śmiał się i i urządzał pokaz swojej brawury.~
+@11187  = ~Może byś się tak stąd wyniósł? Mam cenniejsze rzeczy do roboty niż marnowanie czasu na ciebie.~ ~Może byś się tak stąd wyniosła? Mam cenniejsze rzeczy do roboty niż marnowanie czasu na ciebie.~
+@11188  = ~To był chyba Przekręt. Kręci się po tej dzielnicy, ale ma nierówno pod sufitem, jeśli wiesz, co mam na myśli.~
+@11189  = ~Widziałam go wcześniej nad wodą, ale to właściwie wszystko, co wiem.~
+
+@11191  = ~Mówiłam ci już, mój drogi – nad brzegiem wody, tutaj w tej dzielnicy.~ ~Mówiłam ci już, moja droga – nad brzegiem wody, tutaj w tej dzielnicy.~
+@11192  = ~Możesz mi powiedzieć coś o złodziejach w tej okolicy?~
+@11193  = ~Pracuje ich tu całkiem sporo. Sama miałam z nimi mnóstwo przejść, dopóki nie spłaciłam Gildii.~
+@11194  = ~Dlaczego w ogóle pytasz?~
+@11195  = ~Właśnie skradziono mi antałek tuż przed Pięcioma Dzbanami.~
+@11196  = ~Jakiś tutejszy szaleniec opróżnił mi kieszenie.~
+@11197  = ~Mam przygotowane ostrze dla złodzieja, który zwędził moje rzeczy. Oduczę go śmiania się!~
+@11198  = ~Nieważne, to nie twoja sprawa.~
+@11199  = ~Z opisu brzmi jak Przekręt. On uwielbia polować na pijaków wytaczających się z Dzbanów.~
+@11200  = ~Wykręcanie takich numerów pod samym progiem gospody to specjalność jednego z tutejszych. Sprawdź tam, nad wodą.~
+@11201  = ~Heh, ten opis pasuje zwłaszcza do jednego typa.~
+@11202  = ~Przy wodzie znajdziesz łotra imieniem Przekręt. To idealnie pasuje do jego stylu.~
+@11203  = ~Nie chciałam cię urazić, żeby nie było.~
+@11204  = ~Powtórz, proszę, gdzie miał być ten złodziej, Przekręt?~
+@11205  = ~Szukaj nad wodą.~
+@11206  = ~Widzicie, ja wcale nie uciekałem... ja tylko, yyy, zmieniałem rozkład swojej lokalizacji. O, właśnie tak.~
+@11207  = ~Nędzna mierzwo! Pijaku! Przybłędo!~
+@11208  = ~Wygląda na to, że ktoś tu obrywa, i to całkiem zasłużenie.~
+@11209  = ~To, yyy, taktyka bitewna. No bo przecież nie mogą mnie zaatakować, jeśli nie wiedzą, gdzie jestem, prawda?~
+@11210  = ~Niezdaro! Tchórzu! Łotrze! Nicponiu!~
+@11211  = ~Już miałem wejść i pomóc, słowo honoru! Ale wtedy...~
+@11212  = ~Tonący brzytwy się chwyta...~
+@11213  = ~O, proszę, oto i oni. Widzisz? Wszystko skończyło się, ach, pomyślnie!~
+@11214  = ~Bezużyteczny darmozjadzie!~
+@11215  = ~No, to było TROCHĘ brutalne...~
+@11216  = ~Moim zdaniem – niezwykle trafne.~
+@11217  = ~Jeśli KIEDYKOLWIEK jeszcze cię zobaczę, to ty...~
+@11218  = ~O, witajcie. Poczekaj tam, Drini.~
+@11219  = ~Uch, w porządku.~
+@11220  = ~Uciekaj, Drini, uciekaj! Obawiam się, że jeśli tu zostaniesz, czeka cię sroga bura.~
+@11221  = ~Dzięki za pomoc. Chciałabym, żebyście przyjęli te przedmioty w dowód wdzięczności. Należały do mojego męża, jemu już się nie przydadzą.~
+@11222  = ~Na czym to ja skończyłam? Ach, tak. Idioto! Bezczelny typie! Szczurołapie!~
+@11223  = ~Ja... ja...~
+@11224  = ~Cuchnący synu gibberlinga! Plugawa sterto gnoju gnolla!~
+@11225  = ~Ciekawe, że użyłaś akurat tego sformułowania. Ostatnim razem, gdy widziałem Barko, kuzyna mego wuja Drapaka – przyznaję, było to dawno temu – opowiadał mi o swojej nowej pracy parobka na Lantanie. Podobno bardzo lubią tam innowacje w rolnictwie, no i w każdym razie, znalazł się w sytuacji nie do pozazdroszczenia, zmuszony do używania gnoju gnolla jako nawozu.~
+@11226  = ~Wiem, co teraz myślicie: to musiało strasznie cuchnąć! Sam tak pomyślałem. Ale Barko upierał się, że po kilku minutach zapach stawał się nieszkodliwy, ba, niemal przyjemny! Choć prawdę mówiąc, ta gałąź rodziny zawsze była nieco specyficzna.~
+@11227  = ~Hej, patrzcie! To, yyy, odwrócenie uwagi! Na razie!~
+@11228  = ~Szukamy Krasnoludzkiej whiskey. Wiesz, gdzie można ją dostać?~
+@11229  = ~Tja, mam trochę przy sobie. Ale jest moja i nie mam nastroju na dzielenie się. Zróbcie jak inni i idźcie zapytać karczmarza.~
+@11230  = ~Czy to ty jesteś „Duży”? Muszę ponownie spytać o Krasnoludzką whiskey.~
+@11231  = ~Dobra, już idę.~
+
+@11232  = ~Och, Kelseyu, chcesz pójść do mojego pokoju? Słyszałam, że robisz fantastyczny masaż i są pewne rzeczy, o których moglibyśmy, um... porozmawiać, tak, właśnie o to mi chodzi.~
+@11233  = ~Ja... wolałbym najpierw zjeść kolację.~
+@11234  = ~Dradeel znów pojmany? Chciał tylko wrócić do domu, a zamiast tego znów trafił do klatki. Wiem, że nie powinienem aż tak mu współczuć. W końcu potrafił przetrwać samotnie między dwoma walczącymi stadami, ale zazwyczaj pragnął jedynie, by dano mu spokój.~ ~Dradeel znów pojmany? Chciał tylko wrócić do domu, a zamiast tego znów trafił do klatki. Wiem, że nie powinnam aż tak mu współczuć. W końcu potrafił przetrwać samotnie między dwoma walczącymi stadami, ale zazwyczaj pragnął jedynie, by dano mu spokój.~
+@11235  = ~Zachowaj współczucie dla kogoś, kogo to obchodzi. Dradeel zabił mojego męża i tylko to się liczy.~
+@11236  = ~Przykro mi z powodu twojego męża, jeśli mogę jakoś...~
+@11237  = ~Nie możesz, chyba że wiesz, czy Dradeel zostawił coś po sobie. Coś, co należało do Bełkoczącej Dwunastki.~
+@11238  = ~Z tego co pamiętam – nie. Kryjówka Dradeela była raczej pusta.~
+
+
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+///// journal strings                                  \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+
+@19984  = ~Wchodzi drużyna do baru...~
+
+@19985  = ~Nogi za pas, póki czas
+
+Cała sprawa z Drinim dobiegła końca. Zdobyliśmy jego trunki i poznaliśmy jego pracodawczynię – okazała się nią żona Golodona Bezgrzywego. Odrzuciliśmy jednak jej propozycję dalszej współpracy. Jeśli nasze doświadczenia z Drinim miałyby być zapowiedzią tego, co nas czeka, to decyzja ta była jak najbardziej słuszna.~
+
+@19986  = ~Ukradł mi kufel, panie!
+
+Zaledwie chwilę po tym, jak udało mi się zdobyć jedyny napój alkoholowy, którego Drini jeszcze nie zdążył wypić, zwinny – choć niezbyt rozgarnięty – złodziej sprzątnął mi go sprzed nosa! Sir Suleci może wiedzieć coś więcej o miejscu pobytu tego opryszka.~
+
+@19987  = ~Te trunki mnie kiedyś wykończą...
+
+Udało nam się zdobyć Arabellańskie wino od Monique, lecz ta skłonna do melodramatycznych gestów kobieta zatruła je, planując samobójstwo. Wątpię, by w takim stanie nadawało się jako składnik czarów, dlatego najlepiej będzie odwiedzić Suleciego oraz Kebodiego i zapytać ich o radę.~
+
+@19988  = ~Wyprawa do czarodzieja...
+
+Skoro zdobyte przez nas Arabellańskie wino jest zatrute, musimy je oczyścić, zanim oddamy je Driniemu. Suleci skierował nas do alchemika imieniem Jacobus, który mieszka w Dzielnicy Rządowej i rzekomo ma spore doświadczenie w podobnych sprawach.~
+
+@19989  = ~Wchodzi drużyna do baru...
+
+Spotkaliśmy dziś półelfa imieniem Drini, któremu postanowiliśmy pomóc. W zamian za spłacenie jego długu w karczmie obiecał wciągnąć nas w to, co określił jako jedną z najbardziej intrygujących i satysfakcjonujących przygód w naszym życiu. Mamy dostarczyć zestaw trunków, które posłużą jako składniki inkantacji mającej przyzwać sojuszników do obrony jego bezimiennej mocodawczyni przed kabałą złych czarodziejów. Brzmi ekscytująco! Drini polecił nam odszukać niejakich Sir Suleciego i Kebodiego w gospodzie Mithrest na Promenadzie, by rozpocząć zadanie. Sam zaś będzie czekał w Miedzianym Diademie.~
+
+@19990  = ~Wchodzi drużyna do baru...
+
+Spotkaliśmy dziś w Miedzianym Diademie półelfa imieniem Drini. To ewidentny moczymorda, który próbował wyłudzić od nas pieniądze na spłatę długu u karczmarza. Gdy odmówiliśmy, uciekł w popłochu. Wątpię, by prędko ponownie pojawił się w tej okolicy.~
+
+@19991  = ~Trzy gibberlingi – opowieść o przygodzie, intrydze i piwie...
+
+Cóż, to był doprawdy interesujący finał. Okazało się, że prośby Driniego dotyczyły głównie alkoholi do degustacji, a nie składników magicznych. Jedynym wyjątkiem była Wibrysa – co osobliwe, jedyny napój bezalkoholowy – której w swoim upojeniu użył do przyzwania trzech gibberlingów mających bronić jego pracodawczyni, wdowy po Golodonie Bezgrzywym. Wyszło na jaw, że ową rzekomo złowrogą kabałą była osławiona „Bełkocząca Dwunastka”. Po błyskawicznym rozprawieniu się z przyzwanymi sojusznikami magowie zaatakowali nas. Na szczęście zwyciężyliśmy, choć Drini zniknął przy pierwszej oznace kłopotów.~
+
+@19992  = ~Specjalista od przekrętów
+
+Ten cały „Przekręt” zaczyna być prawdziwym utrapieniem. Kebodi uważa, że może on ukrywać się gdzieś w dokach, poniżej Dzielnicy Mostów.~
+
+@19993  = ~Biała grappa Dalina jest tuż obok
+
+Biała grappa Dalina jest najwyraźniej tuż pod naszym nosem. A przynajmniej niemal. Sir Suleci twierdzi, że można ją znaleźć w Norze Siedmiu Dolin, znajdującej się nieopodal.~
+
+@19994  = ~Krasnoludy z Delosara
+
+Sir Suleci podał nam imię lokalnego krasnoludzkiego rzemieślnika – Cromwella – jako osoby, o której wspomniał „Duży”. Jego warsztat znajduje się gdzieś w Dokach.~
+
+@19995  = ~Krasnoludy z Delosara
+
+Miejmy nadzieję, że Sir Suleci ma rację i że w Tawernie Delosara, w Dzielnicy Mostów, faktycznie znajdziemy krasnoludzkich klientów, których szukamy.~
+
+@19996  = ~Na tropie Arabellańskiego wytrawnego
+
+Miejmy nadzieję, że Arabellańskie wytrawne nie jest zbyt rzadkim towarem. Skierowano nas do gospody Pod Krzywym Żurawiem, Morskiej Zdobyczy lub Pięciu Dzbanów, licząc na to, że uda nam się tam zdobyć choć odrobinę tego trunku.~
+
+@19997  = ~Dom Kawy na Promenadzie
+
+Dom Kawy na Promenadzie? Musieliśmy ją wcześniej przeoczyć. Wydaje się to najbardziej logiczne miejsce, by odnaleźć Wibrysę.~
+
+@19998  = ~Egzotyczne trunki w Pięciu Dzbanach
+
+Drini zdecydowanie nie ułatwił nam zadania. Sir Suleci zasugerował wizytę w Pięciu Dzbanach ze względu na bogaty wybór bardziej egzotycznych trunków.~
+
+@19999  = ~Podróż do Doków
+
+Szukając napoju, który mógłby przypaść do gustu marynarzowi, Sir Suleci zasugerował, by sprawdzić Morską Zdobycz.~
